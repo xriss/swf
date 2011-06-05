@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<swf version="5" compressed="0">
+  <Header framerate="9235" frames="2">
+    <size>
+      <Rectangle left="0" right="6000" top="0" bottom="6000"/>
+    </size>
+    <tags>
+      <UnknownTag id="0x309">
+        <data>cmZ4</data>
+      </UnknownTag>
+      <SetBackgroundColor>
+        <color>
+          <Color red="255" green="255" blue="255"/>
+        </color>
+      </SetBackgroundColor>
+      <DefineSound objectID="24" format="2" rate="1" is16bit="1" stereo="0" samples="5760">
+        <data>
+          <data>AAD/40LEAAAAA0gBQAAATEFNRTMuOTFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/jQsQALBsifZGcqAAAAgggwwwz/xyMkEgywXv+WThkADHiHt/xvAyIByYD91phfMDCIpAxWB/qQQAaGoGJxWAoJwbGPnSfK5omGjhe8DRplAxmDw4/+pBluAUABSoeuCgiAwsHgGAx/TUgz4GEQKIeVAMUB4DCAAGAJv/9324gGOYIIgYDA4W9hcALgPCz////x3C4CKEUKgcuQMcYzBFDwlD////8WQRAZsc8nzIcwiDrcZsg5Xf///KGQwpMQU1FMy45Maqqqqqqqqqqqqqq/+NCxAAsAzasB5ugAQAELAiGYEF4Mq/wAwnBI6pgaFf5e2MBgdX/xyxkQABzkoAaE4AX0wPjuD9hBxid8XQCDQBBALghfEMANBEyXTX4rUZkToBkxBDSfMi8OUI5FKkB/RG+JGA0TDeR9kUSMxHI6SRJr/HQHrhbkkigiXTQUVxjSaPtqMv+OIooHzAjCmWEUSykfRzLV//6r0ieLh1KYJup1Ja0WWlzE1//9lk0n48Pz9pwgkKg5cKDQqMlTEFNRTMuOTGqqqqqqqqqqqqqqqr/40LEAAAAA0gBwAAATEFNRTMuOTGqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv/jQsQAAAADSAAAAABMQU1FMy45Maqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq/+NCxAAAAANIAAAAAExBTUUzLjkxqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/40LEAAAAA0gAAAAATEFNRTMuOTGqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv/jQsQAAAADSAAAAABMQU1FMy45Maqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq/+NCxAAAAANIAAAAAExBTUUzLjkxqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/40LEAAAAA0gAAAAATEFNRTMuOTGqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqg==</data>
+        </data>
+      </DefineSound>
+      <Export>
+        <symbols>
+          <Symbol objectID="24" name="beep1"/>
+        </symbols>
+      </Export>
+      <StartSound objectID="24" stopPlayback="0" noMultiple="0" hasEnvelope="0" hasLoop="0" hasOutPoint="0" hasInPoint="0"/>
+      <ShowFrame/>
+      <DoAction>
+        <actions>
+          <Stop/>
+          <EndAction/>
+        </actions>
+      </DoAction>
+      <ShowFrame/>
+      <End/>
+    </tags>
+  </Header>
+</swf>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+#include "src/opts.as"
+
+#(
+local function dofile(filename)
+  local f = assert(loadfile(filename))
+  return f()
+end
+
+#)
+
+<movie width="960" height="480" framerate="25">
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+	
+	<library>
+		
+		<clip id="pief" import="art/pief.swf"/>
+
+#(
+local sfx_files=
+{
+	'rightthere',
+	'ohyea',
+	'win',
+	'smooch',
+	'back',
+}
+#)
+#for i,v in ipairs(sfx_files) do
+		<clip import="art/sfx/#(v).swf"/>
+#end
+		
+	</library>
+
+	<frame>
+	</frame>
+	
+</movie>
+
+

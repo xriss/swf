@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room>
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/bog_small.xml" />
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="360"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="320"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="280"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="240"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="200"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical.xml" >
+	<xyz
+	x_pos="0"
+	y_pos="0"
+	z_pos="600"
+	/>
+</vobj>
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical.xml" >
+	<xyz
+	x_pos="80"
+	y_pos="0"
+	z_pos="600"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/table.xml" >
+	<xyz
+	x_pos="0"
+	y_pos="0"
+	z_pos="0"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/sink.xml" >
+	<xyz
+	x_pos="160"
+	y_pos="0"
+	z_pos="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.corridor" title="Exit" >
+	<xyz
+	x_pos="0"
+	y_pos="0"
+	z_pos="300"
+	y_rot="90"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/pumpkin.xml">
+	<xyz
+	x_pos="50"
+	y_pos="0"
+	z_pos="300"
+	y_rot="0"
+	/>
+</vobj>
+
+</room></ville>

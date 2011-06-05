@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="9" width="640" height="480" framerate="50">
+
+<FileAttributes hasMetaData="0" useNetwork="network" />
+
+  <background color="#000000"/>
+
+
+#include "../wetsrc/art/preloader.xml"
+
+		
+		<library>
+
+	<clip id="vtard_shi" import="./art/vtard/shi.png" />
+
+
+	<clip id="level_01_bak" import="./art/levels/level_01.col.png" />
+
+
+	</library>
+		
+	<frame>
+	</frame>
+	
+
+</movie>
+
+

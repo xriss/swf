@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+#include "src/opts.as"
+
+<movie width="640" height="480" framerate="25">
+  <background color="#000080"/>
+
+#include "../wetsrc/art/preloader.xml"
+	
+	<library>
+	
+	<clip id="b_heart" import="art/heart.png"/>
+	<clip id="heart">
+		<frame> <place id="b_heart" x="-50" y="-50" depth="1"/> </frame>
+	</clip>
+
+		  <clip import="art/sfx/shot.swf"/>
+		  <clip import="art/sfx/bounce.swf"/>
+		  <clip import="art/sfx/Splash.swf"/>
+		  <clip import="art/sfx/plop2.swf"/>
+		  <clip import="art/sfx/wikwikwik.swf"/>
+		  <clip import="art/sfx/fillup.swf"/>
+		  <clip import="art/sfx/teleport.swf"/>
+		  <clip import="art/sfx/hearthit.swf"/>
+
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/#(v).swf"/>
+#end
+
+	</library>
+	
+	<frame>
+	</frame>
+	
+</movie>
+
+

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg1307"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   version="1.0"
+   sodipodi:docbase="C:\xix\swf\bb\bbow\art\brush"
+   sodipodi:docname="shoot.svg"
+   inkscape:export-filename="C:\xix\swf\bb\bbow\art\brush\bush.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs1309" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6865406"
+     inkscape:cx="59.110259"
+     inkscape:cy="42.778274"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     showborder="true"
+     inkscape:window-width="859"
+     inkscape:window-height="663"
+     inkscape:window-x="5"
+     inkscape:window-y="45" />
+  <metadata
+     id="metadata1312">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       transform="matrix(1.296715,0,0,1.292133,36.02759,22.236)"
+       style="fill:#ff0000;fill-opacity:1;stroke:#800000;stroke-width:1.54509068;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 42.061527,-13.901126 L 35.103997,57.860918 L 16.487589,28.807707 L -1.6540617,55.850523 L -24.048987,55.569209 L 9.2625921,23.691057 L -23.564991,15.954498 L 42.061527,-13.901126 z "
+       id="path3103"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>

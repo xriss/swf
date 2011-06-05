@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room class="Level 0">
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/zeegrind_title.xml" />
+
+
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="public.corridor/play" title="Exit" >
+	<xyz
+	x_pos="270"
+	y_pos="0"
+	z_pos="400"
+	y_rot="0"
+	/>
+</vobj>
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./1" title="Level 1" >
+	<xyz
+	x_pos="85"
+	y_pos="0"
+	z_pos="400"
+	y_rot="0"
+	/>
+</vobj>
+
+
+<vobj class="hook" id="1" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="20"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+<vobj class="hook" id="2" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="60"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+<vobj class="hook" id="3" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="100"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+
+<vroom name="1" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind1.xml" />
+<vroom name="2" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind2.xml" />
+<vroom name="3" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind3.xml" />
+<vroom name="4" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind4.xml" />
+<vroom name="5" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind5.xml" />
+<vroom name="6" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind6.xml" />
+<vroom name="7" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind7.xml" />
+<vroom name="8" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind8.xml" />
+<vroom name="9" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind9.xml" />
+<vroom name="10" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind10.xml" />
+<vroom name="11" src="http://data.wetgenes.com/game/s/ville/test/room/zeegrind11.xml" />
+
+</room></ville>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room>
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/shed_small.xml" />
+
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/broom_closet.xml" dest="./closet3" title="Broom Closet 3" >
+	<xyz
+	x_pos="50"
+	y_pos="0"
+	z_pos="720"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/broom_closet.xml" dest="./closet" title="Broom Closet 1" >
+	<xyz
+	x_pos="350"
+	y_pos="0"
+	z_pos="720"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="hook" id="1" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="50"
+	y_pos="0"
+	z_pos="100"
+	/>
+</vobj>
+<vobj class="hook" id="2" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="150"
+	y_pos="0"
+	z_pos="100"
+	/>
+</vobj>
+<vobj class="hook" id="3" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="250"
+	y_pos="0"
+	z_pos="100"
+	/>
+</vobj>
+<vobj class="hook" id="4" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="350"
+	y_pos="0"
+	z_pos="100"
+	/>
+</vobj>
+
+<vobj class="hook" id="5" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="50"
+	y_pos="0"
+	z_pos="200"
+	/>
+</vobj>
+<vobj class="hook" id="6" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="150"
+	y_pos="0"
+	z_pos="200"
+	/>
+</vobj>
+<vobj class="hook" id="7" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="250"
+	y_pos="0"
+	z_pos="200"
+	/>
+</vobj>
+<vobj class="hook" id="8" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="350"
+	y_pos="0"
+	z_pos="200"
+	/>
+</vobj>
+
+<vobj class="hook" id="9" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="50"
+	y_pos="0"
+	z_pos="300"
+	/>
+</vobj>
+<vobj class="hook" id="10" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="150"
+	y_pos="0"
+	z_pos="300"
+	/>
+</vobj>
+<vobj class="hook" id="11" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="250"
+	y_pos="0"
+	z_pos="300"
+	/>
+</vobj>
+<vobj class="hook" id="12" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="350"
+	y_pos="0"
+	z_pos="300"
+	/>
+</vobj>
+
+<vobj class="hook" id="13" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="50"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+<vobj class="hook" id="14" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="150"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+<vobj class="hook" id="15" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="250"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+<vobj class="hook" id="16" brain="closet" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="350"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+
+</room></ville>

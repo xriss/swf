@@ -1,0 +1,381 @@
+5 keys to fool them all and 1 butter knife to wing it.
+--------------------------------------------
+
+rom1 - screw2
+rom1_a - keya
+rom1_b - screw3
+rom1 [cushion] - lookey
+rom1_shoe - shoelace
+
+rom2 [rug] - dial
+rom2_belly - screw4
+rom2_rad - knife
+
+rom2_loo [mirror_click] - keyb
+rom3_loo - screw1 (circle)
+rom3_cock - bulb, screwhandle, rlyeh
+rom3_bowl - screw5
+
+47°9'S 126°43'W
+
+--------------------------------------------
+rom1.swf	
+--------------------------------------------
+[rom1_a] [rom1_b] [rom1_shoe]
+--------------------------------------------
+
+background ON
+image4lfa,rand4lfa ON
+image4lfaframe ON
+lookey ON
+cushion ON
+cushion_click OFF
+rom1_a ON
+rom1_b ON
+screw2 ON
+rom1_shoe ON
+flame1,flame ON
+flame1_inner,flame ON
+flame2,flame ON
+flame2_inner,flame ON
+flame3,flame ON
+flame3_inner,flame ON
+flame4,flame ON
+flame4_inner,flame ON
+flame5,flame ON
+flame5_inner,flame ON
+leftarrow ON
+rightarrow ON
+
+Wake up (blur effect / blinking black whole scene effect)
+
+click cushion swap cushion_click
+take lookey
+lookey OFF
+
+click rom1_shoe goto rom1_shoe.swf
+click rom1_b goto rom1_b.swf
+click rom1_a goto rom1_a.swf
+
+if chant.aiff is played,
+rom1_shoe OFF
+
+leftarrow goto rom2.swf
+rightarrow goto rom3.swf
+
+--------------------------------------------
+rom1_shoe.swf	
+--------------------------------------------
+
+background ON
+leftshoe ON
+rightshoe1 ON
+rightshoe2 OFF
+shoelace ON
+border ON
+backarrow ON
+
+if click shoelace
+rightshoe1 OFF
+rightshoe2 ON
+shoelace OFF
+
+backarrow goto rom1.swf
+
+--------------------------------------------
+rom1_b.swf	
+--------------------------------------------
+
+(1)
+background ON
+wardrobeb ON
+wonderful4 ON
+wonderful5 ON
+keya OFF
+drawer_b3_shut ON
+drawer_b2_shut ON
+drawer_b1_shut ON
+drawer_b0_shut ON
+drawer_b3_open OFF
+drawer_b2_open OFF
+drawer_b1_open OFF
+drawer_b0_open OFF
+flame2,flame ON
+flame2_inner,flame ON
+backarrow ON
+
+if keyb acquired from rom3_loo.swf,
+click drawer swap drawer_click
+keya ON to get keya
+click drawer1 swap drawer1_click
+click drawer2 swap drawer2_click
+click drawer3 swap drawer3_click
+else goto (1).
+
+backarrow goto rom1.swf
+
+--------------------------------------------
+rom1_a.swf	
+--------------------------------------------
+
+(1)
+background ON
+wardrobea ON
+wonderful1 ON
+wonderful2 ON
+wonderful3 ON
+screw3 ON
+drawer_a3_shut ON
+drawer_a2_shut ON
+drawer_a1_shut ON
+drawer_a0_shut ON
+drawer_a3_open OFF
+drawer_a2_open OFF
+drawer_a1_open OFF
+drawer_a0_open OFF
+flame4,flame ON
+flame4_inner,flame ON
+flame5,flame ON
+flame5_inner,flame ON
+backarrow ON
+
+if keya acquired from rom1_b.swf,
+click drawer swap drawer_click BUT
+drawer3_click OFF
+drawer2_click OFF
+drawer1_click OFF
+screw3 OFF
+
+click drawer1 swap drawer1_click BUT
+drawer3_click OFF
+drawer2_click OFF
+screw3 OFF
+
+click drawer2 swap drawer2_click BUT
+drawer3_click OFF
+screw3 OFF
+
+click drawer3 swap drawer3_click
+screw3 ON to get screw3
+else goto (1).
+
+backarrow goto rom1.swf
+
+You need to do all these steps to get to Screw 3. No skipping. :)
+
+
+--------------------------------------------
+rom2.swf
+--------------------------------------------
+[rom2_rad] [rom2_dial] [rom2_belly]
+--------------------------------------------
+
+eyeblink ON/OFF
+rug ON
+rug_click OFF
+dial OFF
+rom2_boil ON
+dial_click OFF
+redbutton OFF
+rom2_rad ON
+loki ON
+rom2_pent ON
+rom2_pentclick OFF
+num023 OFF
+window01 ON
+window11 OFF
+window02 ON
+window12 OFF
+window03 ON
+window13 OFF
+switch_click2 OFF unless activated by switch in rom3
+rightarrow ON
+
+rug swap rug_click and dial ON
+dial_click ON if dial_done ON in rom2_boil.swf
+redbutton ON if dial_click ON
+
+click dial_click to enable num23 ON
+
+window01 swap window11
+window02 swap window12
+window03 swap window13
+
+rom2_boil goto rom2_boil.swf
+
+rom2_pent swap rom2_pentclick
+rom2_pentclick goto rom2_belly.swf
+
+rom2_rad goto rom2_rad.swf
+
+rightarrow goto rom1.swf
+
+--------------------------------------------
+rom2_rad.swf
+--------------------------------------------
+
+background ON
+rad ON
+knife ON
+knife_hang OFF
+backarrow ON
+
+if shoelace [rom1_zom.swf] acquired, 
+knife_hang ON
+
+turn knife OFF
+
+backarrow goto rom2.swf
+
+--------------------------------------------
+rom2_boil.swf
+--------------------------------------------
+
+background ON
+boiler ON
+dial_dont ON
+dial_done OFF
+redbutton OFF
+backarrow ON
+
+if dial is acquired from rom2.swf,
+turn dial_done ON
+and turn redbutton ON
+
+backarrow goto rom2.swf
+
+--------------------------------------------
+rom2_belly.swf
+--------------------------------------------
+
+background ON
+loki ON
+drawer ON
+screw4 ON
+backarrow ON
+
+if screw4 clicked, enable rom4.swf (screw4 ON)
+and turn screw4 OFF
+
+backarrow goto rom2.swf
+
+
+--------------------------------------------
+rom3.swf (cthulhu)
+--------------------------------------------
+[rom3_peep]
+[rom3_lock] [rom3_phone] [rom3_cock]
+[rom3_ham]
+--------------------------------------------
+
+States of Switch:
+OFF
+When toilet is closed, switch_click2.
+When toilet is opened but bulb is NOT fixed, switch_click2.
+When toilet is opened but bulb is fixed, switch_click.
+ON
+All switch_clicks are turned OFF.
+
+click rom3_ham goto rom3_ham.swf
+
+click rom3_lock goto rom3_lock.swf
+
+click rom3_peep to see opposite room number 22. This changes from time to time.
+
+click on door_click to get to rom3_loo.swf
+nothing is clickable except for string to go to rom3_ceiling.swf
+
+close back door to reveal a rom3_cock which was not there previously.
+click rom3_cock to go to rom3_cock.swf
+break open rom3_cock with lock.
+numbers can be obtained when from the windows in rom2.swf
+
+rom3_cock includes bulb, screwhandle, rlyeh.
+rom3_cock2 ON after all items taken.
+
+these 8 numbers form the phone number to dial cthulhu to get magick chant.
+47°9'S 126°43'W
+
+click on rom3_phone to go to rom3_phone.swf
+
+after entering rlyeh onto rom3_phone, play chant.aiff
+
+chant:     That is not dead which can eternal lie.
+		   And with strange aeons even death may die.
+		   
+this chant will make rom1_zom disappear from rom1.swf
+		   
+use fruity loops to mimic words which are then drawn on to paper on screen for user to keep.
+
+--------------------------------------------
+rom3_ham.swf
+--------------------------------------------
+
+background ON
+box ON
+rlyeh OFF
+hammer ON
+glass_click OFF
+glass ON
+backarrow ON
+
+click glass swap glass_click
+
+if rlyeh acquired from rom3_cock.swf and after taking hammer,
+	glass OFF
+	glass_click ON
+	hammer OFF
+	rlyeh ON
+else
+	glass OFF
+	glass_click ON
+	hammer OFF
+	rlyeh OFF
+
+backarrow goto rom3.swf
+
+--------------------------------------------
+rom3_loo.swf
+--------------------------------------------
+			  [rom3_ceiling]
+					^
+[rom3_bowl] <- [rom3_loo] -> [rom3_tub]
+--------------------------------------------
+
+go back into rom3_loo and click string for rom3_ceiling to change lightbulb.
+only now is rom3_loo is in full function.
+open mirror to reveal key to keyb (mirror_click).
+
+click screw1 to get screw1.
+
+--------------------------------------------
+rom3_bowl.swf
+--------------------------------------------
+
+background ON
+box ON is button above toilet bowl. OFF when clicked.
+box_click OFF turns ON when box is OFF.
+screw5 OFF unless box is OFF.
+switch_click2 ON is when the toilet is dark. OFF when bulb is fixed and turned on.
+rightarrow ON goes back to rom3_loo.swf
+
+--------------------------------------------
+rom3_tub.swf
+--------------------------------------------
+
+background ON
+bubble ON
+bubble1 OFF
+bubble2 OFF
+bubble3 OFF
+screw1 OFF unless ring is clicked or screw1 is grabbed by player in rom3_loo.swf
+switch_click2 ON
+leftarrow ON
+
+bubble layers turn ON and OFF randomly alpha tween
+bubbles form in rom3_tub filled with dirty, murky water.
+
+
+
+
+

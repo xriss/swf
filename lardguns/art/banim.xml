@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="400" height="100" framerate="30">
+  <background color="#000080"/>
+
+	<frame>
+		<library>
+		
+		  <clip id="gunsanim" import="art/gunsanim.swf"/>
+		  <clip id="lardanim" import="art/lardanim.swf"/>
+		  <clip id="liesanim" import="art/liesanim.swf"/>
+		  <clip id="loveanim" import="art/loveanim.swf"/>
+		  <clip id="truthanim" import="art/truthanim.swf"/>
+		  
+		</library>
+	</frame>
+
+</movie>
+
+

@@ -1,0 +1,5 @@
+show title_01.png
+
+fade title_02.png left to right slow.
+
+fade title_03.png bottom to top slow.

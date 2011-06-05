@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img name="base" src="http://data.wetgenes.com/game/s/ville/test/vobj/shed_pot1.png">
+<xy
+	x_off="0"
+	y_off="-45"
+	
+	x_siz="230"
+	y_siz="45"
+/>
+</img>
+	
+<xy
+	x_min="0"
+	y_min="-45"
+	
+	x_max="230"
+	y_max="0"
+/>
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="205"
+	y_siz="-20"
+	z_siz="100"
+/>
+
+<node id="2">
+	<xyz
+		x_pos="40"
+		y_pos="-10"
+		z_pos="50"
+	/>
+</node>
+<node id="1">
+	<xyz
+		x_pos="100"
+		y_pos="-10"
+		z_pos="50"
+	/>
+</node>
+<node id="3">
+	<xyz
+		x_pos="160"
+		y_pos="-10"
+		z_pos="50"
+	/>
+</node>
+
+<brain type="pot">
+</brain>
+
+</vobj></ville>

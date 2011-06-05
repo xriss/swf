@@ -1,0 +1,5 @@
+background,,110
+tshit
+rightarrow,,100
+leftarrow
+border

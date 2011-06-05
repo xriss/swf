@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie width="800" height="600" framerate="30">
+  <background color="#004000"/>
+
+	<frame>
+		<library>
+		  <clip id="numbers" import="art/numbers.swf"/>
+		  <clip id="layout" import="art/layout.swf"/>
+		  <clip id="beep1" import="art/beep1.swf"/>
+		  <clip id="beep2" import="art/beep2.swf"/>
+		  <clip id="beep3" import="art/beep3.swf"/>
+		  <clip id="kriss" import="art/kriss.png"/>
+		  <font id="Verdana" name="Verdana" import="art/Verdana.ttf" glyphs=" .,/()!:;-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		</library>
+
+	</frame>
+</movie>
+
+

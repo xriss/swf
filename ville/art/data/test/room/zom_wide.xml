@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room>
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/zom_wide.xml" />
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.corridor" title="Exit" >
+	<xyz
+	x_pos="0"
+	y_pos="0"
+	z_pos="780"
+	y_rot="90"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/shelf.xml" >
+	<xyz
+	x_pos="200"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+
+</room></ville>

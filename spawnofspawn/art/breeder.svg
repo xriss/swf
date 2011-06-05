@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\xix\swf\spawnofspawn\art"
+   sodipodi:docname="breeder.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.1861113"
+     inkscape:cx="50.373483"
+     inkscape:cy="47.541239"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="100px"
+     height="100px"
+     inkscape:showpageshadow="false"
+     showgrid="true"
+     gridempspacing="5"
+     inkscape:window-width="890"
+     inkscape:window-height="654"
+     inkscape:window-x="4"
+     inkscape:window-y="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(1.006175,0,0,1.006175,0.485757,1.059984)"
+       style="fill:gray;fill-opacity:1;fill-rule:nonzero;stroke:black;stroke-width:3.97544932;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="M 80.983549,80.39089 L 59.048431,72.367677 L 49.2259,93.558221 L 39.388698,72.374482 L 17.459143,80.412881 L 25.482356,58.477763 L 4.2918118,48.655233 L 25.475551,38.818031 L 17.437151,16.888475 L 39.372269,24.911689 L 49.1948,3.7211445 L 59.032002,24.904884 L 80.961557,16.866484 L 72.938344,38.801602 L 94.128888,48.624133 L 72.945149,58.461334 L 80.983549,80.39089 z "
+       id="path1872" />
+  </g>
+</svg>

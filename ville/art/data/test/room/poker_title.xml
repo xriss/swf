@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room class="title">
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/wetpokr_title.xml" />
+
+
+<vobj id="play" class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./play" title="Play" >
+	<xyz
+	x_pos="115"
+	y_pos="0"
+	z_pos="380"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="public.corridor/play" title="Exit" >
+	<xyz
+	x_pos="215"
+	y_pos="0"
+	z_pos="380"
+	y_rot="0"
+	/>
+</vobj>
+
+
+<vroom name="play" src="http://data.wetgenes.com/game/s/ville/test/room/poker.xml" />
+
+</room></ville>

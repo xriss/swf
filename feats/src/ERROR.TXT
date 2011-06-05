@@ -1,0 +1,110 @@
+dump.lua:3: '=' expected near 'dump'
+.\dump.lua:3: loop or previous error loading module 'dump'
+stack traceback:
+	[C]: in function 'require'
+	.\dump.lua:3: in main chunk
+	[C]: in function 'require'
+	dump.lua:3: in main chunk
+	[C]: ?
+dump.lua:3: module 'luadump' not found:
+	no field package.preload['luadump']
+	no file '.\luadump.lua'
+	no file 'C:\xix\swf\bin\lua\luadump.lua'
+	no file 'C:\xix\swf\bin\lua\luadump\init.lua'
+	no file 'C:\xix\swf\bin\luadump.lua'
+	no file 'C:\xix\swf\bin\luadump\init.lua'
+	no file '.\luadump.dll'
+	no file 'C:\xix\swf\bin\luadump.dll'
+	no file 'C:\xix\swf\bin\loadall.dll'
+stack traceback:
+	[C]: in function 'require'
+	dump.lua:3: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 9) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 9) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 8) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 8) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: syntax error near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: syntax error near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 8) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 8) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 8) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 8) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+error loading module 'FeatData' from file '.\FeatData.lua':
+	.\FeatData.lua:10: '}' expected (to close '{' at line 8) near '='
+stack traceback:
+	[C]: ?
+	[C]: in function 'require'
+	test.lua:5: in main chunk
+	[C]: ?
+C:\xix\swf\bin\lua\dump.lua:57: bad argument #1 to 'pairs' (table expected, got boolean)
+stack traceback:
+	[C]: in function 'pairs'
+	C:\xix\swf\bin\lua\dump.lua:57: in function 'tree_pairs'
+	C:\xix\swf\bin\lua\dump.lua:137: in function 'tree'
+	test.lua:12: in main chunk
+	[C]: ?
+test.lua:12: attempt to index global 't' (a boolean value)
+stack traceback:
+	test.lua:12: in main chunk
+	[C]: ?

@@ -1,0 +1,3 @@
+<Files xml>
+SetHandler application/x-httpd-php
+</Files>

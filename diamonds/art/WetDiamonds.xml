@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="9" width="640" height="480" framerate="25">
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+
+
+	<library>
+	
+		  <clip import="art/sfx/boing.swf"/>
+		  <clip import="art/sfx/jar.swf"/>
+		  <clip import="art/sfx/bounce.swf"/>
+		  <clip import="art/sfx/swish.swf"/>
+		
+		<clip id="back" import="art/back.swf"/>
+		  
+<!--
+		  <clip id="vtard_kriss" import="art/vtard/kriss.png"/>
+		  <clip id="vtard_shi" import="art/vtard/shi.png"/>
+		  <clip id="vtard_me" import="art/vtard/me.png"/>
+		  <clip id="back_test" import="art/back_hex2_05x05_mck.png"/>
+-->
+
+
+
+#for ii,vv in ipairs( {"fire","earth","air","water","meta"} ) do
+#MAX_LOOP=9
+#if vv=="air" or vv=="earth" then MAX_LOOP=4 end
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		  <clip id="obj_#(vv)#(num)" import="art/objs/x50/#(vv)#(num).png"/>
+#end		  
+
+	<clip id="obj_#(vv)">
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+#end
+
+#if MAX_LOOP==4 then
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+#end
+#end
+	</clip>
+	
+#end
+
+
+		  <clip id="swf_splash" import="art/splash.swf"/>
+		  
+		  <clip id="swf_interface" import="art/interface.swf"/>
+		  
+<!--welcome to v9 of flash , still an alpha quality solution
+		  <clip import="art/sfx/swish.swf"/>
+		  <clip import="art/sfx/jingle.swf"/>
+-->
+
+	</library>
+
+	<frame>
+	</frame>
+	
+</movie>
+
+

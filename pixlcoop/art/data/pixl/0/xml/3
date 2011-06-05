@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pixl name="eeyore" dir="0" height="16" id="3" width="16" >
+ <link href="http://en.wikipedia.org/wiki/Eeyore" />
+ <text >
+  The original gloomy goth.
+ </text>
+ <img src="http://data.wetgenes.com/game/s/pixlcoop/pixl/0/img/eeyore.png" />
+</pixl>

@@ -1,0 +1,238 @@
+{ /* start of pass-thru C section */
+/*
+** This is the generated file produced from lua_wrapper.gg
+** Wrapper for Lua.
+**
+*/
+
+#include <stdlib.h>
+#include <string.h>
+#include <malloc.h>
+#include <stdio.h>
+
+/* Include the Lua API header files. */
+#include <lua.h>
+#include <lauxlib.h>
+#include <lualib.h>
+
+#include "lua-alchemy.h"
+#include "lstack.h"
+#include "bridge_as3_c.h"
+#include "bridge_lua_c.h"
+#include "bridge_as3_lua.h"
+#include "as3_lua_interface.h"
+#include "callbacks_as3_lua.h"
+
+/* AS3.h is included automatically by gluegen */
+
+/************************************************************
+* Lua Helper Functions
+************************************************************/
+
+/*
+* Creates the lua_state, opens the standard libs, and registers functions
+*/
+static lua_State * initialize_state()
+{
+  /* WARNING: Panic alert! Use L*_FN checkers here! */
+
+  lua_State * L = lua_open();
+
+  lua_atpanic(L, &panic_handler);
+
+  LCALL(L, stack);
+
+  lua_gc(L, LUA_GCSTOP, 0);  /* stop collector during initialization */
+
+  luaL_openlibs(L);
+
+  LCHECK_FN(L, stack, 0, fatal_error);
+
+  initialize_callbacks(L);
+
+  LCHECK_FN(L, stack, 0, fatal_error);
+
+  register_as3_lua_interface(L);
+
+  LCHECK_FN(L, stack, 0, fatal_error);
+
+  lua_pushliteral(L, AS3LUA_VERSION);
+  lua_setglobal(L, "_LUA_ALCHEMY");
+
+  lua_gc(L, LUA_GCRESTART, 0); /* restart collector */
+
+  LCHECK_FN(L, stack, 0, fatal_error);
+
+  return L;
+}
+
+/*
+* Reports error to trace.
+*/
+static int autotrace_error(lua_State * L, int status)
+{
+  if (status != 0)
+  {
+    const char * msg = NULL;
+
+    lua_pushvalue(L, -1); /* To preserve original value type */
+
+    msg = lua_tostring(L, -1);
+    if (msg == NULL)
+    {
+      msg = "(non-string)";
+    }
+
+    sztrace("Lua error:");
+    sztrace((char *)msg);
+    lua_pop(L, 1);
+  }
+
+  return status;
+}
+
+/*
+* This function will be called at the top of the generated main().
+* The GGINIT_DEFINED macro is required.
+*/
+#define GGINIT_DEFINED true
+static void ggInit()
+{
+  initialize_as3_constants();
+}
+
+/* end of passthru C section */
+}
+
+public function luaInitilizeState():(unsigned int)uint
+{
+  return (unsigned int)initialize_state();
+}
+
+public function luaClose(luaState:(lua_State *)uint):void
+{
+  /* Note: Keep these traces. It is easy to get bad things happening in final GC */
+  sztrace("luaClose() : begin");
+  lua_close(luaState);
+  sztrace("luaClose() : end");
+}
+
+public function doFile(luaState:(lua_State *)uint, strFileName:(AS3_Val)*):(AS3_Val)Array
+{
+  /*
+  * Experimental. Assuming strFileName to be added with CLibInit.supplyFile()
+  * or otherwise be available in the security sandbox.
+  */
+  /* WARNING: Panic alert! Use L*_FN checkers here! */
+
+  lua_State * L = luaState;
+  int status = 0;
+  AS3_Malloced_Str str = AS3_StringValue(strFileName);
+  AS3_Val res;
+
+  LCALL(L, stack);
+  if (LBASE(L, stack) != 0)
+  {
+    LERROR(L, stack, "dirty state stack");
+  }
+
+  lua_pushboolean(L, 1); /* Placeholder for execution status */
+
+  status = luaL_loadfile(L, str);
+
+  free(str);
+
+  if (status == 0)
+  {
+    LCHECK_FN(L, stack, 2, fatal_error);
+    SPAM(("doFile(): run begin"));
+    status = do_pcall_with_traceback(L, 0, LUA_MULTRET);
+    SPAM(("doFile(): run end"));
+  }
+
+  if (autotrace_error(L, status) != 0)
+  {
+    lua_pushboolean(L, 0); /* ERROR */
+    lua_replace(L, 1);
+    /* Error message is on stack */
+    /* NOTE: It is not necessary string! */
+  }
+
+  res = create_as3_value_from_lua_stack(L, 1, LTOP(L, stack), FALSE);
+
+  lua_pop(L, LEXTRA(L, stack)); /* Cleanup results */
+
+  return res;
+}
+
+public function luaDoString(luaState:(lua_State *)uint, strValue:(AS3_Val)*):(AS3_Val)Array
+{
+  /* WARNING: Panic alert! Use L*_FN checkers here! */
+
+  lua_State * L = luaState;
+
+  LCALL(L, stack);
+  if (LBASE(L, stack) != 0)
+  {
+    LERROR(L, stack, "dirty state stack");
+  }
+
+  SPAM(("luaDoString(): begin"));
+
+  int status = 0;
+  AS3_Malloced_Str str = AS3_StringValue(strValue);
+  AS3_Val res;
+
+  lua_pushboolean(L, 1); /* Placeholder for execution status */
+
+  status = luaL_loadbuffer(
+      L,
+      str,
+      AS3_IntValue(AS3_GetS(strValue, "length")),
+      "=luaDoString" /* TODO: Pass chunk name as an optional argument */
+    );
+
+  free(str);
+
+  if (status == 0)
+  {
+    LCHECK_FN(L, stack, 2, fatal_error);
+    SPAM(("luaDoString(): run begin"));
+    status = do_pcall_with_traceback(L, 0, LUA_MULTRET);
+    SPAM(("luaDoString(): run end"));
+  }
+
+  if (autotrace_error(L, status) != 0)
+  {
+    lua_pushboolean(L, 0); /* ERROR */
+    lua_replace(L, 1);
+    /* Error message is on stack */
+    /* NOTE: It is not necessary string! */
+  }
+
+  SPAM(("luaDoString(): before create_as3_value_from_lua_stack"));
+
+  res = create_as3_value_from_lua_stack(L, 1, LTOP(L, stack), FALSE);
+
+  SPAM(("luaDoString(): after create_as3_value_from_lua_stack"));
+
+  lua_pop(L, LEXTRA(L, stack)); /* Cleanup results */
+
+  SPAM(("luaDoString(): end"));
+
+  return res;
+}
+
+// TODO: Add luaDoStringThrow()?
+
+public function setGlobal(luaState:(lua_State *)uint, key:String, value:(AS3_Val)*):void
+{
+  push_as3_lua_userdata(luaState, value);
+  lua_setglobal(luaState, key);
+}
+
+public function setGlobalLuaValue(luaState:(lua_State *)uint, key:String, value:(AS3_Val)*):void
+{
+  push_as3_to_lua_stack(luaState, value);
+  lua_setglobal(luaState, key);
+}

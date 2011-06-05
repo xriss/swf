@@ -1,0 +1,43 @@
+"COMMENT","COMMAND","NAME","DATA",,,,,,,,
+,,,,,,,,,,,
+,"LINES",,,,,,,,,,
+,,1,"There once was a [NOUN] [PREPOSITION] [1][NOUN]",,,,,,,,
+,,2,"Who [VERB] [ADNOUN] [PNOUN] of [1][ANY]",,,,,,,,
+,,3,"Until [NAME] [VERB] [2][NOUN]",,,,,,,,
+,,4,"[VERB] [NOUN] a [2][NOUN]",,,,,,,,
+,,5,"So they [VERB] [PREPOSITION] a [NOUN] in the [1][NOUN]",,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,"RHYME",,,,,,,,,,
+,,"NOUN",,"night","bright","light","tight","fright",,,
+,,,,,,,,,,,
+,"RHYME",,,,,,,,,,
+,,"NOUN",,"stuff","cuff","snuff","muff",,,,
+,,"ADNOUN",,"tough","buff","enough",,,,,
+,,"VERB",,"puff","stuff",,,,,,
+,,,,,,,,,,,
+,"RHYME",,,,,,,,,,
+,,"NOUN",,"cat","hat","bat","rat","mat","pet","vet","corvette"
+,,"ADNOUN",,"wet","bad","fat",,,,,
+,,"VERB",,"pet","crept","spat","met","contact","set",,
+,,,,,,,,,,,
+,"LIST",,,,,,,,,,
+,,"NOUN",,"cupboard","television","door","pub","house","sofa","river","bus"
+,,,,"cheese","doll","umbrella","unicycle","trampoline","ball","donut","ashtray"
+,,,,,,,,,,,
+,,"PNOUN",,"fingers","socks","shoes","pants","bubbles","monkeys","apples","cars"
+,,,,"dresses","numbers","bloomers","geese","mice","minions","stairs","toasters"
+,,,,,,,,,,,
+,,"ADNOUN",,"smart","hard","soft","smooth","painful","tasty","solemn","derelict"
+,,,,"small","dapper","beautiful","disgusting","moist","wet","sharp","pointy"
+,,,,,,,,,,,
+,,"ADVERB",,"softly","quickly","slowly","gently","carefully","stoopidly","subtly","forcefully"
+,,,,,,,,,,,
+,,"VERB",,"connect","run","jump","walk","build","eat","drink","slurp"
+,,,,"sew","write","massage","hit","find","fondle","fumble","hurl"
+,,,,,,,,,,,
+,,"NAME",,"Mark","Andrew","Trevor","Alice","Tigger","Eeyore","Sponge Bob","Vince"
+,,,,"Bob","Frank","Betty","George","Winnie","Bambi","Xanadu","Darcy"
+,,,,,,,,,,,
+,,"PREPOSITION",,"into","over","under","through","about","from","in","out"
+,,,,"before","after","beyond","on","off","away","above","below"

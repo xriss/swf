@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="rot4x4">
+<img src="http://data.wetgenes.com/game/s/ville/test/vobj/solid_aether_face.png" />
+<xy
+	x_off="-50"
+	y_off="-90"
+/>
+</anim>
+
+<brain type="generic">
+</brain>
+
+</vobj></ville>

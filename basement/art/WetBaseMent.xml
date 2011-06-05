@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie width="960" height="480" framerate="25">
+  <background color="#000000"/>
+
+
+#include "../wetsrc/art/preloader.xml"
+ 
+ 
+	<library>
+	
+
+		  <clip import="art/sfx/jump.swf"/>
+		  <clip import="art/sfx/dribble.swf"/>
+		  <clip import="art/sfx/step.swf"/>
+		  <clip import="art/sfx/boing.swf"/>
+		  <clip import="art/sfx/jar.swf"/>
+		  <clip import="art/sfx/bounce.swf"/>
+		  <clip import="art/sfx/splash.swf"/>
+		  <clip import="art/sfx/wikwikwik.swf"/>
+		  <clip import="art/sfx/plop2.swf"/>
+		  
+		  
+
+<!--
+-->
+
+#if VERSION_SITE=="pepere" then
+
+	<clip id="vtard_blob" import="./art/vtard/blob.png" />
+
+	<clip id="level_01_bak_mini" import="./art/levels/level_01.bak.mini.jpg" />
+	<clip id="level_02_bak_mini" import="./art/levels/level_02.bak.mini.jpg" />
+	<clip id="level_03_bak_mini" import="./art/levels/level_03.bak.mini.jpg" />
+	<clip id="level_04_bak_mini" import="./art/levels/level_04.bak.mini.jpg" />
+	<clip id="level_05_bak_mini" import="./art/levels/level_05.bak.mini.jpg" />
+	<clip id="level_06_bak_mini" import="./art/levels/level_06.bak.mini.jpg" />
+	<clip id="level_07_bak_mini" import="./art/levels/level_07.bak.mini.jpg" />
+	<clip id="level_08_bak_mini" import="./art/levels/level_08.bak.mini.jpg" />
+	<clip id="level_09_bak_mini" import="./art/levels/level_09.bak.mini.jpg" />
+	<clip id="level_10_bak_mini" import="./art/levels/level_10.bak.mini.jpg" />
+	
+	<clip id="level_01_bak">
+		<frame> <place id="level_01_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_02_bak">
+		<frame> <place id="level_02_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_03_bak">
+		<frame> <place id="level_03_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_04_bak">
+		<frame> <place id="level_04_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_05_bak">
+		<frame> <place id="level_05_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_06_bak">
+		<frame> <place id="level_06_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_07_bak">
+		<frame> <place id="level_07_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_08_bak">
+		<frame> <place id="level_08_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_09_bak">
+		<frame> <place id="level_09_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+	<clip id="level_10_bak">
+		<frame> <place id="level_10_bak_mini" scale="2" depth="1"/> </frame>
+	</clip>
+		
+#else
+
+		  <clip import="art/sfx/teleport.swf"/>
+		  
+		  
+	<clip id="vtard_polly" import="./art/vtard/polly.png"/>
+	<clip id="vtard_morf" import="./art/vtard/morf.png"/>
+	
+	<clip id="vtard_kriss" import="./art/vtard/kriss.png"/>
+	<clip id="vtard_rodger" import="./art/vtard/rodger.png"/>
+	<clip id="vtard_shi" import="./art/vtard/shi.png" />
+
+
+	<clip id="vtard_blob" import="./art/vtard/blob.png" />
+	<clip id="vtard_davey" import="./art/vtard/davey.png" />
+	<clip id="vtard_morley" import="./art/vtard/morley.png" />
+
+	<clip id="vtard_gay" import="./art/vtard/gay.png" />
+	<clip id="vtard_kolumbo" import="./art/vtard/kolumbo.png" />
+	<clip id="vtard_bonnie" import="./art/vtard/bonnie.png" />
+	<clip id="vtard_colonel" import="./art/vtard/colonel.png" />
+
+
+	<clip id="level_01_bak" import="./art/levels/level_01.bak.png" />
+	<clip id="level_02_bak" import="./art/levels/level_02.bak.png" />
+	<clip id="level_03_bak" import="./art/levels/level_03.bak.png" />
+	<clip id="level_04_bak" import="./art/levels/level_04.bak.png" />
+	<clip id="level_05_bak" import="./art/levels/level_05.bak.png" />
+	<clip id="level_06_bak" import="./art/levels/level_06.bak.png" />
+	<clip id="level_07_bak" import="./art/levels/level_07.bak.png" />
+	<clip id="level_08_bak" import="./art/levels/level_08.bak.png" />
+	<clip id="level_09_bak" import="./art/levels/level_09.bak.png" />
+	<clip id="level_10_bak" import="./art/levels/level_10.bak.png" />
+
+#end
+
+		  
+		  <clip id="water_chars" import="./art/water_chars.png"/>
+		  
+		<clip id="auth_kriss"	import="../wetsrc/art/auth_kriss.png" />
+		<clip id="auth_shi"		import="../wetsrc/art/auth_shi.png" />
+		
+		<clip id="icon_digg"	import="./art/digg.png" />
+		<clip id="icon_stumble"	import="./art/stumble.png" />
+		
+	
+		<clip id="bumper0" import="./art/bumper.png"/>
+		<clip id="bumper">
+			<frame> <place id="bumper0" x="-30" y="-30" depth="1"/> </frame>
+		</clip>
+
+		<clip id="whirl0" import="./art/whirl.png"/>
+		<clip id="whirl">
+			<frame> <place id="whirl0" x="-30" y="-30" depth="1"/> </frame>
+		</clip>
+		
+		<clip id="cannon_bak0" import="./art/cannon_bak.png"/>
+		<clip id="cannon_bak">
+			<frame> <place id="cannon_bak0" x="-30" y="-30" depth="1"/> </frame>
+		</clip>
+		
+		<clip id="cannon_for0" import="./art/cannon_for.png"/>
+		<clip id="cannon_for">
+			<frame> <place id="cannon_for0" x="-30" y="-30" depth="1"/> </frame>
+		</clip>
+		
+#for ii,vv in ipairs( {"meta"} ) do
+#MAX_LOOP=9
+#if vv=="air" or vv=="earth" then MAX_LOOP=4 end
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		  <clip id="obj_#(vv)#(num)" import="art/x50/#(vv)#(num).png"/>
+#end		  
+
+	<clip id="obj_#(vv)">
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+#end
+
+#if MAX_LOOP==4 then
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+#end
+#end
+	</clip>
+	
+#end
+
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/screens/#(v).swf"/>
+#end
+
+	</library>
+
+	<frame>
+	</frame>
+	
+</movie>
+
+

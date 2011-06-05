@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><back>
+
+<img src="http://data.wetgenes.com/game/s/ville/test/back/kickabout.png" />
+
+<xy
+	x_org="0"
+	y_org="380"
+	
+	x_min="0"
+	y_min="0"
+	
+	x_max="1380"
+	y_max="400"
+/>
+	
+<xyz
+	x_org="0"
+	y_org="0"
+	z_org="0"
+	
+	x_min="0"
+	y_min="-400"
+	z_min="0"
+	
+	x_max="1200"
+	y_max="0"
+	z_max="720"
+/>
+
+</back></ville>

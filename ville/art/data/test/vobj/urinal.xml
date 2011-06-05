@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img name="base,dirt0" src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.png">
+<xy
+	x_off="-16"
+	y_off="-44"
+	
+	x_siz="32"
+	y_siz="48"
+/>
+</img>
+
+<img name="dirt1" src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal_dirt1.png">
+<xy
+	x_off="-16"
+	y_off="-44"
+	
+	x_siz="32"
+	y_siz="48"
+/>
+</img>
+
+<img name="dirt2" src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal_dirt2.png">
+<xy
+	x_off="-16"
+	y_off="-44"
+	
+	x_siz="32"
+	y_siz="48"
+/>
+</img>
+
+<img name="dirt3" src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal_dirt3.png">
+<xy
+	x_off="-16"
+	y_off="-44"
+	
+	x_siz="32"
+	y_siz="48"
+/>
+</img>
+
+<img name="dirt4" src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal_dirt4.png">
+<xy
+	x_off="-16"
+	y_off="-44"
+	
+	x_siz="32"
+	y_siz="48"
+/>
+</img>
+
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="0"
+	y_siz="0"
+	z_siz="0"
+/>
+
+<brain type="urinal">
+</brain>
+
+</vobj></ville>

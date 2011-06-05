@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img src="http://data.wetgenes.com/game/s/ville/test/vobj/pumpkin.png">
+<xy
+	x_off="-30"
+	y_off="-45"
+	
+	x_siz="60"
+	y_siz="50"
+/>
+</img>
+
+<xy
+	x_min="-20"
+	y_min="-40"
+
+	x_max="20"
+	y_max="0"
+/>
+
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="0"
+	y_siz="0"
+	z_siz="0"
+/>
+
+
+<brain type="pumpkin">
+</brain>
+
+</vobj></ville>

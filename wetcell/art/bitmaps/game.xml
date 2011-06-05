@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<movie version="8" width="800" height="600" framerate="50">
+
+  <background color="#000000"/>
+	  
+<library>
+<clip id="X4b1474b21" import="out/game_01.png"/>
+<clip id="X4b1474b22" import="out/game_02.png"/>
+<clip id="X4b1474b23" import="out/game_03.png"/>
+<clip id="X4b1474b24" import="out/game_04.png"/>
+<clip id="X4b1474b25" import="out/game_05.png"/>
+<clip id="X4b1474b26" import="out/game_06.png"/>
+<clip id="X4b1474b27" import="out/game_07.png"/>
+<clip id="X4b1474b28" import="out/game_08.png"/>
+<clip id="X4b1474b29" import="out/game_09.png"/>
+<clip id="X4b1474b210" import="out/game_10.png"/>
+</library>
+<frame>
+<place id="X4b1474b21" x="5" y="553" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b22" x="3" y="436" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b23" x="18" y="521" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b24" x="20" y="498" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b25" x="13" y="472" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b26" x="14" y="445" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b27" x="32" y="526" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b28" x="26" y="503" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b29" x="18" y="477" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474b210" x="19" y="450" depth="1"/> 
+</frame>
+</movie>

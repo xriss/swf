@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="10" width="640" height="480" framerate="50">
+
+<FileAttributes hasMetaData="0" useNetwork="network" />
+
+  <background color="#000000"/>
+
+		<library>
+<!--
+		  <clip id="menu_back" import="art/menuback.640x480.png"/>
+		  <clip id="menu_back" import="art/menu.640x480.png"/>
+-->
+		</library>
+
+#include "../wetsrc/art/preloader.xml"
+
+		
+		<library>
+
+		  <clip id="car1" import="art/car1.png"/>
+				
+		  <clip id="roadl" import="art/leftroad.png"/>
+		  <clip id="roadr" import="art/rightroad.png"/>
+
+		</library>
+		
+	<frame>
+	</frame>
+	
+
+</movie>
+
+

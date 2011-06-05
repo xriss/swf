@@ -1,0 +1,36 @@
+package ${PACKAGE_NAME}
+{
+  import flash.utils.ByteArray;
+  import flash.system.Security;
+
+  public class ${ASSETS_CLASS_NAME}
+  {
+    ${DECLARE_FILES}
+
+    private static var _filesystemRoot:String;
+
+    public static function filesystemRoot():String
+    {
+      return _filesystemRoot;
+    }
+
+    public static function init(libInitializer:*):void
+    {
+      ${REGISTER_FILES}
+
+      if (
+           Security.sandboxType == Security.LOCAL_WITH_FILE
+        || Security.sandboxType == Security.LOCAL_TRUSTED
+        )
+      {
+        _filesystemRoot = ${FILESYSTEM_ROOT};
+      }
+      else
+      {
+        _filesystemRoot = "builtin://";
+      }
+
+      trace("${PACKAGE_NAME}::${ASSETS_CLASS_NAME}: filesystem root is set to " + _filesystemRoot);
+    }
+  }
+}

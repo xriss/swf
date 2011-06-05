@@ -1,0 +1,102 @@
+<project name="project-include">
+
+  <!-- figure out the absolute path to this build file -->
+  <dirname property="etc.dir" file="${ant.file.project-include}"/>
+  <import file="${etc.dir}/flex-include.xml"/>
+
+  <!-- overridable properties -->
+  <property name="flex.use-network" value="false"/>
+  <property name="app.source-suffix" value="as"/>
+  <property name="app.source-dir" value="."/>
+  <property name="app.package-dir" value="."/>
+  <property name="app.library-dir" value="."/>
+
+  <!-- explains things -->
+  <target name="help">
+    <echo>The following targets are available:</echo>
+    <echo>  ant compile - builds your project</echo>
+    <echo>  ant test - builds game projects and runs them in a test environment</echo>
+    <echo>  ant -Dplayers=4 test - runs multiple test clients for multiplayer testing</echo>
+    <echo>  ant clean - cleans out build resluts</echo>
+  </target>
+
+  <!-- determines whether the top-level aslib has been built -->
+  <target name="checktop">
+    <condition property="aslib.built">
+      <available file="${build.root}/dist/whirled.swc"/>
+    </condition>
+  </target>
+
+  <!-- builds the top-level aslib if necessary -->
+  <target name="buildtop" depends="checktop" unless="aslib.built">
+    <echo>Building the Whirled shared Flash library...</echo>
+    <ant dir="${build.root}" target="aslib"/>
+  </target>
+
+  <!-- builds our SWF file -->
+  <target name="compile" depends="prepare-flex,buildtop">
+    <java jar="${flex.path}/lib/mxmlc.jar" fork="true" failonerror="true">
+      <arg value="-load-config"/>
+      <arg value="${etc.dir}/whirled-config.xml"/>
+      <arg value="-library-path+=${app.library-dir}"/>
+      <arg value="-use-network=${flex.use-network}"/>
+      <arg value="-compiler.source-path=${app.source-dir}"/>
+      <arg value="-file-specs"/>
+      <arg value="${app.source-dir}/${app.package-dir}/${app.name}.${app.source-suffix}"/>
+      <arg value="-output"/>
+      <arg value="${app.name}.swf"/>
+    </java>
+  </target>
+
+  <!-- builds our SWF file in debug mode -->
+  <target name="debug" depends="prepare-flex,buildtop">
+    <java jar="${flex.path}/lib/mxmlc.jar" fork="true" failonerror="true">
+      <arg value="-load-config"/>
+      <arg value="${etc.dir}/whirled-config.xml"/>
+      <arg value="-library-path+=${app.library-dir}"/>
+      <arg value="-use-network=${flex.use-network}"/>
+      <arg value="-compiler.debug"/>
+      <arg value="-compiler.verbose-stacktraces=true"/>
+      <arg value="-compiler.source-path=${app.source-dir}"/>
+      <arg value="-file-specs"/>
+      <arg value="${app.source-dir}/${app.package-dir}/${app.name}.${app.source-suffix}"/>
+      <arg value="-output"/>
+      <arg value="${app.name}.swf"/>
+    </java>
+  </target>
+
+  <!-- cleans out the compiled SWF -->
+  <target name="clean">
+    <delete>
+       <fileset file="${app.name}.swf"/>
+    </delete>
+  </target>
+
+  <!-- a target for building and running the game client -->
+  <property name="players" value="1"/>
+  <target name="test" depends="compile">
+    <!-- make sure the build.properties file exists -->
+    <fail>
+      <condition><not><isset property="player.path"/></not></condition>
+      Please copy the build.properties.dist file to build.properties in the
+      ${build.root} directory and edit the build properties file to point to
+      your standalone Flash player.
+    </fail>
+
+    <copy file="${app.name}.swf" tofile="${build.root}/dist/game.swf"/>
+
+    <!-- start the server which will start up the clients -->
+    <java classname="com.whirled.server.WhirledServer" fork="true">
+      <sysproperty key="whirled.root" value="${build.root}"/>
+      <sysproperty key="players" value="${players}"/>
+      <sysproperty key="party" value="${party}"/>
+      <sysproperty key="flash.player" value="${player.path}"/>
+      <classpath>
+        <fileset dir="${build.root}/dist" includes="whirled-code.jar"/>
+        <fileset dir="${build.root}/dist" includes="whirled-data.jar"/>
+        <fileset dir="${build.root}/dist/lib" includes="*.jar"/>
+      </classpath>
+    </java>
+  </target>
+
+</project>

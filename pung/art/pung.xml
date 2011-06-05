@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie width="800" height="600" framerate="30">
+  <background color="#004000"/>
+
+	<frame>
+		<library>
+		  <font import="../_vera/Vera.ttf" 		glyphs=" .,/()!:;-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		  <clip id="layout" import="art/layout.swf"/>
+		  <clip id="numbers" import="art/numbers.swf"/>
+		  <clip import="art/beep1.swf"/>
+		  <clip import="art/beep2.swf"/>
+		  <clip import="art/beep3.swf"/>
+		  <clip id="kriss" import="art/kriss.png"/>
+		</library>
+	</frame>
+</movie>
+
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img name="base" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.png">
+<xy
+	x_off="-10"
+	y_off="-15"
+	
+	x_siz="20"
+	y_siz="15"
+/>
+</img>
+	
+<xy
+	x_min="-10"
+	y_min="-15"
+	
+	x_max="10"
+	y_max="0"
+/>
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="0"
+	y_siz="0"
+	z_siz="0"
+/>
+
+<node id="1">
+	<xyz
+		x_pos="0"
+		y_pos="-10"
+		z_pos="0"
+	/>
+</node>
+
+<brain type="hook">
+</brain>
+
+</vobj></ville>

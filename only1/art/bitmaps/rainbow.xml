@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<movie version="8" width="640" height="480" framerate="50">
+
+  <background color="#000000"/>
+	  
+<library>
+<clip id="X4b8ed1f61" import="out/rainbow_01.png"/>
+<clip id="X4b8ed1f62" import="out/rainbow_02.png"/>
+<clip id="X4b8ed1f63" import="out/rainbow_03.png"/>
+</library>
+<frame>
+<place id="X4b8ed1f61" x="0" y="192" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b8ed1f62" x="24" y="105" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b8ed1f63" x="526" y="291" depth="1"/> 
+</frame>
+</movie>

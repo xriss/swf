@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img src="http://data.wetgenes.com/game/s/ville/test/vobj/football.png">
+<xy
+	x_off="-20"
+	y_off="-20"
+	
+	x_siz="40"
+	y_siz="40"
+/>
+</img>
+
+<xy
+	x_min="-20"
+	y_min="-20"
+	
+	x_max="20"
+	y_max="20"
+/>
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="-15"
+	z_off="0"
+	
+	x_siz="40"
+	y_siz="40"
+	z_siz="40"
+/>
+
+<brain type="ball">
+</brain>
+
+</vobj></ville>

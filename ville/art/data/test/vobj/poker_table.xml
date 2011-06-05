@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img name="base" src="http://data.wetgenes.com/game/s/ville/test/vobj/poker_table.png">
+<xy
+	x_off="10"
+	y_off="-100"
+	
+	x_siz="440"
+	y_siz="120"
+/>
+</img>
+	
+<xy
+	x_min="0"
+	y_min="-100"
+	
+	x_max="440"
+	y_max="0"
+/>
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="400"
+	y_siz="-20"
+	z_siz="400"
+/>
+
+<brain type="poker">
+</brain>
+
+</vobj></ville>

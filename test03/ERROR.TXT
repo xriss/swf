@@ -1,0 +1,19 @@
+C:\wet\swf\bin\lua\dump.lua:57: bad argument #1 to 'pairs' (table expected, got nil)
+stack traceback:
+	[C]: in function 'pairs'
+	C:\wet\swf\bin\lua\dump.lua:57: in function 'tree_pairs'
+	C:\wet\swf\bin\lua\dump.lua:176: in function 'tree'
+	test.lua:21: in main chunk
+	[C]: ?
+C:\wet\swf\bin\lua\simpxml.lua:93: attempt to call global 'ipairs' (a nil value)
+stack traceback:
+	C:\wet\swf\bin\lua\simpxml.lua:93: in function 'child'
+	test.lua:20: in main chunk
+	[C]: ?
+C:\wet\swf\bin\lua\simpxml.lua:95: bad argument #1 to 'lower' (string expected, got nil)
+stack traceback:
+	[C]: in function 'lower'
+	C:\wet\swf\bin\lua\simpxml.lua:95: in function 'child'
+	test.lua:20: in main chunk
+	[C]: ?
+test.lua:36: ')' expected near 'v'

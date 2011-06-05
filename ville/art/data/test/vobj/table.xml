@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img name="base" src="http://data.wetgenes.com/game/s/ville/test/vobj/table.png">
+<xy
+	x_off="0"
+	y_off="-45"
+	
+	x_siz="190"
+	y_siz="50"
+/>
+</img>
+	
+<xy
+	x_min="0"
+	y_min="-40"
+	
+	x_max="160"
+	y_max="0"
+/>
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="160"
+	y_siz="-40"
+	z_siz="80"
+/>
+
+<brain type="generic">
+</brain>
+
+</vobj></ville>

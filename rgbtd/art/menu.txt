@@ -1,0 +1,6 @@
+background
+title
+play
+moregames
+about
+getcode

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="640" height="480" framerate="25">
+ <background color="#000000"/>
+
+	<library>
+<!--
+		<clip id="splash_brandead"		import="art/brandead.300x250.png" />
+-->
+		<clip id="serpent" import="../brandead/art/serpent.swf"/>
+		<clip id="splash_brandead">
+			<frame> <place id="serpent" x="0" y="150" scale="1" depth="1"/> </frame>
+		</clip>
+	</library>
+
+	<frame>
+	</frame>
+
+</movie>
+
+

@@ -1,0 +1,241 @@
+{1
+  {1
+    {1
+      1=There once was a [NOUN] [PREPOSITION] [1][NOUN]
+    }1
+    {2
+      1=Who [VERB] [ADNOUN] [PNOUN] of [1][ANY]
+    }2
+    {3
+      1=Until [NAME] [VERB] [2][NOUN]
+    }3
+    {4
+      1=[VERB] [NOUN] a [2][NOUN]
+    }4
+    {5
+      1=So they [VERB] [PREPOSITION] a [NOUN] in the [1][NOUN]
+    }5
+  }1
+}1
+{2
+  {PREPOSITION
+    1=into
+    2=over
+    3=under
+    4=through
+    5=about
+    6=from
+    7=in
+    8=out
+    9=before
+    10=after
+    11=beyond
+    12=on
+    13=off
+    14=away
+    15=above
+    16=below
+  }PREPOSITION
+  {PNOUN
+    1=fingers
+    2=socks
+    3=shoes
+    4=pants
+    5=bubbles
+    6=monkeys
+    7=apples
+    8=cars
+    9=dresses
+    10=numbers
+    11=bloomers
+    12=geese
+    13=mice
+    14=minions
+    15=stairs
+    16=toasters
+  }PNOUN
+  {NAME
+    1=Mark
+    2=Andrew
+    3=Trevor
+    4=Alice
+    5=Tigger
+    6=Eeyore
+    7=Sponge Bob
+    8=Vince
+    9=Bob
+    10=Frank
+    11=Betty
+    12=George
+    13=Winnie
+    14=Bambi
+    15=Xanadu
+    16=Darcy
+  }NAME
+  {ADNOUN
+    1=tough
+    2=buff
+    3=enough
+    4=wet
+    5=bad
+    6=fat
+    7=smart
+    8=hard
+    9=soft
+    10=smooth
+    11=painful
+    12=tasty
+    13=solemn
+    14=derelict
+    15=small
+    16=dapper
+    17=beautiful
+    18=disgusting
+    19=moist
+    20=wet
+    21=sharp
+    22=pointy
+  }ADNOUN
+  {NOUN
+    1=night
+    2=bright
+    3=light
+    4=tight
+    5=fright
+    6=stuff
+    7=cuff
+    8=snuff
+    9=muff
+    10=cat
+    11=hat
+    12=bat
+    13=rat
+    14=mat
+    15=pet
+    16=vet
+    17=corvette
+    18=cupboard
+    19=television
+    20=door
+    21=pub
+    22=house
+    23=sofa
+    24=river
+    25=bus
+    26=cheese
+    27=doll
+    28=umbrella
+    29=unicycle
+    30=trampoline
+    31=ball
+    32=donut
+    33=ashtray
+  }NOUN
+  {ADVERB
+    1=softly
+    2=quickly
+    3=slowly
+    4=gently
+    5=carefully
+    6=stoopidly
+    7=subtly
+    8=forcefully
+  }ADVERB
+  {VERB
+    1=puff
+    2=stuff
+    3=pet
+    4=crept
+    5=spat
+    6=met
+    7=contact
+    8=set
+    9=connect
+    10=run
+    11=jump
+    12=walk
+    13=build
+    14=eat
+    15=drink
+    16=slurp
+    17=sew
+    18=write
+    19=massage
+    20=hit
+    21=find
+    22=fondle
+    23=fumble
+    24=hurl
+  }VERB
+  {1
+    1=There once was a [NOUN] [PREPOSITION] [1][NOUN]
+  }1
+  {2
+    1=Who [VERB] [ADNOUN] [PNOUN] of [1][ANY]
+  }2
+  {3
+    1=Until [NAME] [VERB] [2][NOUN]
+  }3
+  {4
+    1=[VERB] [NOUN] a [2][NOUN]
+  }4
+  {5
+    1=So they [VERB] [PREPOSITION] a [NOUN] in the [1][NOUN]
+  }5
+}2
+{3
+  {NOUN
+    1=night
+    2=bright
+    3=light
+    4=tight
+    5=fright
+  }NOUN
+}3
+{4
+  {ADNOUN
+    1=tough
+    2=buff
+    3=enough
+  }ADNOUN
+  {NOUN
+    1=stuff
+    2=cuff
+    3=snuff
+    4=muff
+  }NOUN
+  {VERB
+    1=puff
+    2=stuff
+  }VERB
+}4
+{5
+  {ADNOUN
+    1=wet
+    2=bad
+    3=fat
+  }ADNOUN
+  {NOUN
+    1=cat
+    2=hat
+    3=bat
+    4=rat
+    5=mat
+    6=pet
+    7=vet
+    8=corvette
+  }NOUN
+  {VERB
+    1=pet
+    2=crept
+    3=spat
+    4=met
+    5=contact
+    6=set
+  }VERB
+}5
+.\wetlim.lua:156: attempt to get length of field '?' (a nil value)
+stack traceback:
+	.\wetlim.lua:156: in function 'gene'
+	./test.lua:16: in main chunk
+	[C]: ?

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie width="640" height="480" framerate="25">
+  <background color="#000000"/>
+
+
+#include "../wetsrc/art/preloader.xml"
+
+	
+	<library>
+	
+
+		  <clip import="art/sfx/jump.swf"/>
+		  <clip import="art/sfx/step.swf"/>
+		  <clip import="art/sfx/boing.swf"/>
+		  <clip import="art/sfx/jar.swf"/>
+<!--
+		  <clip import="art/sfx/bounce.swf"/>
+		  <clip import="art/sfx/dribble.swf"/>
+		  <clip import="art/sfx/splash.swf"/>
+		  <clip import="art/sfx/wikwikwik.swf"/>
+		  <clip import="art/sfx/plop2.swf"/>
+		  <clip import="art/sfx/teleport.swf"/>
+-->
+		  
+		  
+#if VERSION_SITE=="pepere" then
+
+		  <clip import="art/sfx/001.swf"/>
+		  
+#else
+		  <clip import="art/sfx/001.swf"/>
+		  <clip import="art/sfx/002.swf"/>
+		  <clip import="art/sfx/003.swf"/>
+		  <clip import="art/sfx/004.swf"/>
+		  <clip import="art/sfx/005.swf"/>
+#end		  
+
+
+	<clip id="vtard_shi" import="./art/vtard/shi.png" />
+
+
+	<clip id="level_01_bak" import="./art/levels/level_01.bak.swf" />
+<!--
+	<clip id="level_01_bak_0" import="./art/levels/level_01.bak.0.png" />
+	<clip id="level_01_bak_1" import="./art/levels/level_01.bak.1.png" />
+	<clip id="level_01_bak_2" import="./art/levels/level_01.bak.2.png" />
+	<clip id="level_01_bak_3" import="./art/levels/level_01.bak.3.png" />
+	<clip id="level_01_bak_4" import="./art/levels/level_01.bak.4.png" />
+
+	
+  <clip id="water_chars" import="./art/water_chars.png"/>
+
+		<clip id="bumper0" import="./art/bumper.png"/>
+		<clip id="bumper">
+			<frame> <place id="bumper0" x="-30" y="-30" depth="1"/> </frame>
+		</clip>
+
+		<clip id="whirl0" import="./art/whirl.png"/>
+		<clip id="whirl">
+			<frame> <place id="whirl0" x="-30" y="-30" depth="1"/> </frame>
+		</clip>
+		
+
+-->
+		  
+		  
+
+#for i,v in ipairs( {"m","u","t","e"} ) do
+
+		<clip id="obj_mute_#(v)_png" import="art/x50/#(v).png"/>
+		<clip id="obj_mute_#(v)">
+			<frame> <place id="obj_mute_#(v)_png" x="-25" y="-25" depth="1"/> </frame>
+		</clip>
+
+#end
+
+
+
+
+#if VERSION_SITE=="pepere" then
+
+		<clip id="obj_tard_1_png" import="art/tard/tard33.png"/>
+		<clip id="obj_tard_1">
+			<frame> <place id="obj_tard_1_png" x="-30" y="-30" depth="1"/> </frame>
+		</clip>	
+		
+#else
+
+#for i,v in ipairs( xtra.dir("art/tard/*.png") ) do
+
+		<clip id="obj_tard_#(i)_png" import="art/tard/#(v)"/>
+		<clip id="obj_tard_#(i)">
+			<frame> <place id="obj_tard_#(i)_png" x="-30" y="-30" depth="1"/> </frame>
+		</clip>	
+#end
+
+#end
+
+
+
+
+#for ii,vv in ipairs( {"meta"} ) do
+#MAX_LOOP=9
+#if vv=="air" or vv=="earth" then MAX_LOOP=4 end
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		  <clip id="obj_#(vv)#(num)" import="art/x50/#(vv)#(num).png"/>
+#end		  
+
+	<clip id="obj_#(vv)">
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+#end
+
+#if MAX_LOOP==4 then
+#for i=0,MAX_LOOP do
+#local num=string.format("%1d",i)
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+		<frame> <place id="obj_#(vv)#(num)" x="-25" y="-25" depth="1"/> </frame>
+#end
+#end
+	</clip>
+	
+#end
+
+
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/screens/#(v).swf"/>
+#end
+
+
+
+	</library>
+
+	<frame>
+	</frame>
+	
+</movie>
+
+

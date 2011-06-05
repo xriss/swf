@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img src="http://data.wetgenes.com/game/s/ville/test/vobj/candle.png">
+<xy
+	x_off="-25"
+	y_off="-70"
+	
+	x_siz="50"
+	y_siz="75"
+/>
+</img>
+
+<xy
+	x_min="-12"
+	y_min="-50"
+
+	x_max="24"
+	y_max="0"
+/>
+
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="0"
+	y_siz="0"
+	z_siz="0"
+/>
+
+<node id="1">
+	<xyz
+		x_pos="0"
+		y_pos="-60"
+		z_pos="0"
+	/>
+</node>
+
+
+<brain type="candle">
+</brain>
+
+</vobj></ville>

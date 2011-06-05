@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie version="8" width="800" height="400" framerate="25">
+  <background color="#ffffff"/>
+
+#include "../wetsrc/art/preloader.xml"
+
+ 
+	<library>
+
+		<clip id="back_pixl" import="art/pixlback2.png"/>
+		
+		<clip id="back_lobby" import="art/lobbyback.png"/>
+
+		
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/#(v).swf"/>
+#end
+
+
+		<clip import="art/sfx/object.swf"/>
+		<clip import="art/sfx/swish.swf"/>
+		<clip import="art/sfx/rainbow.swf"/>
+		
+	</library>
+		
+	<frame>
+	</frame>
+
+</movie>
+
+

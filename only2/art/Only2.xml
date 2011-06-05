@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="10" width="960" height="480" framerate="50">
+
+<FileAttributes hasMetaData="0" useNetwork="network" />
+
+  <background color="#000000"/>
+
+#include "src/opts.as"
+
+#include "../wetsrc/art/preloader.xml"
+
+		
+		<library>
+
+		<font import="./art/fonts/bgrove.ttf" 		glyphs=
+"&#32;&#33;&#34;&#35;&#36;&#37;&#38;&#39;&#40;&#41;&#42;&#43;&#44;&#45;&#46;&#47;&#48;&#49;&#50;&#51;&#52;&#53;&#54;&#55;&#56;&#57;&#58;&#59;&#60;&#61;&#62;&#63;&#64;&#65;&#66;&#67;&#68;&#69;&#70;&#71;&#72;&#73;&#74;&#75;&#76;&#77;&#78;&#79;&#80;&#81;&#82;&#83;&#84;&#85;&#86;&#87;&#88;&#89;&#90;&#91;&#92;&#93;&#94;&#95;&#96;&#97;&#98;&#99;&#100;&#101;&#102;&#103;&#104;&#105;&#106;&#107;&#108;&#109;&#110;&#111;&#112;&#113;&#114;&#115;&#116;&#117;&#118;&#119;&#120;&#121;&#122;&#123;&#124;&#125;&#126;&#161;&#162;&#163;&#164;&#165;&#166;&#167;&#168;&#169;&#170;&#171;&#172;&#173;&#174;&#175;&#176;&#177;&#178;&#179;&#180;&#181;&#182;&#183;&#184;&#185;&#186;&#187;&#188;&#189;&#190;&#191;&#192;&#193;&#194;&#195;&#196;&#197;&#198;&#199;&#200;&#201;&#202;&#203;&#204;&#205;&#206;&#207;&#208;&#209;&#210;&#211;&#212;&#213;&#214;&#215;&#216;&#217;&#218;&#219;&#220;&#221;&#222;&#223;&#224;&#225;&#226;&#227;&#228;&#229;&#230;&#231;&#232;&#233;&#234;&#235;&#236;&#237;&#238;&#239;&#240;&#241;&#242;&#243;&#244;&#245;&#246;&#247;&#248;&#249;&#250;&#251;&#252;&#253;&#254;&#255;"
+/>
+
+		<font import="./art/fonts/bgroveb.ttf" 		glyphs=
+"&#32;&#33;&#34;&#35;&#36;&#37;&#38;&#39;&#40;&#41;&#42;&#43;&#44;&#45;&#46;&#47;&#48;&#49;&#50;&#51;&#52;&#53;&#54;&#55;&#56;&#57;&#58;&#59;&#60;&#61;&#62;&#63;&#64;&#65;&#66;&#67;&#68;&#69;&#70;&#71;&#72;&#73;&#74;&#75;&#76;&#77;&#78;&#79;&#80;&#81;&#82;&#83;&#84;&#85;&#86;&#87;&#88;&#89;&#90;&#91;&#92;&#93;&#94;&#95;&#96;&#97;&#98;&#99;&#100;&#101;&#102;&#103;&#104;&#105;&#106;&#107;&#108;&#109;&#110;&#111;&#112;&#113;&#114;&#115;&#116;&#117;&#118;&#119;&#120;&#121;&#122;&#123;&#124;&#125;&#126;&#161;&#162;&#163;&#164;&#165;&#166;&#167;&#168;&#169;&#170;&#171;&#172;&#173;&#174;&#175;&#176;&#177;&#178;&#179;&#180;&#181;&#182;&#183;&#184;&#185;&#186;&#187;&#188;&#189;&#190;&#191;&#192;&#193;&#194;&#195;&#196;&#197;&#198;&#199;&#200;&#201;&#202;&#203;&#204;&#205;&#206;&#207;&#208;&#209;&#210;&#211;&#212;&#213;&#214;&#215;&#216;&#217;&#218;&#219;&#220;&#221;&#222;&#223;&#224;&#225;&#226;&#227;&#228;&#229;&#230;&#231;&#232;&#233;&#234;&#235;&#236;&#237;&#238;&#239;&#240;&#241;&#242;&#243;&#244;&#245;&#246;&#247;&#248;&#249;&#250;&#251;&#252;&#253;&#254;&#255;"
+/>
+
+
+	<clip id="vtard_protagonist" import="./art/vtard/kolumbo.png" />
+	<clip id="vtard_fisher" import="./art/vtard/master_fisher.png" />
+	<clip id="vtard_taster" import="./art/vtard/master_taster.png" />
+	<clip id="vtard_riddler" import="./art/vtard/master_riddler.png" />
+	<clip id="vtard_xix" import="./art/vtard/xix.png" />
+
+#BAK="bak"
+#if VERSION_BUILD=="debug" then
+
+	<clip id="level_00_bak" import="./art/levels/level_00.col.png" />
+	<clip id="level_01_bak" import="./art/levels/level_01.col.png" />
+	<clip id="level_02_bak" import="./art/levels/level_02.col.png" />
+	<clip id="level_03_bak" import="./art/levels/level_03.col.png" />
+	<clip id="level_04_bak" import="./art/levels/level_04.col.png" />
+	<clip id="level_05_bak" import="./art/levels/level_05.col.png" />
+	<clip id="level_06_bak" import="./art/levels/level_06.col.png" />
+
+#else
+
+	<clip id="level_00_bak.rgb" import="./art/levels/level_00.bak.rgb.jpg" />
+	<clip id="level_01_bak.rgb" import="./art/levels/level_01.bak.rgb.jpg" />
+	<clip id="level_02_bak.rgb" import="./art/levels/level_02.bak.rgb.jpg" />
+	<clip id="level_03_bak.rgb" import="./art/levels/level_03.bak.rgb.jpg" />
+	<clip id="level_04_bak.rgb" import="./art/levels/level_04.bak.rgb.jpg" />
+	<clip id="level_05_bak.rgb" import="./art/levels/level_05.bak.rgb.jpg" />
+	<clip id="level_06_bak.rgb" import="./art/levels/level_06.bak.rgb.jpg" />
+
+	<clip id="level_00_bak.a" import="./art/levels/level_00.bak.a.jpg" />
+	<clip id="level_01_bak.a" import="./art/levels/level_01.bak.a.jpg" />
+	<clip id="level_02_bak.a" import="./art/levels/level_02.bak.a.jpg" />
+	<clip id="level_03_bak.a" import="./art/levels/level_03.bak.a.jpg" />
+	<clip id="level_04_bak.a" import="./art/levels/level_04.bak.a.jpg" />
+	<clip id="level_05_bak.a" import="./art/levels/level_05.bak.a.jpg" />
+	<clip id="level_06_bak.a" import="./art/levels/level_06.bak.a.jpg" />
+	
+#end
+	
+	<clip id="level_00_par" import="./art/levels/level_00.par.jpg" />
+	<clip id="level_01_par" import="./art/levels/level_01.par.jpg" />
+	<clip id="level_02_par" import="./art/levels/level_02.par.jpg" />
+	<clip id="level_03_par" import="./art/levels/level_03.par.jpg" />
+	<clip id="level_04_par" import="./art/levels/level_04.par.jpg" />
+	<clip id="level_05_par" import="./art/levels/level_04.par.jpg" />
+	
+	<clip id="level_00_p01.a"   import="./art/levels/level_00.p01.a.jpg" />
+	<clip id="level_00_p01.rgb" import="./art/levels/level_00.p01.rgb.jpg" />
+	
+	<clip id="level_01_p01.a"   import="./art/levels/level_01.p01.a.jpg" />
+	<clip id="level_01_p01.rgb" import="./art/levels/level_01.p01.rgb.jpg" />
+	
+	<clip id="level_01_p02.a"   import="./art/levels/level_01.p02.a.jpg" />
+	<clip id="level_01_p02.rgb" import="./art/levels/level_01.p02.rgb.jpg" />
+	
+	<clip id="level_02_p01.a"   import="./art/levels/level_02.p01.a.jpg" />
+	<clip id="level_02_p01.rgb" import="./art/levels/level_02.p01.rgb.jpg" />
+	
+	<clip id="level_03_p01.a"   import="./art/levels/level_03.p01.a.jpg" />
+	<clip id="level_03_p01.rgb" import="./art/levels/level_03.p01.rgb.jpg" />
+	
+	<clip id="level_04_p01.a"   import="./art/levels/level_04.p01.a.jpg" />
+	<clip id="level_04_p01.rgb" import="./art/levels/level_04.p01.rgb.jpg" />
+	
+
+	<clip id="object_lock" import="./art/objects/lock.png" />
+	<clip id="object_unlock" import="./art/objects/unlock.png" />
+	
+	<clip id="object_nothing" import="./art/objects/nothing.png" />
+	<clip id="object_heavy" import="./art/objects/m.png" />
+	<clip id="object_light" import="./art/objects/u.png" />
+	<clip id="object_sign" import="./art/objects/sign.png" />
+	<clip id="object_door" import="./art/objects/door.png" />
+	<clip id="object_fish" import="./art/objects/fish.png" />
+	<clip id="object_knife" import="./art/objects/knife.png" />
+	<clip id="object_sashimi" import="./art/objects/sashimi.png" />
+
+	<clip id="object_milk" import="./art/objects/milk.png" />
+	<clip id="object_bread" import="./art/objects/bread.png" />
+	<clip id="object_cheese" import="./art/objects/cheese.png" />
+	<clip id="object_eggs" import="./art/objects/eggs.png" />
+	
+	<clip id="object_sludge" import="./art/objects/sludge.png" />
+	
+	<clip id="object_toast" import="./art/objects/toast.png" />
+	<clip id="object_cheese_on_toast" import="./art/objects/cheese_on_toast.png" />
+	<clip id="object_french_toast" import="./art/objects/french_toast.png" />
+	
+	<clip id="object_boiled_eggs" import="./art/objects/boiled_eggs.png" />
+	
+	<clip id="object_eggy_soldiers" import="./art/objects/eggy_soldiers.png" />
+	<clip id="object_omelette" import="./art/objects/omelette.png" />
+	<clip id="object_cheese_omelette" import="./art/objects/cheese_omelette.png" />
+
+
+	<clip id="object_combiner" import="./art/objects/combiner.png" />
+	<clip id="object_cooker" import="./art/objects/cooker.png" />
+
+
+	<clip import="art/sfx/tards.swf"/>
+	<clip import="art/sfx/rain.swf"/>
+	<clip import="art/sfx/cook.swf"/>
+	
+	<clip import="art/sfx/portrait.swf"/>
+	
+	<clip import="art/sfx/001.swf"/>
+	<clip import="art/sfx/man005.swf"/>
+	<clip import="art/sfx/man007.swf"/>
+	<clip import="art/sfx/man008.swf"/>
+	<clip import="art/sfx/ping04.swf"/>
+	<clip import="art/sfx/ping07.swf"/>
+	<clip import="art/sfx/scratch01.swf"/>
+	<clip import="art/sfx/scratch02.swf"/>
+	<clip import="art/sfx/sleeze01.swf"/>
+	<clip import="art/sfx/sleeze02.swf"/>
+	<clip import="art/sfx/sleeze03.swf"/>
+	<clip import="art/sfx/sleeze04.swf"/>
+	<clip import="art/sfx/sleeze05.swf"/>
+	<clip import="art/sfx/trump01.swf"/>
+	<clip import="art/sfx/trump02.swf"/>
+	<clip import="art/sfx/trump03.swf"/>
+	<clip import="art/sfx/uhm05.swf"/>
+	<clip import="art/sfx/uhm08.swf"/>
+	<clip import="art/sfx/uhm09.swf"/>
+	<clip import="art/sfx/uhm10.swf"/>
+	<clip import="art/sfx/walk.swf"/>
+	<clip import="art/sfx/well.swf"/>
+	<clip import="art/sfx/woman003.swf"/>
+	<clip import="art/sfx/woman004.swf"/>
+	
+	<clip import="art/sfx/man010.swf"/>
+	<clip import="art/sfx/tune001.swf"/>
+
+	<clip import="art/sfx/loading.swf"/>
+	
+	<clip import="art/sfx/splat01.swf"/>
+	<clip import="art/sfx/jump01.swf"/>
+	
+	<clip import="art/sfx/dweller.swf"/>
+	
+	<clip id="title" import="./art/bitmaps/title.swf" />
+	<clip id="rainbow" import="./art/bitmaps/rainbow.swf" />
+	
+	<clip id="particles_heart" import="./art/fx/heart.10x10.png" />
+	
+	<clip id="object_portrait" import="./art/objects/portrait.png" />
+	
+	</library>
+		
+	<frame>
+	</frame>
+	
+
+</movie>
+
+

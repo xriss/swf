@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie version="9" width="960" height="480" framerate="50">
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+
+ 
+	<library>
+		
+	</library>
+		
+	<frame>
+	</frame>
+
+</movie>
+
+

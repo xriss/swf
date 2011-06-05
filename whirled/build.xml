@@ -1,0 +1,43 @@
+<!-- build configuration -->
+<project name="Whirled Project Maker" default="help" basedir=".">
+
+  <!-- declare our classpath -->
+  <path id="classpath">
+    <fileset dir="dist" includes="**/*.jar"/>
+  </path>
+
+  <!-- include the standard build script -->
+  <import file="etc/flex-include.xml"/>
+
+  <!-- explains things -->
+  <target name="help">
+    <echo>Please indicate which type of project you'd like to create:</echo>
+    <echo>  ant newgame - to create a game</echo>
+    <echo>  ant newavatar - to create an avatar</echo>
+    <echo>  ant newpet - to create a pet</echo>
+    <echo>  ant newfurni - to create a piece of furniture</echo>
+  </target>
+
+  <!-- used to make our projects -->
+  <taskdef name="newproject" classpathref="classpath" classname="com.whirled.tools.NewProjectTask"/>
+  <target name="newgame" depends="prepare-flex">
+    <newproject type="Game" templates="templates"/>
+  </target>
+  <target name="newavatar" depends="prepare-flex">
+    <newproject type="Avatar" templates="templates"/>
+  </target>
+  <target name="newpet" depends="prepare-flex">
+    <newproject type="Pet" templates="templates"/>
+  </target>
+  <target name="newfurni" depends="prepare-flex">
+    <newproject type="Furni" templates="templates"/>
+  </target>
+  <target name="newproject" depends="prepare-flex">
+    <newproject templates="templates"/>
+  </target>
+
+  <!-- runs the FAT server with GUI -->
+  <target name="fatserver">
+    <java classname="com.whirled.server.FATControlPanel" fork="true" classpathref="classpath"/>
+  </target>
+</project>

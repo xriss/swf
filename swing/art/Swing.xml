@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="640" height="480" framerate="30">
+  <background color="#000080"/>
+
+
+	<library>
+	  <font import="../_vera/Vera.ttf" 		glyphs=" '.,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+	  <clip id="dude" import="art/kriss.png"/>
+	</library>
+
+	<frame>
+	</frame>
+ 
+	<frame>
+		<library>
+
+		<font import="../_vera/VeraBd.ttf" 	glyphs=" '.,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		<font import="../_vera/VeraMono.ttf" 	glyphs=" '.,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		<font import="../_vera/VeraMoBd.ttf" 	glyphs=" '.,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		  
+		  
+		<clip id="back" import="art/back.png"/>
+		<clip id="hook" import="art/hook.png"/>
+		  
+		  
+		</library>
+	</frame>
+
+</movie>
+
+

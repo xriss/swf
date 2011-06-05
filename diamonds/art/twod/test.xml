@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie width="800" height="600" framerate="25">
+  <background color="#ffffff"/>
+
+<library>
+	<clip id="obj_test" import="test.svg"/>
+</library>
+
+	<frame> <place id="obj_test" x="0" y="0" depth="1"/> </frame>
+
+</movie>

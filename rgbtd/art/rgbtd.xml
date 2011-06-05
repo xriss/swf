@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+#include "src/opts.as"
+
+#(
+local function dofile(filename)
+  local f = assert(loadfile(filename))
+  return f()
+end
+
+#)
+
+<movie width="850" height="425" framerate="25">
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+	
+	<library>
+		
+		<clip id="pixl_blocks" import="art/blocks.png"/>
+		<clip id="pixl_plots" import="art/plots.png"/>
+		
+		<clip id="level00" import="art/levels/level00.col.png"/>
+		<clip id="level01" import="art/levels/level01.col.png"/>
+		<clip id="level02" import="art/levels/level02.col.png"/>
+		<clip id="level03" import="art/levels/level03.col.png"/>
+		<clip id="level04" import="art/levels/level04.col.png"/>
+		<clip id="level05" import="art/levels/level05.col.png"/>
+		<clip id="level06" import="art/levels/level06.col.png"/>
+		<clip id="level07" import="art/levels/level07.col.png"/>
+		<clip id="level08" import="art/levels/level08.col.png"/>
+		<clip id="level09" import="art/levels/level09.col.png"/>
+		<clip id="level10" import="art/levels/level10.col.png"/>
+		<clip id="level11" import="art/levels/level11.col.png"/>
+		<clip id="level12" import="art/levels/level12.col.png"/>
+		<clip id="level13" import="art/levels/level13.col.png"/>
+		<clip id="level14" import="art/levels/level14.col.png"/>
+		<clip id="level15" import="art/levels/level15.col.png"/>
+		<clip id="level16" import="art/levels/level16.col.png"/>
+		<clip id="level17" import="art/levels/level17.col.png"/>
+		<clip id="level18" import="art/levels/level18.col.png"/>
+		<clip id="level19" import="art/levels/level19.col.png"/>
+		<clip id="level20" import="art/levels/level20.col.png"/>
+		<clip id="level21" import="art/levels/level21.col.png"/>
+		<clip id="level22" import="art/levels/level22.col.png"/>
+		<clip id="level23" import="art/levels/level23.col.png"/>
+		<clip id="level24" import="art/levels/level24.col.png"/>
+		<clip id="levelxx" import="art/levels/levelxx.col.png"/>
+		
+		<clip id="medal_bronze" import="art/medal_bronze.png"/>
+		<clip id="medal_silver" import="art/medal_silver.png"/>
+		<clip id="medal_gold"   import="art/medal_gold.png"/>
+		<clip id="padlock"      import="art/padlock.png"/>
+		
+		<clip id="pixl_txt_unlocked" import="art/bronze.png" />
+		<clip id="pixl_txt_extreme"  import="art/silver.png" />
+		<clip id="pixl_txt_ultimate" import="art/gold.png" />
+		
+		  <clip import="art/sfx/p1.swf"/>
+		  <clip import="art/sfx/p2.swf"/>
+		  <clip import="art/sfx/p3.swf"/>
+		  <clip import="art/sfx/p4.swf"/>
+		  <clip import="art/sfx/p5.swf"/>
+		  <clip import="art/sfx/p6.swf"/>
+		  <clip import="art/sfx/p7.swf"/>
+		  <clip import="art/sfx/p8.swf"/>
+		  <clip import="art/sfx/shot.swf"/>
+		  <clip import="art/sfx/bounce.swf"/>
+		  <clip import="art/sfx/wikwikwik.swf"/>
+		  
+		<clip id="menu" import="art/menu.swf"/>
+		
+		<clip id="back" import="art/back.png"/>
+		<clip id="back2" import="art/back2.png"/>
+		
+		<clip id="backbutton" import="art/backbutton.png"/>
+	</library>
+
+	<frame>
+	</frame>
+	
+</movie>
+
+

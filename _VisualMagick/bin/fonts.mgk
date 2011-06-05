@@ -1,0 +1,764 @@
+<?xml version="1.0"?>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIAL.TTF" fullname="Arial" name="Arial" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIALBD.TTF" fullname="Arial Bold" name="Arial-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIALBI.TTF" fullname="Arial Bold Italic" name="Arial-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIALI.TTF" fullname="Arial Italic" name="Arial-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COUR.TTF" fullname="Courier New" name="Courier-New" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COURBD.TTF" fullname="Courier New Bold" name="Courier-New-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COURBI.TTF" fullname="Courier New Bold Italic" name="Courier-New-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COURI.TTF" fullname="Courier New Italic" name="Courier-New-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LUCON.TTF" fullname="Lucida Console" name="Lucida-Console" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\L_10646.TTF" fullname="Lucida Sans Unicode" name="Lucida-Sans-Unicode" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TIMES.TTF" fullname="Times New Roman" name="Times-New-Roman" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TIMESBD.TTF" fullname="Times New Roman Bold" name="Times-New-Roman-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TIMESBI.TTF" fullname="Times New Roman Bold Italic" name="Times-New-Roman-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TIMESI.TTF" fullname="Times New Roman Italic" name="Times-New-Roman-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\WINGDING.TTF" fullname="WingDings" name="WingDings" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\SYMBOL.TTF" fullname="Symbol" name="Symbol" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\VERDANA.TTF" fullname="Verdana" name="Verdana" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\VERDANAB.TTF" fullname="Verdana Bold" name="Verdana-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\VERDANAI.TTF" fullname="Verdana Italic" name="Verdana-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\VERDANAZ.TTF" fullname="Verdana Bold Italic" name="Verdana-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIBLK.TTF" fullname="Arial Black" name="Arial-Black" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COMIC.TTF" fullname="Comic Sans MS" name="Comic-Sans-MS" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COMICBD.TTF" fullname="Comic Sans MS Bold" name="Comic-Sans-MS-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\IMPACT.TTF" fullname="Impact" name="Impact" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\georgia.TTF" fullname="Georgia" name="Georgia" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\georgiab.TTF" fullname="Georgia Bold" name="Georgia-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\georgiaz.TTF" fullname="Georgia Bold Italic" name="Georgia-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\georgiai.TTF" fullname="Georgia Italic" name="Georgia-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\pala.TTF" fullname="Palatino Linotype" name="Palatino-Linotype" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\palab.TTF" fullname="Palatino Linotype Bold" name="Palatino-Linotype-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\palabi.TTF" fullname="Palatino Linotype Bold Italic" name="Palatino-Linotype-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\palai.TTF" fullname="Palatino Linotype Italic" name="Palatino-Linotype-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TAHOMABD.TTF" fullname="Tahoma Bold" name="Tahoma-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TREBUC.TTF" fullname="Trebuchet MS" name="Trebuchet-MS" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TREBUCBD.TTF" fullname="Trebuchet MS Bold" name="Trebuchet-MS-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TREBUCBI.TTF" fullname="Trebuchet MS Bold Italic" name="Trebuchet-MS-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TREBUCIT.TTF" fullname="Trebuchet MS Italic" name="Trebuchet-MS-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\webdings.TTF" fullname="Webdings" name="Webdings" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TAHOMA.TTF" fullname="Tahoma" name="Tahoma" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\trado.ttf" fullname="Traditional Arabic" name="Traditional-Arabic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\tradbdo.ttf" fullname="Traditional Arabic Bold" name="Traditional-Arabic-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\artro.ttf" fullname="Arabic Transparent" name="Arabic-Transparent" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\artrbdo.ttf" fullname="Arabic Transparent Bold" name="Arabic-Transparent-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\andlso.ttf" fullname="Andalus" name="Andalus" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\simpo.ttf" fullname="Simplified Arabic" name="Simplified-Arabic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\simpbdo.ttf" fullname="Simplified Arabic Bold" name="Simplified-Arabic-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\simpfxo.ttf" fullname="Simplified Arabic Fixed" name="Simplified-Arabic-Fixed" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\gulim.ttc" fullname="Gulim & GulimChe & Dotum & DotumChe" name="Gulim-&-GulimChe-&-Dotum-&-DotumChe" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\batang.ttc" fullname="Batang & BatangChe & Gungsuh & GungsuhChe" name="Batang-&-BatangChe-&-Gungsuh-&-GungsuhChe" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\andalemo.ttf" fullname="Andale Mono" name="Andale-Mono" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIALN.TTF" fullname="Arial Narrow" name="Arial-Narrow" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BKANT.TTF" fullname="Book Antiqua" name="Book-Antiqua" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BOOKOS.TTF" fullname="Bookman Old Style" name="Bookman-Old-Style" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GOTHIC.TTF" fullname="Century Gothic" name="Century-Gothic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GARA.TTF" fullname="Garamond" name="Garamond" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\MTCORSVA.TTF" fullname="Monotype Corsiva" name="Monotype-Corsiva" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\WINGDNG2.TTF" fullname="Wingdings 2" name="Wingdings-2" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\WINGDNG3.TTF" fullname="Wingdings 3" name="Wingdings-3" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ANTQUAB.TTF" fullname="Book Antiqua Bold" name="Book-Antiqua-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ANTQUABI.TTF" fullname="Book Antiqua Bold Italic" name="Book-Antiqua-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ANTQUAI.TTF" fullname="Book Antiqua Italic" name="Book-Antiqua-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARBLI___.TTF" fullname="Arial Black Italic" name="Arial-Black-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIALNB.TTF" fullname="Arial Narrow Bold" name="Arial-Narrow-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIALNBI.TTF" fullname="Arial Narrow Bold Italic" name="Arial-Narrow-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARIALNI.TTF" fullname="Arial Narrow Italic" name="Arial-Narrow-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BOOKOSB.TTF" fullname="Bookman Old Style Bold" name="Bookman-Old-Style-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BOOKOSBI.TTF" fullname="Bookman Old Style Bold Italic" name="Bookman-Old-Style-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BOOKOSI.TTF" fullname="Bookman Old Style Italic" name="Bookman-Old-Style-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GARABD.TTF" fullname="Garamond Bold" name="Garamond-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GARAIT.TTF" fullname="Garamond Italic" name="Garamond-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GOTHICB.TTF" fullname="Century Gothic Bold" name="Century-Gothic-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GOTHICBI.TTF" fullname="Century Gothic Bold Italic" name="Century-Gothic-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GOTHICI.TTF" fullname="Century Gothic Italic" name="Century-Gothic-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\Common Files\Microsoft Shared\Equation\MTEXTRA.TTF" fullname="MT Extra" name="MT-Extra" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\AVGARDM.TTF" fullname="Avant Garde Medium BT" name="Avant-Garde-Medium-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\AVGARDMI.TTF" fullname="Avant Garde Medium Oblique BT" name="Avant-Garde-Medium-Oblique-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\AVGARDN.TTF" fullname="Avant Garde Book BT" name="Avant-Garde-Book-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\AVGARDNI.TTF" fullname="Avant Garde Book Oblique BT" name="Avant-Garde-Book-Oblique-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COMBULN.TTF" fullname="CommonBullets" name="CommonBullets" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\Lc______.ttf" fullname="Letter Gothic MT" name="Letter-Gothic-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\Lcb_____.ttf" fullname="Letter Gothic MT Bold" name="Letter-Gothic-MT-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\Lcbi____.ttf" fullname="Letter Gothic MT Bold Oblique" name="Letter-Gothic-MT-Bold-Oblique" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\Lci_____.ttf" fullname="Letter Gothic MT Oblique" name="Letter-Gothic-MT-Oblique" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\Timnreb.ttf" fullname="Times New Roman MT Extra Bold" name="Times-New-Roman-MT-Extra-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\bssym1.ttf" fullname="Bookshelf Symbol 1" name="Bookshelf-Symbol-1" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\bssym2.ttf" fullname="Bookshelf Symbol 2" name="Bookshelf-Symbol-2" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\bssym3.ttf" fullname="Bookshelf Symbol 3" name="Bookshelf-Symbol-3" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\bssym4.ttf" fullname="Bookshelf Symbol 4" name="Bookshelf-Symbol-4" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\bssym5.ttf" fullname="Bookshelf Symbol 5" name="Bookshelf-Symbol-5" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\MICROSS.TTF" fullname="Microsoft Sans Serif" name="Microsoft-Sans-Serif" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\d:\Software\WordPerfect Office 2002 Trial\Fonts\AVGARDD.TTF" fullname="Avant Garde Demi BT" name="Avant-Garde-Demi-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\d:\Software\WordPerfect Office 2002 Trial\Fonts\AVGARDDO.TTF" fullname="Avant Garde Demi Oblique BT" name="Avant-Garde-Demi-Oblique-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\AMRIGON.TTF" fullname="Amerigo BT" name="Amerigo-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\AMRIGOI.TTF" fullname="Amerigo Italic BT" name="Amerigo-Italic-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\AMRIGOB.TTF" fullname="Amerigo Bold BT" name="Amerigo-Bold-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\AMRIGOBI.TTF" fullname="Amerigo Bold Italic BT" name="Amerigo-Bold-Italic-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\AMRIGOM.TTF" fullname="Amerigo Medium BT" name="Amerigo-Medium-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\AMRIGOMI.TTF" fullname="Amerigo Medium Italic BT" name="Amerigo-Medium-Italic-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\BAKRSIGN.TTF" fullname="Baker Signet BT" name="Baker-Signet-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\RUBSTAMP.TTF" fullname="Rubber Stamp LET Plain" name="Rubber-Stamp-LET-Plain" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\STENCILN.TTF" fullname="Stencil BT" name="Stencil-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\HATTEN.TTF" fullname="Haettenschweiler" name="Haettenschweiler" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\d:\Software\WordPerfect Office 2002 Trial\Fonts\E111Viva.ttf" fullname="English 111 Vivace BT" name="English-111-Vivace-BT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\MICROGBE.TTF" fullname="MicrogrammaDBolExt" name="MicrogrammaDBolExt" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\C:\Program Files\FNavData\Cache\MICROGME.TTF" fullname="MicrogrammaDMedExt" name="MicrogrammaDMedExt" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\AGENCYB.TTF" fullname="Agency FB Bold" name="Agency-FB-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ALGER.TTF" fullname="Algerian" name="Algerian" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ARLRDBD.TTF" fullname="Arial Rounded MT Bold" name="Arial-Rounded-MT-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BASKVILL.TTF" fullname="Baskerville Old Face" name="Baskerville-Old-Face" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BAUHS93.TTF" fullname="Bauhaus 93" name="Bauhaus-93" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BELL.TTF" fullname="Bell MT" name="Bell-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BRLNSB.TTF" fullname="Berlin Sans FB Bold" name="Berlin-Sans-FB-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BERNHC.TTF" fullname="Bernard MT Condensed" name="Bernard-MT-Condensed" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ITCBLKAD.TTF" fullname="Blackadder ITC" name="Blackadder-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BRADHITC.TTF" fullname="Bradley Hand ITC" name="Bradley-Hand-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BRITANIC.TTF" fullname="Britannic Bold" name="Britannic-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BROADW.TTF" fullname="Broadway" name="Broadway" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BRUSHSCI.TTF" fullname="Brush Script MT Italic" name="Brush-Script-MT-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CALIFR.TTF" fullname="Californian FB" name="Californian-FB" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CALIST.TTF" fullname="Calisto MT" name="Calisto-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CASTELAR.TTF" fullname="Castellar" name="Castellar" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CENTAUR.TTF" fullname="Centaur" name="Centaur" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CENSCBK.TTF" fullname="Century Schoolbook" name="Century-Schoolbook" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CHILLER.TTF" fullname="Chiller" name="Chiller" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COLONNA.TTF" fullname="Colonna MT" name="Colonna-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COOPBL.TTF" fullname="Cooper Black" name="Cooper-Black" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COPRGTB.TTF" fullname="Copperplate Gothic Bold" name="Copperplate-Gothic-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\COPRGTL.TTF" fullname="Copperplate Gothic Light" name="Copperplate-Gothic-Light" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CURLZ___.TTF" fullname="Curlz MT" name="Curlz-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ITCEDSCR.TTF" fullname="Edwardian Script ITC" name="Edwardian-Script-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ELEPHNT.TTF" fullname="Elephant" name="Elephant" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ENGR.TTF" fullname="Engravers MT" name="Engravers-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ERASBD.TTF" fullname="Eras Bold ITC" name="Eras-Bold-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ERASDEMI.TTF" fullname="Eras Demi ITC" name="Eras-Demi-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ERASLGHT.TTF" fullname="Eras Light ITC" name="Eras-Light-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ERASMD.TTF" fullname="Eras Medium ITC" name="Eras-Medium-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FELIXTI.TTF" fullname="Felix Titling" name="Felix-Titling" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FTLTLT.TTF" fullname="Footlight MT Light" name="Footlight-MT-Light" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FORTE.TTF" fullname="Forte" name="Forte" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRABK.TTF" fullname="Franklin Gothic Book" name="Franklin-Gothic-Book" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRADM.TTF" fullname="Franklin Gothic Demi" name="Franklin-Gothic-Demi" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRADMCN.TTF" fullname="Franklin Gothic Demi Cond" name="Franklin-Gothic-Demi-Cond" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRAHV.TTF" fullname="Franklin Gothic Heavy" name="Franklin-Gothic-Heavy" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRAMD.TTF" fullname="Franklin Gothic Medium" name="Franklin-Gothic-Medium" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRAMDCN.TTF" fullname="Franklin Gothic Medium Cond" name="Franklin-Gothic-Medium-Cond" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FREESCPT.TTF" fullname="Freestyle Script" name="Freestyle-Script" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRSCRIPT.TTF" fullname="French Script MT" name="French-Script-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GIGI.TTF" fullname="Gigi" name="Gigi" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GIL_____.TTF" fullname="Gill Sans MT" name="Gill-Sans-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GILC____.TTF" fullname="Gill Sans MT Condensed" name="Gill-Sans-MT-Condensed" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GILSANUB.TTF" fullname="Gill Sans Ultra Bold" name="Gill-Sans-Ultra-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GILLUBCD.TTF" fullname="Gill Sans Ultra Bold Condensed" name="Gill-Sans-Ultra-Bold-Condensed" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GLSNECB.TTF" fullname="Gill Sans MT Ext Condensed Bold" name="Gill-Sans-MT-Ext-Condensed-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GLECB.TTF" fullname="Gloucester MT Extra Condensed" name="Gloucester-MT-Extra-Condensed" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GOUDOS.TTF" fullname="Goudy Old Style" name="Goudy-Old-Style" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GOUDYSTO.TTF" fullname="Goudy Stout" name="Goudy-Stout" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\HARLOWSI.TTF" fullname="Harlow Solid Italic Italic" name="Harlow-Solid-Italic-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\HARNGTON.TTF" fullname="Harrington" name="Harrington" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\HTOWERT.TTF" fullname="High Tower Text" name="High-Tower-Text" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\IMPRISHA.TTF" fullname="Imprint MT Shadow" name="Imprint-MT-Shadow" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\JOKERMAN.TTF" fullname="Jokerman" name="Jokerman" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\JUICE___.TTF" fullname="Juice ITC" name="Juice-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ITCKRIST.TTF" fullname="Kristen ITC" name="Kristen-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\KUNSTLER.TTF" fullname="Kunstler Script" name="Kunstler-Script" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LBRITE.TTF" fullname="Lucida Bright" name="Lucida-Bright" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LCALLIG.TTF" fullname="Lucida Calligraphy Italic" name="Lucida-Calligraphy-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LFAX.TTF" fullname="Lucida Fax Regular" name="Lucida-Fax-Regular" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LHANDW.TTF" fullname="Lucida Handwriting Italic" name="Lucida-Handwriting-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LSANS.TTF" fullname="Lucida Sans Regular" name="Lucida-Sans-Regular" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LTYPE.TTF" fullname="Lucida Sans Typewriter Regular" name="Lucida-Sans-Typewriter-Regular" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\MAGNETOB.TTF" fullname="Magneto Bold" name="Magneto-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\MAIAN.TTF" fullname="Maiandra GD" name="Maiandra-GD" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\MATURASC.TTF" fullname="Matura MT Script Capitals" name="Matura-MT-Script-Capitals" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\MISTRAL.TTF" fullname="Mistral" name="Mistral" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\MOD20.TTF" fullname="Modern No. 20" name="Modern-No.-20" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\NIAGENG.TTF" fullname="Niagara Engraved" name="Niagara-Engraved" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\NIAGSOL.TTF" fullname="Niagara Solid" name="Niagara-Solid" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\OCRAEXT.TTF" fullname="OCR A Extended" name="OCR-A-Extended" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\OLDENGL.TTF" fullname="Old English Text MT" name="Old-English-Text-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ONYX.TTF" fullname="Onyx" name="Onyx" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PALSCRI.TTF" fullname="Palace Script MT" name="Palace-Script-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PAPYRUS.TTF" fullname="Papyrus" name="Papyrus" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PARCHM.TTF" fullname="Parchment" name="Parchment" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PER_____.TTF" fullname="Perpetua" name="Perpetua" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PERTIBD.TTF" fullname="Perpetua Titling MT Bold" name="Perpetua-Titling-MT-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PLAYBILL.TTF" fullname="Playbill" name="Playbill" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\POORICH.TTF" fullname="Poor Richard" name="Poor-Richard" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PRISTINA.TTF" fullname="Pristina" name="Pristina" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\RAGE.TTF" fullname="Rage Italic" name="Rage-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\RAVIE.TTF" fullname="Ravie" name="Ravie" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ROCK.TTF" fullname="Rockwell" name="Rockwell" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ROCC____.TTF" fullname="Rockwell Condensed" name="Rockwell-Condensed" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ROCKEB.TTF" fullname="Rockwell Extra Bold" name="Rockwell-Extra-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\INFROMAN.TTF" fullname="Informal Roman" name="Informal-Roman" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\SCRIPTBL.TTF" fullname="Script MT Bold" name="Script-MT-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\SHOWG.TTF" fullname="Showcard Gothic" name="Showcard-Gothic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\SNAP____.TTF" fullname="Snap ITC" name="Snap-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\STENCIL.TTF" fullname="Stencil" name="Stencil" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TEMPSITC.TTF" fullname="Tempus Sans ITC" name="Tempus-Sans-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TCB_____.TTF" fullname="Tw Cen MT Bold" name="Tw-Cen-MT-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TCCM____.TTF" fullname="Tw Cen MT Condensed" name="Tw-Cen-MT-Condensed" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TCCB____.TTF" fullname="Tw Cen MT Condensed Bold" name="Tw-Cen-MT-Condensed-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TCM_____.TTF" fullname="Tw Cen MT" name="Tw-Cen-MT" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\VINERITC.TTF" fullname="Viner Hand ITC" name="Viner-Hand-ITC" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\VIVALDII.TTF" fullname="Vivaldi Italic" name="Vivaldi-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\VLADIMIR.TTF" fullname="Vladimir Script" name="Vladimir-Script" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LATINWD.TTF" fullname="Wide Latin" name="Wide-Latin" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\AGENCYR.TTF" fullname="Agency FB" name="Agency-FB" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BELLB.TTF" fullname="Bell MT Bold" name="Bell-MT-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BELLI.TTF" fullname="Bell MT Italic" name="Bell-MT-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BRLNSDB.TTF" fullname="Berlin Sans FB Demi Bold" name="Berlin-Sans-FB-Demi-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\BRLNSR.TTF" fullname="Berlin Sans FB" name="Berlin-Sans-FB" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CALIFB.TTF" fullname="Californian FB Bold" name="Californian-FB-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CALIFI.TTF" fullname="Californian FB Italic" name="Californian-FB-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CALISTB.TTF" fullname="Calisto MT Bold" name="Calisto-MT-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CALISTBI.TTF" fullname="Calisto MT Bold Italic" name="Calisto-MT-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\CALISTI.TTF" fullname="Calisto MT Italic" name="Calisto-MT-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ELEPHNTI.TTF" fullname="Elephant Italic" name="Elephant-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRABKIT.TTF" fullname="Franklin Gothic Book Italic" name="Franklin-Gothic-Book-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRADMIT.TTF" fullname="Franklin Gothic Demi Italic" name="Franklin-Gothic-Demi-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRAHVIT.TTF" fullname="Franklin Gothic Heavy Italic" name="Franklin-Gothic-Heavy-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\FRAMDIT.TTF" fullname="Franklin Gothic Medium Italic" name="Franklin-Gothic-Medium-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GILB____.TTF" fullname="Gill Sans MT Bold" name="Gill-Sans-MT-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GILBI___.TTF" fullname="Gill Sans MT Bold Italic" name="Gill-Sans-MT-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GILI____.TTF" fullname="Gill Sans MT Italic" name="Gill-Sans-MT-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GOUDOSB.TTF" fullname="Goudy Old Style Bold" name="Goudy-Old-Style-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\GOUDOSI.TTF" fullname="Goudy Old Style Italic" name="Goudy-Old-Style-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\HTOWERTI.TTF" fullname="High Tower Text Italic" name="High-Tower-Text-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LBRITED.TTF" fullname="Lucida Bright Demibold" name="Lucida-Bright-Demibold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LBRITEDI.TTF" fullname="Lucida Bright Demibold Italic" name="Lucida-Bright-Demibold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LBRITEI.TTF" fullname="Lucida Bright Italic" name="Lucida-Bright-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LFAXD.TTF" fullname="Lucida Fax Demibold" name="Lucida-Fax-Demibold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LFAXDI.TTF" fullname="Lucida Fax Demibold Italic" name="Lucida-Fax-Demibold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LFAXI.TTF" fullname="Lucida Fax Italic" name="Lucida-Fax-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LSANSD.TTF" fullname="Lucida Sans Demibold Roman" name="Lucida-Sans-Demibold-Roman" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LSANSDI.TTF" fullname="Lucida Sans Demibold Italic" name="Lucida-Sans-Demibold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LSANSI.TTF" fullname="Lucida Sans Italic" name="Lucida-Sans-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LTYPEB.TTF" fullname="Lucida Sans Typewriter Bold" name="Lucida-Sans-Typewriter-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LTYPEBO.TTF" fullname="Lucida Sans Typewriter Bold Oblique" name="Lucida-Sans-Typewriter-Bold-Oblique" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\LTYPEO.TTF" fullname="Lucida Sans Typewriter Oblique" name="Lucida-Sans-Typewriter-Oblique" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PERB____.TTF" fullname="Perpetua Bold" name="Perpetua-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PERBI___.TTF" fullname="Perpetua Bold Italic" name="Perpetua-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PERI____.TTF" fullname="Perpetua Italic" name="Perpetua-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\PERTILI.TTF" fullname="Perpetua Titling MT Light" name="Perpetua-Titling-MT-Light" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ROCCB___.TTF" fullname="Rockwell Condensed Bold" name="Rockwell-Condensed-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ROCKB.TTF" fullname="Rockwell Bold" name="Rockwell-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ROCKBI.TTF" fullname="Rockwell Bold Italic" name="Rockwell-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\ROCKI.TTF" fullname="Rockwell Italic" name="Rockwell-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\SCHLBKB.TTF" fullname="Century Schoolbook Bold" name="Century-Schoolbook-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\SCHLBKBI.TTF" fullname="Century Schoolbook Bold Italic" name="Century-Schoolbook-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\SCHLBKI.TTF" fullname="Century Schoolbook Italic" name="Century-Schoolbook-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TCBI____.TTF" fullname="Tw Cen MT Bold Italic" name="Tw-Cen-MT-Bold-Italic" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TCCEB.TTF" fullname="Tw Cen MT Condensed Extra Bold" name="Tw-Cen-MT-Condensed-Extra-Bold" />
+</fontmap>
+<fontmap>
+  <font format="truetype" glyphs="c:\Windows\Fonts\TCMI____.TTF" fullname="Tw Cen MT Italic" name="Tw-Cen-MT-Italic" />
+</fontmap>
+</xml>

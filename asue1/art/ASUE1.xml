@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie version="8" width="960" height="480" framerate="50">
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+ 
+	<library>
+
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/#(v).swf"/>
+#end
+	
+		<clip import="art/sfx/arse.swf"/>
+		<clip import="art/sfx/bee.swf"/>
+		<clip import="art/sfx/table.swf"/>
+		<clip import="art/sfx/door.swf"/>
+		<clip import="art/sfx/horse_arse.swf"/>
+		<clip import="art/sfx/object.swf"/>
+		<clip import="art/sfx/up.swf"/>
+		<clip import="art/sfx/down.swf"/>
+		<clip import="art/sfx/locked.swf"/>
+		<clip import="art/sfx/rainbow.swf"/>
+
+	</library>
+		
+	<frame>
+	</frame>
+
+</movie>
+
+

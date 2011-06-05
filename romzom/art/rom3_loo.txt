@@ -1,0 +1,16 @@
+background,,115
+string
+keyb
+ring
+screw1
+wonderful6
+wonderful7
+wonderful8
+mirror_click
+mirror
+switch_click2,,100
+uparrow
+backarrow
+leftarrow
+rightarrow
+border

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie version="8" width="640" height="480" framerate="25">
+  <background color="#000000"/>
+  
+#if VERSION_INTRO=="addicting" then
+	<library>		
+<clip id="intro_addicting"		import="../brandead/addicting_intro.swf" />
+<clip id="button_addicting"		import="../brandead/addicting_button.swf" />
+	</library>
+#end
+
+#include "../wetsrc/art/preloader.xml"
+
+ 
+	<library>		
+
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/#(v).swf"/>
+#end
+	
+	
+		<clip id="pixl_txt_levelup" import="art/levelup.png" />
+		<clip id="pixl_txt_hardcore" import="art/hardcore.png" />
+		<clip id="pixl_txt_extreme" import="art/extreme.png" />
+		<clip id="pixl_txt_ultimate" import="art/ultimate.png" />
+		<clip id="pixl_txt_unlocked" import="art/unlocked.png" />
+	
+	
+		<clip import="art/sfx/object.swf"/>
+		<clip import="art/sfx/rainbow.swf"/>
+		
+		<clip import="art/sfx/extreme.swf"/>
+		<clip import="art/sfx/hardcore.swf"/>
+		<clip import="art/sfx/ultimate.swf"/>
+		<clip import="art/sfx/levelup.swf"/>
+		
+<!--
+		<clip import="art/sfx/arse.swf"/>
+		<clip import="art/sfx/bee.swf"/>
+		<clip import="art/sfx/table.swf"/>
+		<clip import="art/sfx/door.swf"/>
+		<clip import="art/sfx/horse_arse.swf"/>
+		<clip import="art/sfx/object.swf"/>
+		<clip import="art/sfx/up.swf"/>
+		<clip import="art/sfx/down.swf"/>
+		<clip import="art/sfx/locked.swf"/>
+		<clip import="art/sfx/rainbow.swf"/>
+-->
+
+	</library>
+		
+	<frame>
+	</frame>
+
+</movie>
+
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pixl name="qbert" dir="0" height="16" id="9" width="16" >
+ <link href="http://en.wikipedia.org/wiki/Q*bert" />
+ <text >
+  This ugly guy is Q*bert and he likes to swear.
+ </text>
+ <img src="http://data.wetgenes.com/game/s/pixlcoop/pixl/0/img/qbert.png" />
+</pixl>

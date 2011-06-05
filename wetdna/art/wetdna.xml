@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="800" height="300" framerate="30">
+  <background color="#000080"/>
+
+
+	<library>
+	  <font import="../_vera/VeraBd.ttf" 		glyphs="w.WetGnscom"/>
+	  <clip id="back" import="art/wetdnaback.png"/>
+	</library>
+
+	<frame>
+	</frame>
+
+</movie>
+
+

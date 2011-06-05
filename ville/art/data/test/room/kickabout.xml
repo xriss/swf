@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room>
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/kickabout.xml" />
+
+
+<vobj class="ball" id="ball" game="kickabout" src="http://data.wetgenes.com/game/s/ville/test/vobj/football.xml" >
+	<xyz
+	x_pos="600"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.corridor" title="Exit" >
+	<xyz
+	x_pos="600"
+	y_pos="0"
+	z_pos="720"
+	y_rot="0"
+	/>
+</vobj>
+
+</room></ville>

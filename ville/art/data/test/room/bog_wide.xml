@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room>
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/bog_wide.xml" />
+
+<vobj class="ball" id="ball" src="http://data.wetgenes.com/game/s/ville/test/vobj/football.xml" >
+	<xyz
+	x_pos="600"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="760"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="720"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="680"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="640"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="600"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="560"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="520"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="480"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/urinal.xml" >
+	<xyz
+	x_pos="440"
+	y_pos="0"
+	z_pos="720"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical.xml" >
+	<xyz
+	x_pos="0"
+	y_pos="0"
+	z_pos="600"
+	/>
+</vobj>
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical.xml" >
+	<xyz
+	x_pos="80"
+	y_pos="0"
+	z_pos="600"
+	/>
+</vobj>
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical.xml" >
+	<xyz
+	x_pos="160"
+	y_pos="0"
+	z_pos="600"
+	/>
+</vobj>
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical.xml" >
+	<xyz
+	x_pos="240"
+	y_pos="0"
+	z_pos="600"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/table.xml" >
+	<xyz
+	x_pos="0"
+	y_pos="0"
+	z_pos="0"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/sink.xml" >
+	<xyz
+	x_pos="160"
+	y_pos="0"
+	z_pos="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.corridor" title="Exit" >
+	<xyz
+	x_pos="370"
+	y_pos="0"
+	z_pos="720"
+	y_rot="0"
+	/>
+</vobj>
+
+</room></ville>

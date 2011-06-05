@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pixl name="joystick" dir="0" height="16" id="4" width="16" >
+ <link href="http://en.wikipedia.org/wiki/Kempston_Micro_Electronics" />
+ <text >
+  Before joypads had 20 buttons there where joysticks with one button. The kempston competition pro is a pure icon of 80s gaming.
+ </text>
+ <img src="http://data.wetgenes.com/game/s/pixlcoop/pixl/0/img/joystick.png" />
+</pixl>

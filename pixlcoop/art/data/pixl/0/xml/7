@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pixl name="rgb_cube" dir="0" height="16" id="7" width="16" >
+ <link href="http://en.wikipedia.org/wiki/Isometric_projection" />
+ <text >
+  An isometric cube made of red green and blue.
+ </text>
+ <img src="http://data.wetgenes.com/game/s/pixlcoop/pixl/0/img/rgb_cube.png" />
+</pixl>

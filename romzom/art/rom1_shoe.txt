@@ -1,0 +1,7 @@
+background
+bed
+leftshoe
+rightshoe
+shoelace
+backarrow
+border

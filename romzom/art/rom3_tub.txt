@@ -1,0 +1,9 @@
+background,,115
+bubble0
+bubble1
+bubble2
+bubble3
+screw1
+switch_click2,,100
+leftarrow
+border

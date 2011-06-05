@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<movie width="640" height="480" framerate="50">
+  <background color="#000000"/>
+
+	<library>
+	</library>
+	<frame>
+	</frame>
+
+</movie>
+
+

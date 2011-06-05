@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<swf version="5" compressed="0">
+  <Header framerate="9235" frames="2">
+    <size>
+      <Rectangle left="0" right="6000" top="0" bottom="6000"/>
+    </size>
+    <tags>
+      <UnknownTag id="0x309">
+        <data>cmZ4</data>
+      </UnknownTag>
+      <SetBackgroundColor>
+        <color>
+          <Color red="255" green="255" blue="255"/>
+        </color>
+      </SetBackgroundColor>
+      <DefineSound objectID="24" format="2" rate="1" is16bit="1" stereo="0" samples="5760">
+        <data>
+          <data>AAD/40LEAAAAA0gBQAAATEFNRTMuOTFVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf/jQsQAK7wGgl+SoAAAAAQCAUAAYDAYDgcADwbGgPA8Y8GFuwc8Ns7OgBlAwNgAWKeydwNIOEKixgY8D/4jIMYCOQ4MLmP2dBnQAKGERNwDhhLIf2dCt3FkBYwFpgBwwRmJzC0f/sm7fDLY0wbPjaIgK+LKC6gZT//2/iFBkB4F4GMBKA5hOFQ3NBwf/+7sm7P/IeT4XNknEfjLjjDVZNDgSLk3//////8uM5gaGhQJwXAYlcuGkuGn/6RATEFNRTMuOTGqqqqqqqqqqqqqqqqq/+NCxAAsA97wD49YAAIiEBWbq87nQ60JoZbehilHA2Qz9fuSgISDpSosO8zQTg4wPLcfw+EomCAdSxo06dI6RuPhsBwgxANZSfjoYxSm0eOkGd3w19b4ewdjYajKJFewebt738J098PiEDjraanpx3Vb5ao3e+T753SrC75XdGVHMqZHkg8cOPg/dsbbL9/cMfNoKVTOP54a5RaUDj4a7inU+uZm+eK6m+K5ZRy3Nn5//fTE8YICZN7kf82UTEFNRTMuOTGqqqqqqqqqqqqqqqr/40LEACvzquwFz0gBAbKlXLgug4D9YDzOY5zPZHy4QpNN5NXOE4RsMUBWFAyCLIHzRSeoFziUFxMnELoUR9CQmRTNCgJF0C4ONvmlFSjj2h1qLEbQQWMfWoSbeyhbI4Hmozgv31/iiKveMnplG5NxbhUdxWM7inLPGHWhWQ8HrGs3Jff/OEPlVkjHjm59vw/85OxrIKe5/c8NSy/9z3bcstLMdSsN+f5l+OZcLp7l49DcSJcH+vgj3e+B36ZMQU1FMy45Maqqqqqqqqqqqqqqqv/jQsQAKyQG7KR5h5QgFnF6/bX4D+zHUU79rPM7CdRTriPh3J58eTEvJ5kPVUu5LLm13FyfwoP1WIr10xR2HGn8G7xWTMkjDEjx3710wNHgW4WQ+BDAHPnFc0pS0UCOqXSOUvU5suivskSwfg57PlubbuUm/cupOn6gxzP/7Kd42sS9P0X8u+wlvjDt89+1QBzy0EVhuX57Gu1PaD5762OLjftNjdi3vx/yCC12k34cU7OhR4WNa5wgqkxBTUUzLjkxqqqqqqqqqqqqqqqqqqqq/+NCxAArVALtRHsMnAgFfixUhCUoBMLATQyIJfXaIPJ0Cp2WwfhUsH4FFsJp1FEaWywpLaxn0T75x2KXnldXX1CzvM7v3qcPL21ohnf1SVMFlkrSZ6Sl596pukSVTO9c3TEPfdrs1PEG5pCRCaGspuEFmr5RyqJe5VuXb1b1N9n/inxzHdss7c31JxePUWzH4y/rt9h4N7veBbMxbmC6b6gpsG6jreNqE3hb13jOz+2e8vlxpYoERb9SKkxBTUUzLjkxqqqqqqqqqqqqqqqqqqr/40LEACr8BuSmekb9EAKnlTBiDVIWRMsJrYVlcvnSrQCHFDZcPNvyxp2M2vA0Tj6AB4ojpEgZQzQNXAgaQkinFDmyG1LLIiYdIDQKK46R827s0TyLOkYktupVJOMQ+yclc5HMpELQlB6Ult1rV4SCsHHwuQQhnxhPkxlBakEmzDGw8yxMMIb6HzKzEEFYEdB3Mg0aiVL3ZhQDmfsNBOSDbkVU2MmNH2OGtEiBjFwvEszkIjlZGYGLhUxBTUUzLjkxVVVVVVVVVVVVVVVVVVVVVf/jQsQAKgPG2KR6RziAC2ZUnmnC5lhVNxcGpTPienCXFQm8f4kCFn4JMbphHUzK6Mrnx5K2Aqx7tjY3P3vg9ElBE9zljWn0SY9JqX2DXsgMovuBLVTKylNSOERpR5l9xWk6UkmIq7c7KHv8dCjbcJSahLcIXR/kncJdqX7CarpWWTGphJt+GDXY245sv7gyDrnquZ6EWp/ZVMpZIMo7ygIZr0/BATPqpfBQqQ9nBwOiYpUON5ZMQU1FMy45MVVVVVVVVVVVVVVVVVVVVVVVVVVV/+NCxAAsA8bIpHsQ3YAXZHiZJaVAxiWl8jql2DRX0nst4uLYBPFaerceiQZ8dlNjnTwXkgBpnJssaeT0NTqsaY7XmKFCIMCgrZFHCksVEpiPayj69IJC0tUeZ3n4C05qqCFhqt/VcdQ7sFkUDwrTDxGNQJQrjnHLYkUQj34zC6SCUoYKyDU3bu59zFb1xy5Iy64Pppvks2UrixpSjOj+2O0u/T0m0gR+Y7+I4X7jWr/9HkuMWyl1hY63c9zaTEFNRTMuOTFVVVVVVVVVVVVVVVX/40LEACsDzrwEek0vAbDFOuiUASypZjAeFkL3CuPs9xGoxVHQ0kqOFAsJ7vXr2G5TObwd3cvJWMUJKs2miLciGYhZoLBVlOCJMiZB4iEDW+JdtEZ0P7aQvpNAgf9URaiyLiRmkYPNwQTrHeYsizHtVnhikaZpMLfKpApsZ9at31+xzat/9N5ampmTn4+ec5bMNfr2PWdu/l47LcWzOi0I1nN9TL995s91P2z6+uU7l2W2Izr63uW83ExBTUUzLjkxVVVVVVVVVVVVVVVVVVVVVQ==</data>
+        </data>
+      </DefineSound>
+      <StartSound objectID="24" stopPlayback="0" noMultiple="0" hasEnvelope="0" hasLoop="0" hasOutPoint="0" hasInPoint="0"/>
+      <ShowFrame/>
+      <DoAction>
+        <actions>
+          <Stop/>
+          <EndAction/>
+        </actions>
+      </DoAction>
+      <ShowFrame/>
+      <End/>
+    </tags>
+  </Header>
+</swf>

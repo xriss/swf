@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie width="640" height="480" framerate="25">
+  <background color="#004000"/>
+
+#include "../wetsrc/art/preloader.xml"
+	
+	<library>
+
+		  <clip id="layout" import="art/layout.swf"/>
+		  <clip id="numbers" import="art/numbers.swf"/>
+		  <clip import="art/sfx/beep1.swf"/>
+		  <clip import="art/sfx/beep2.swf"/>
+		  <clip import="art/sfx/beep3.swf"/>
+		  <clip id="kriss" import="art/kriss.png"/>
+	</library>
+		
+	<frame>
+	</frame>
+	
+</movie>
+
+

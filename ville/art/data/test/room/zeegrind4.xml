@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room class="Level 4">
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/zeegrind_mall.xml" />
+
+
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="./3" title="Level 3" >
+	<xyz
+	x_pos="60"
+	y_pos="0"
+	z_pos="800"
+	y_rot="0"
+	/>
+</vobj>
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="./5" title="Level 5" >
+	<xyz
+	x_pos="1540"
+	y_pos="0"
+	z_pos="800"
+	y_rot="0"
+	/>
+</vobj>
+
+
+<vobj class="hook" id="1" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="20"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+<vobj class="hook" id="2" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="60"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+<vobj class="hook" id="3" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="100"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+
+<vobj class="hook" id="4" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="1500"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+<vobj class="hook" id="5" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="1540"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+<vobj class="hook" id="6" brain="zeegrind" src="http://data.wetgenes.com/game/s/ville/test/vobj/ring.xml" >
+	<xyz
+	x_pos="1580"
+	y_pos="0"
+	z_pos="20"
+	/>
+</vobj>
+
+
+</room></ville>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room class="Level 11">
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/zeegrind_dunbonkin.xml" />
+
+
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./1" title="Level 1" >
+	<xyz
+	x_pos="60"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./2" title="Level 2" >
+	<xyz
+	x_pos="145"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./3" title="Level 3" >
+	<xyz
+	x_pos="230"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./4" title="Level 4" >
+	<xyz
+	x_pos="315"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./5" title="Level 5" >
+	<xyz
+	x_pos="400"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./6" title="Level 6" >
+	<xyz
+	x_pos="705"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./7" title="Level 7" >
+	<xyz
+	x_pos="790"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./8" title="Level 8" >
+	<xyz
+	x_pos="875"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./9" title="Level 9" >
+	<xyz
+	x_pos="960"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/blank.xml" dest="./10" title="Level 10" >
+	<xyz
+	x_pos="1045"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+
+
+</room></ville>

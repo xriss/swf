@@ -1,0 +1,16 @@
+background
+wardrobeb
+wonderful4
+wonderful5
+keya
+drawer_b3_shut
+drawer_b2_shut
+drawer_b1_shut
+drawer_b0_shut
+drawer_b3_open
+drawer_b2_open
+drawer_b1_open
+drawer_b0_open
+flame2,flame
+flame2_inner,flame
+backarrow

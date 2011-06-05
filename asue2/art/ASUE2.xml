@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie version="8" width="960" height="480" framerate="50">
+  <background color="#000000"/>
+
+	
+#if not frame2only then
+
+#include "../wetsrc/art/preloader.xml"
+
+#end
+ 
+ 
+ 
+
+#if not frame1only then
+
+	<library>
+
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/#(v).swf"/>
+#end
+	
+		<clip import="art/sfx/001.swf"/>
+		<clip import="art/sfx/002.swf"/>
+		<clip import="art/sfx/003.swf"/>
+		<clip import="art/sfx/004.swf"/>
+		<clip import="art/sfx/005.swf"/>
+		<clip import="art/sfx/006.swf"/>
+		<clip import="art/sfx/asue2.swf"/>
+		
+		<clip import="art/sfx/object.swf"/>
+		<clip import="art/sfx/rainbow.swf"/>
+
+	</library>
+		
+	<frame>
+	</frame>
+
+#end
+
+
+
+</movie>
+
+

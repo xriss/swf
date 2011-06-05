@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<movie version="8" width="800" height="600" framerate="50">
+
+  <background color="#000000"/>
+	  
+<library>
+<clip id="X4b1474d31" import="out/menu_01.png"/>
+<clip id="X4b1474d32" import="out/menu_02.png"/>
+<clip id="X4b1474d33" import="out/menu_03.png"/>
+<clip id="X4b1474d34" import="out/menu_04.png"/>
+<clip id="X4b1474d35" import="out/menu_05.png"/>
+<clip id="X4b1474d36" import="out/menu_06.png"/>
+<clip id="X4b1474d37" import="out/menu_07.png"/>
+<clip id="X4b1474d38" import="out/menu_08.png"/>
+<clip id="X4b1474d39" import="out/menu_09.png"/>
+<clip id="X4b1474d310" import="out/menu_10.png"/>
+<clip id="X4b1474d311" import="out/menu_11.png"/>
+</library>
+<frame>
+<place id="X4b1474d31" x="30" y="97" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d32" x="106" y="245" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d33" x="632" y="49" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d34" x="710" y="75" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d35" x="683" y="120" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d36" x="696" y="195" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d37" x="610" y="229" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d38" x="675" y="252" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d39" x="635" y="293" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d310" x="238" y="299" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b1474d311" x="283" y="301" depth="1"/> 
+</frame>
+</movie>

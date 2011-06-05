@@ -1,0 +1,1 @@
+#include "../wetsrc/MainStatic.as"

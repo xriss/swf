@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+ <entry>
+ 
+   <title>EsTension</title>
+   
+   <subtitle>The uncharted land between Joust and Gravitar.</subtitle>
+   
+   <description>A one week experimental game project that flys the uncharted land between Joust and Gravitar.</description>
+
+   <longdescription>   Mostly an experiment with a one dimension cellular water model combined with particles.
+   It also had game.
+		</longdescription>
+   
+   <dir name="estension" />   
+   <like href="http://like.wetgenes.com/-/game/5375/EsTension" />
+   <link href="http://games.wetgenes.com/games/EsTension.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/estension.png" />
+   <game href="http://www.wetgenes.com/link/EsTension.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=54aa819bbe2dbdc9ea5719ff7df6b33d" />
+   
+ </entry>
+ <entry>
+ 
+   <title>ASUE1</title>
+   
+   <subtitle>Episode 1 : The horse</subtitle>
+   
+   <description>A series of unexpected escapes. Episode 1 : The horse . The game play may be simple but how fast can you escape?</description>
+
+   <longdescription>   This game was originaly a comic, that you can find linked as the walkthrough inside the game.
+   Which means it is quite short and mostly a joke, however it still includes highscores and a challenge for anyone who wants to play.
+		</longdescription>
+   
+   <dir name="ASUE1" />   
+   <like href="http://like.wetgenes.com/-/game/5383/ASUE1" />
+   <link href="http://games.wetgenes.com/games/ASUE1.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/asue1.png" />
+   <game href="http://www.wetgenes.com/link/ASUE1.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=46b2bfff650945cb69e2ea07c7475e85" />
+   
+ </entry>
+ <entry>
+ 
+   <title>RomZom</title>
+   
+   <subtitle>Where there is no enape.</subtitle>
+   
+   <description>A point and click escape from the room game with a lovecraftian horror stylee. Yes episode 2 is under development...</description>
+
+   <longdescription>   Our first real room escape game which we spent far too long making.
+   Its very pretty though.
+   By far the most unique thing about the escape from the room (EFTR) games from wetgenes is the built in chat and even MUSH.
+   Some people like pointnclick adventure games and some people don't but letting people help each other whilst they play adds another dimension.
+   The game is sticky in that people often return simply to be able to offer clues and chat to the new players.
+		</longdescription>
+   
+   <dir name="romzom" />   
+   <like href="http://like.wetgenes.com/-/game/5399/RomZom" />
+   <link href="http://games.wetgenes.com/games/RomZom.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/romzom.png" />
+   <game href="http://www.wetgenes.com/link/RomZom.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=7952e6399031e2fa41fae250ca0157c1" />
+   
+ </entry>
+ <entry>
+ 
+   <title>Diamonds</title>
+   
+   <subtitle>Take two diamonds into the shower? Not me. I just match three and bling.</subtitle>
+   
+   <description>Take two diamonds into the shower? Not me. I just match three and bling. Play a swap puzzle game every day and compete with other players to find the best solution.</description>
+
+   <longdescription>   This game features a daily random puzzle (Which is rather hard) or a freeplay endurance mode (Which is rather easy) as well as multiplayer action.
+   Just another working of the match three style genre, mostly designed to be a two player turn based game.
+		</longdescription>
+   
+   <dir name="diamonds" />   
+   <like href="http://like.wetgenes.com/-/game/27250/Diamonds" />
+   <link href="http://games.wetgenes.com/games/Diamonds.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/diamonds.png" />
+   <game href="http://www.wetgenes.com/link/Diamonds.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=02f928bfab8f8fe5d4ef1430d5272cb0" />
+   
+ </entry>
+ <entry>
+ 
+   <title>WetDike</title>
+   
+   <subtitle>OMFG these cards are out of order!</subtitle>
+   
+   <description>An online version of klondike / solitaire / patience, play a card puzzle game every day and compete with other players to find the best solution.</description>
+
+   <longdescription>   Play draw 3 solitaire in a very competative way.
+   Very competative, you probably will not be able to get a daily high score without lots of practise.
+   Please note this game is not random, the shuffle is random but everyone is playing with the same card order so its how you deal with that shuffle that counts.
+		</longdescription>
+   
+   <dir name="wetdike" />   
+   <like href="http://like.wetgenes.com/-/game/5482/WetDike" />
+   <link href="http://games.wetgenes.com/games/WetDike.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/wetdike.png" />
+   <game href="http://www.wetgenes.com/link/WetDike.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=f5fa841802c0b89831923e850c8ec440" />
+   
+ </entry>
+ <entry>
+ 
+   <title>GojiRama</title>
+   
+   <subtitle>The typing of the rizard.</subtitle>
+   
+   <description>The typing of the rizard. Simple typing fun. Smash buildings using the power of your keyboard.</description>
+
+   <longdescription>   A quick simple typing game made for incluson in a friends zine.
+		</longdescription>
+   
+   <dir name="gojirama" />   
+   <like href="http://like.wetgenes.com/-/game/6515/GojiRama" />
+   <link href="http://games.wetgenes.com/games/GojiRama.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/gojirama.png" />
+   <game href="http://www.wetgenes.com/link/GojiRama.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=20676f3af17fbfe7a018b8428d9a7c12" />
+   
+ </entry>
+ <entry>
+ 
+   <title>AdventIsland</title>
+   
+   <subtitle>advent.exe</subtitle>
+   
+   <description>An old school text adventure simplified into a point and click environment. Very dumbed down but still a classic style text adventure.</description>
+
+   <longdescription>   This is like an old school text adventure, I mean, it has a maze and everything.
+   Only you do not have to type, and things have been simplified so it is mostly just sort of wandering around and picking things up.
+   Unfortunately you do still have to read rather than just look at pretty pictures and click randomly whilst demanding help. You may even find it necessary to draw your own map of the maze.
+   If you do want to make a map you then find a village elder to teach you what a pencil is and how you draw maps of mazes, I recommend using graph paper (maybe squares but I always preferred graph) for the full old school experience.
+   Asking people in chat to draw you a map probably won't be much help. 
+		</longdescription>
+   
+   <dir name="adventisland" />   
+   <like href="http://like.wetgenes.com/-/game/6059/AdventIsland" />
+   <link href="http://games.wetgenes.com/games/AdventIsland.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/adventisland.png" />
+   <game href="http://www.wetgenes.com/link/AdventIsland.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=2b27ce19a8b11d06ec7bf048243ad76e" />
+   
+ </entry>
+ <entry>
+ 
+   <title>Minions</title>
+   
+   <subtitle>Create your avatar minion.</subtitle>
+   
+   <description>Create your avatar minion for use on www.WetGenes.com and in future games. This is done using a custom chrome/firefox/opera plugin.</description>
+
+   <longdescription>		</longdescription>
+   
+   <dir name="minions" />   
+   <like href="http://like.wetgenes.com/-/game/49939/Minions" />
+   <link href="http://games.wetgenes.com/games/Minions.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/minions.png" />
+   <game href="http://www.wetgenes.com/link/Minions.swf" />
+   <mochibot href="http://www.mochibot.com/" />
+   
+ </entry>
+ <entry>
+ 
+   <title>WetTest</title>
+   
+   <subtitle>Run beta codes in your browser.</subtitle>
+   
+   <description>Run beta codes in your browser. This is done using a custom chrome/firefox/opera plugin.</description>
+
+   <longdescription>		</longdescription>
+   
+   <dir name="wettest" />   
+   <like href="http://like.wetgenes.com/-/game/54623/WetTest" />
+   <link href="http://games.wetgenes.com/games/WetTest.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/wettest.png" />
+   <game href="http://www.wetgenes.com/link/WetTest.swf" />
+   <mochibot href="http://www.mochibot.com/" />
+   
+ </entry>
+ <entry>
+ 
+   <title>BatWsBall</title>
+   
+   <subtitle>Keep the ball on screen for as long as you can.</subtitle>
+   
+   <description>Pure retro pong endurance. Just keep the ball on screen for as long as you can. Every nudge shrinks your bat so try not to move unless you have to.</description>
+
+   <longdescription>   This is the best pong type game we could come up with and an example that something interesting can still easily be achieved with a game genre that has alrady been remade to death.
+		</longdescription>
+   
+   <dir name="batwsball" />   
+   <like href="http://like.wetgenes.com/-/game/6714/BatWsBall" />
+   <link href="http://games.wetgenes.com/games/BatWsBall.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/batwsball.png" />
+   <game href="http://www.wetgenes.com/link/BatWsBall.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=5453efdfdf79a0c2530fd991e9fde621" />
+   
+ </entry>
+ <entry>
+ 
+   <title>BowWow</title>
+   
+   <subtitle>Harvest the sky potatoes by the power of your bow. Wow!</subtitle>
+   
+   <description>Harvest the sky potatoes by the power of your bow. Wow! Each day a new weather system creates an interesting puzzle.</description>
+
+   <longdescription>   Shoot arrows and score high in this little puzzle game.
+   I'm sorry there is no blood.
+   Or missing apples and hitting people in the throat.
+   Sorry, this game is not for you.
+   If however you like puzzles and finding the perfect angle to sligshot around the sun and hit that target behind you, then this game is for you.
+		</longdescription>
+   
+   <dir name="bowwow" />   
+   <like href="http://like.wetgenes.com/-/game/5345/BowWow" />
+   <link href="http://games.wetgenes.com/games/BowWow.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/bowwow.png" />
+   <game href="http://www.wetgenes.com/link/BowWow.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=09f2b400fc0a38cef3aae22b4b9e7dc9" />
+   
+ </entry>
+ <entry>
+ 
+   <title>WetBasement</title>
+   
+   <subtitle>A water filled platform game extravaganza!</subtitle>
+   
+   <description>A water filled platform game extravaganza! But do not fear the water, it is there to help you reach the hard to reach places.</description>
+
+   <longdescription>   A frst try of a monoscreen platform engine, featuring water.
+   The game is very simple and easy but provides challenge if you want to score high...
+		</longdescription>
+   
+   <dir name="basement" />   
+   <like href="http://like.wetgenes.com/-/game/5227/WetBasement" />
+   <link href="http://games.wetgenes.com/games/WetBasement.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/basement.png" />
+   <game href="http://www.wetgenes.com/link/WetBasement.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=3048271c02d74e003d6fd8556d0a41a3" />
+   
+ </entry>
+ <entry>
+ 
+   <title>Mute</title>
+   
+   <subtitle>A 48 hour game project, turning negativity into game.</subtitle>
+   
+   <description>A 48 hour game project, turning negativity into game. Please remember that we are not interested in pandering to the moronity. If you like our work YAY, if you do not then please go away.</description>
+
+   <longdescription>   All of that said, this game does contain gameplay and a challenge. Carrying the pieces to the top is easy, but it takes planing to score high from combos.
+   A response to gametards in gameform. Thats probably meta. Still it is a nice little game if you try and play it to score high.
+		</longdescription>
+   
+   <dir name="mute" />   
+   <like href="http://like.wetgenes.com/-/game/5183/Mute" />
+   <link href="http://games.wetgenes.com/games/Mute.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/mute.png" />
+   <game href="http://www.wetgenes.com/link/Mute.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=aec0bd7c69ae20e9e38749cd607a0581" />
+   
+ </entry>
+ <entry>
+ 
+   <title>ASUE2</title>
+   
+   <subtitle>Episode 2 : The Gum Machine.</subtitle>
+   
+   <description>A series of unexpected escapes. Episode 2 : The Gum Machine. Escape from the rooms as fast as you can.</description>
+
+   <longdescription>   A multi room escape adventure, collect items, solve puzzles and escape with a super score.
+   By far the most unique thing about the escape from the room (EFTR) games from wetgenes is the built in chat and even MUSH.
+   Some people like pointnclick adventure games and some people don't but letting people help each other whilst they play adds another dimension.
+   The game is sticky in that people often return simply to be able to offer clues and chat to the new players.
+		</longdescription>
+   
+   <dir name="ASUE2" />   
+   <like href="http://like.wetgenes.com/-/game/4826/ASUE2" />
+   <link href="http://games.wetgenes.com/games/ASUE2.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/asue2.png" />
+   <game href="http://www.wetgenes.com/link/ASUE2.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=f61651a26cfd3f81293f1429b6530233" />
+   
+ </entry>
+ <entry>
+ 
+   <title>Take1</title>
+   
+   <subtitle>When Harry met Sally.</subtitle>
+   
+   <description>The unholy dress-down child of katamari damacy / eledees and mindless clicking keep up juggling flash games. If this doesn't break your mouse button, nothing will.</description>
+
+   <longdescription>   Button mashing, thats all it is. Really just button mashing.
+   We just wanted to try and come up with a simple engine for turning a picture into a game. Without resorting to 5 differences.
+		</longdescription>
+   
+   <dir name="take1" />   
+   <like href="http://like.wetgenes.com/-/game/6645/Take1" />
+   <link href="http://games.wetgenes.com/games/Take1.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/take1.png" />
+   <game href="http://www.wetgenes.com/link/Take1.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=f3131c9fcc061ddce66766e74593b581" />
+   
+ </entry>
+ <entry>
+ 
+   <title>PixlCoop</title>
+   
+   <subtitle>OMFG these pixls are out of order!</subtitle>
+   
+   <description>An online cooperative pixel jigsaw. Help each other to drag pieces around and build the final image as fast as you can. The more people who play as an organized group the higher their group score is. Invite your friends to play with you for maximum success.</description>
+
+   <longdescription>   Another simple game. However this is multiplayer online, so quite complicated to pull off.
+		</longdescription>
+   
+   <dir name="pixlcoop" />   
+   <like href="http://like.wetgenes.com/-/game/10463/PixlCoop" />
+   <link href="http://games.wetgenes.com/games/PixlCoop.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/pixlcoop.png" />
+   <game href="http://www.wetgenes.com/link/PixlCoop.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=c424ef28a9ad94cafd81bfdcccadccf8" />
+   
+ </entry>
+ <entry>
+ 
+   <title>ItsaCoop</title>
+   
+   <subtitle>Itsa bird itsa plane no, itsa coop!</subtitle>
+   
+   <description>Itsa bird itsa plane no, itsa coop!</description>
+
+   <longdescription>   Another simple game. However this is multiplayer online, so quite complicated to pull off.
+		</longdescription>
+   
+   <dir name="itsacoop" />   
+   <like href="http://like.wetgenes.com/-/game/13069/ItsaCoop" />
+   <link href="http://games.wetgenes.com/games/ItsaCoop.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/itsacoop.png" />
+   <game href="http://www.wetgenes.com/link/ItsaCoop.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=a95e1c0541bee1e7ab18a4ae1316bc28" />
+   
+ </entry>
+ <entry>
+ 
+   <title>WetV</title>
+   
+   <subtitle>Watch videos online with other people.</subtitle>
+   
+   <description>Helping to make tomorrow seem more like yesterday.</description>
+
+   <longdescription>		</longdescription>
+   
+   <dir name="tv" />   
+   <like href="http://like.wetgenes.com/-/game/15284/WetV" />
+   <link href="http://games.wetgenes.com/games/WetV.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/wetv.png" />
+   <game href="http://www.wetgenes.com/link/WetV.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=f15f19183bc82698a3cc64b80fca23c7" />
+   
+ </entry>
+ <entry>
+ 
+   <title>WetVille</title>
+   
+   <subtitle>Our online vurtual world.</subtitle>
+   
+   <description>Join us in our online vurtual world where more alpha than alpha ville is our motto. (Unlike other worlds this one is not sponsored by any large brainwashing corporation. If you are a large brainwashing corporation please contact us for an exciting business opportunity.)</description>
+
+   <longdescription>		</longdescription>
+   
+   <dir name="ville" />   
+   <like href="http://like.wetgenes.com/-/game/19419/WetVille" />
+   <link href="http://games.wetgenes.com/games/WetVille.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/wetville.png" />
+   <game href="http://www.wetgenes.com/link/WetVille.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=f15f19183bc82698a3cc64b80fca23c7" />
+   
+ </entry>
+ <entry>
+ 
+   <title>rgbTD0</title>
+   
+   <subtitle>A tower defence inspired puzzle game.</subtitle>
+   
+   <description>A tower defence inspired puzzle game. Place blocks to guide the plots to the exit.)</description>
+
+   <longdescription>		</longdescription>
+   
+   <dir name="rgbtd0" />   
+   <like href="http://like.wetgenes.com/-/game/23216/rgbTD0" />
+   <link href="http://games.wetgenes.com/games/rgbTD0.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/rgbtd0.png" />
+   <game href="http://www.wetgenes.com/link/rgbTD0.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=78a2dc2334da8b23e7d5026aa69bd58e" />
+   
+ </entry>
+ <entry>
+ 
+   <title>pief</title>
+   
+   <subtitle>Get dressed in the correct order to experience this love story and its ending.</subtitle>
+   
+   <description>Get dressed in the correct order to experience this love story and its ending.</description>
+
+   <longdescription>		</longdescription>
+   
+   <dir name="pief" />   
+   <like href="http://like.wetgenes.com/-/game/26758/pief" />
+   <link href="http://games.wetgenes.com/games/pief.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/pief.png" />
+   <game href="http://www.wetgenes.com/link/pief.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=cef9c7882d9c068f456c4b5a14e20b14" />
+   
+ </entry>
+ <entry>
+ 
+   <title>ZeeGrind</title>
+   
+   <subtitle>The CoOp zombie bonking game for all the family.</subtitle>
+   
+   <description>Join us in our CoOp Zombie Bonking extravaganza. Why not bring a friend and then leave them behind to survive?</description>
+
+   <longdescription>		</longdescription>
+   
+   <dir name="zeegrind" />   
+   <like href="http://like.wetgenes.com/-/game/28107/ZeeGrind" />
+   <link href="http://games.wetgenes.com/games/ZeeGrind.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/zeegrind.png" />
+   <game href="http://www.wetgenes.com/link/ZeeGrind.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=f15f19183bc82698a3cc64b80fca23c7" />
+   
+ </entry>
+ <entry>
+ 
+   <title>WetPokr</title>
+   
+   <subtitle>A realtime multiplayer poker simulator featuring large cookie balloons.</subtitle>
+   
+   <description>A realtime multiplayer poker simulator featuring large cookie balloons. Join us on the hour at the hour for the whale bonus feeding frendzy.</description>
+
+   <longdescription>		</longdescription>
+   
+   <dir name="wetpokr" />   
+   <like href="http://like.wetgenes.com/-/game/28861/WetPokr" />
+   <link href="http://games.wetgenes.com/games/WetPokr.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/wetpokr.png" />
+   <game href="http://www.wetgenes.com/link/WetPokr.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=f15f19183bc82698a3cc64b80fca23c7" />
+   
+ </entry>
+ <entry>
+ 
+   <title>WetCell</title>
+   
+   <subtitle>OMFG these cards are out of order!</subtitle>
+   
+   <description>An online version of freecell, play a card puzzle game every day and compete with other players to find the best solution.</description>
+
+   <longdescription>   Play freecell in a very competative way.
+   Very competative, you probably will not be able to get a daily high score without lots of practise.
+   Please note this game is not random, the shuffle is random but everyone is playing with the same card order so its how you deal with that shuffle that counts.
+		</longdescription>
+   
+   <dir name="wetcell" />   
+   <like href="http://like.wetgenes.com/-/game/47815/WetCell" />
+   <link href="http://games.wetgenes.com/games/WetCell.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/wetcell.png" />
+   <game href="http://www.wetgenes.com/link/WetCell.swf" />
+   <mochibot href="http://www.mochibot.com/shared/?key=f5fa841802c0b89831923e850c8ec440" />
+   
+ </entry>
+ <entry>
+ 
+   <title>Only1</title>
+   
+   <subtitle>Enjoy a little hop skip and scrump adventure!</subtitle>
+   
+   <description>Enjoy a little hop skip and scrump adventure!</description>
+
+   <longdescription>		Enjoy a little hop skip and scrump adventure!
+		</longdescription>
+   
+   <dir name="only1" />   
+   <like href="http://like.wetgenes.com/-/game/49941/Only1" />
+   <link href="http://games.wetgenes.com/games/Only1.php" />
+   <icon href="http://swf.wetgenes.com/swf/wetlinks/only1.png" />
+   <game href="http://www.wetgenes.com/link/Only1.swf" />
+   <mochibot href="" />
+   
+ </entry>
+</feed>

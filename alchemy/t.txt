@@ -1,0 +1,475 @@
+-- --Building src_mesa_drivers_common from src/mesa/drivers/common
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/drivers/common/driverfuncs.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/drivers/common/driverfuncs.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_drivers_osmesa from src/mesa/drivers/osmesa
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/drivers/osmesa/osmesa.c
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_glapi from src/mesa/glapi
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glapi.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glapi_getproc.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glthread.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/dispatch.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glapi.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glapioffsets.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glapitable.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glapitemp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glprocs.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/glapi/glthread.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_main from src/mesa/main
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/accum.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_arrayelt.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_exec.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_loopback.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_noop.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_validate.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/arrayobj.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/attrib.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/blend.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/bufferobj.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/buffers.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/clear.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/clip.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/colortab.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/context.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/convolve.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/debug.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/depth.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/depthstencil.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/dispatch.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/dlist.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/dlopen.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/drawpix.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/enable.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/enums.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/eval.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/execmem.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/extensions.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/fbobject.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/feedback.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/ffvertex_prog.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/fog.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/framebuffer.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/get.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/getstring.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/hash.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/hint.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/histogram.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/image.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/imports.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/light.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/lines.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/matrix.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/mipmap.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/mm.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/multisample.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/pixel.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/pixelstore.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/points.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/polygon.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/queryobj.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/rastpos.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/rbadaptors.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/readpix.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/renderbuffer.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/scissor.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/shaders.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/state.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/stencil.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texcompress.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texcompress_fxt1.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texcompress_s3tc.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texenv.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texenvprogram.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texformat.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texgen.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/teximage.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texobj.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texparam.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texrender.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texstate.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texstore.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/varray.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/vtxfmt.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/accum.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_arrayelt.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_exec.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_loopback.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_noop.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/api_validate.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/arrayobj.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/attrib.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/bitset.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/blend.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/bufferobj.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/buffers.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/clear.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/clip.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/colormac.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/colortab.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/config.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/context.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/convolve.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/dd.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/debug.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/depth.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/depthstencil.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/dlist.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/dlopen.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/drawpix.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/enable.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/enums.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/eval.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/extensions.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/fbobject.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/feedback.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/ffvertex_prog.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/fog.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/framebuffer.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/get.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/glheader.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/hash.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/hint.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/histogram.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/image.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/imports.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/light.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/lines.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/macros.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/matrix.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/mfeatures.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/mipmap.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/mm.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/mtypes.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/multisample.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/pixel.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/pixelstore.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/points.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/polygon.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/queryobj.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/rastpos.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/rbadaptors.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/readpix.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/renderbuffer.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/scissor.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/shaders.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/simple_list.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/state.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/stencil.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texcompress.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texenv.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texenvprogram.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texformat.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texformat_tmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texgen.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/teximage.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texobj.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texparam.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texrender.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texstate.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/texstore.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/varray.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/version.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/vtxfmt.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/main/vtxfmt_tmp.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_math from src/mesa/math
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_debug_clip.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_debug_norm.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_debug_xform.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_eval.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_matrix.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_translate.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_vector.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_xform.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/mathmod.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_clip_tmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_copy_tmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_debug.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_debug_util.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_dotprod_tmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_eval.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_matrix.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_norm_tmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_translate.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_trans_tmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_vector.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_xform.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/math/m_xform_tmp.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_ppc from src/mesa/ppc
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/ppc/common_ppc.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/ppc/common_ppc_features.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_shader from src/mesa/shader
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/arbprogparse.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/arbprogram.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/atifragshader.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/nvfragparse.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/nvprogram.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/nvvertparse.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/program.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/programopt.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_cache.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_debug.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_execute.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_instruction.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_noise.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_parameter.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_print.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_statevars.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_uniform.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/shader_api.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/arbprogparse.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/arbprogram.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/arbprogram_syn.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/atifragshader.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/nvfragparse.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/nvprogram.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/nvvertparse.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/program.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/programopt.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_cache.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_debug.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_execute.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_instruction.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_noise.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_parameter.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_print.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_statevars.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/prog_uniform.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/shader_api.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_shader_slang from src/mesa/shader/slang
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_builtin.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_codegen.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile_function.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile_operation.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile_struct.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile_variable.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_emit.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_ir.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_label.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_link.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_log.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_mem.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_preprocess.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_print.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_simplify.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_storage.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_typeinfo.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_utility.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_vartable.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_builtin.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_codegen.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile_function.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile_operation.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile_struct.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_compile_variable.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_emit.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_ir.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_label.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_link.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_log.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_mem.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_preprocess.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_print.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_simplify.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_storage.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_typeinfo.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_utility.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/shader/slang/slang_vartable.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_swrast from src/mesa/swrast
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_aaline.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_aatriangle.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_accum.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_alpha.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_atifragshader.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_bitmap.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_blend.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_blit.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_buffers.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_context.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_copypix.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_depth.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_drawpix.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_feedback.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_fog.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_fragprog.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_imaging.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_lines.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_logic.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_masking.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_points.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_readpix.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_span.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_stencil.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_texcombine.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_texfilter.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_texstore.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_triangle.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_zoom.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/swrast.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_aaline.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_aalinetemp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_aatriangle.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_aatritemp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_accum.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_alpha.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_atifragshader.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_blend.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_context.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_depth.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_feedback.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_fog.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_fragprog.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_lines.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_linetemp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_logic.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_masking.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_points.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_span.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_spantemp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_stencil.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_texcombine.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_texfilter.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_triangle.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_trispan.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_tritemp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast/s_zoom.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_swrast_setup from src/mesa/swrast_setup
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast_setup/ss_context.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast_setup/ss_triangle.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast_setup/ss_context.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast_setup/ss_triangle.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast_setup/ss_tritmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast_setup/ss_vb.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/swrast_setup/swrast_setup.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_tnl from src/mesa/tnl
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_context.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_draw.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_pipeline.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_rasterpos.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_cull.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_fog.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_light.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_normals.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_points.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_program.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_render.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_texgen.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_texmat.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_vertex.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vertex.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vertex_generic.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vertex_sse.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vp_build.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/tnl.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_context.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_pipeline.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_cliptmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_lighttmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vb_rendertmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vertex.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/tnl/t_vp_build.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_mesa_vbo from src/mesa/vbo
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_context.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_exec.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_exec_api.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_exec_array.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_exec_draw.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_exec_eval.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_rebase.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_save.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_save_api.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_save_draw.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_save_loopback.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_split.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_split_copy.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_split_inplace.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_attrib.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_attrib_tmp.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_context.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_exec.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_save.h
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/mesa/vbo/vbo_split.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src_glu_sgi_libutil from src/glu/sgi/libutil
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/glu/sgi/libutil/error.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/glu/sgi/libutil/glue.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/glu/sgi/libutil/mipmap.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/glu/sgi/libutil/project.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/glu/sgi/libutil/quad.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/glu/sgi/libutil/registry.c
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/mesa/src/glu/sgi/libutil/gluint.h
+-- --
+-- --Done
+-- --
+-- --
+-- --Building src from src
+-- --
+-- --Found source /mnt/hgfs/wet/swf/alchemy/src/test/src/test.c
+-- --
+-- --Done
+-- --
+-- --
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/hgfs/wet/swf/alchemy/alc/debug

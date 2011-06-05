@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room>
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/corridor.xml" />
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.corridor" title="Exit" >
+	<xyz
+	x_pos="0"
+	y_pos="0"
+	z_pos="100"
+	y_rot="90"
+	/>
+</vobj>
+
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public" title="Public" >
+	<xyz
+	x_pos="50"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/swearbox.xml" dest="swearbox" title="Swear Box" >
+	<xyz
+	x_pos="150"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/limbo.xml" dest="limbo" title="Limbo" >
+	<xyz
+	x_pos="250"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.news" title="News" >
+	<xyz
+	x_pos="350"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.rank5" title="Rank 5" >
+	<xyz
+	x_pos="450"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.rank10" title="Rank 10" >
+	<xyz
+	x_pos="550"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.bigpong" title="Big Pong" >
+	<xyz
+	x_pos="650"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+</room></ville>

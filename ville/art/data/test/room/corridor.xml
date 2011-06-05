@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room>
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/corridor.xml" />
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/surprise.xml" dest="follow" title="Follow Me" >
+	<xyz
+	x_pos="50"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public" title="Public" >
+	<xyz
+	x_pos="150"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/kickabout.xml" dest="./play" title="Arcade" >
+	<xyz
+	x_pos="250"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/tv.xml" dest="./view" title="AV Club" >
+	<xyz
+	x_pos="350"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/clan.xml" dest="clan" title="Clan Room" >
+	<xyz
+	x_pos="450"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="home" title="Home" >
+	<xyz
+	x_pos="550"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="./pubs" title="Lobby" >
+	<xyz
+	x_pos="650"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="./rets" title="Rentals" >
+	<xyz
+	x_pos="750"
+	y_pos="0"
+	z_pos="360"
+	y_rot="0"
+	/>
+</vobj>
+
+
+<vroom name="play" src="http://data.wetgenes.com/game/s/ville/test/room/corridor_play.xml" />
+
+<vroom name="view" src="http://data.wetgenes.com/game/s/ville/test/room/corridor_view.xml" />
+
+<vroom name="pubs" src="http://data.wetgenes.com/game/s/ville/test/room/corridor_pubs.xml" />
+
+<vroom name="rets" src="http://data.wetgenes.com/game/s/ville/test/room/corridor_rets.xml" />
+
+</room></ville>

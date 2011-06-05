@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<widget name="WetBio"
+        description="Behold! Your unbelievably moist personalized biorhythm reading and fortune cookie toy."
+        aspectratio="4:1"
+        height="400" 
+        width="120" 
+        >
+  <custom>
+    <birth caption="Birthdate of subject day/month/year" type="textbox" maxlenth="16" default="31/12/1999" />
+    <title caption="Text to be displayed in the title bar" type="textbox" maxlenth="128" default="My biorhythms reading for today." />
+    <theme caption="theme name. (right click on widget to see available themes)" type="textbox" maxlenth="32" default="pastelblu" />
+  </custom>
+</widget>

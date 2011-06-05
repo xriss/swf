@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="640" height="480" framerate="25">
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+ 
+		<library>		
+		
+		<clip id="rom0" import="art/rom0.swf"/>
+		<clip id="rom1" import="art/rom1.swf"/>
+		<clip id="rom1_a" import="art/rom1_a.swf"/>
+		<clip id="rom1_b" import="art/rom1_b.swf"/>
+		<clip id="rom1_shoe" import="art/rom1_shoe.swf"/>
+		<clip id="rom2" import="art/rom2.swf"/>
+		<clip id="rom2_boil" import="art/rom2_boil.swf"/>
+		<clip id="rom2_rad" import="art/rom2_rad.swf"/>
+		<clip id="rom2_belly" import="art/rom2_belly.swf"/>
+		<clip id="rom3" import="art/rom3.swf"/>
+		<clip id="rom3_ceiling" import="art/rom3_ceiling.swf"/>
+		<clip id="rom3_cock" import="art/rom3_cock.swf"/>
+		<clip id="rom3_lock" import="art/rom3_lock.swf"/>
+		<clip id="rom3_loo" import="art/rom3_loo.swf"/>
+		<clip id="rom3_phone" import="art/rom3_phone.swf"/>
+		<clip id="rom3_ham" import="art/rom3_ham.swf"/>
+		<clip id="rom3_tub" import="art/rom3_tub.swf"/>
+		<clip id="rom3_bowl" import="art/rom3_bowl.swf"/>
+		<clip id="rom3_peep" import="art/rom3_peep.swf"/>
+		<clip id="rom4" import="art/rom4.swf"/>
+		<clip id="rom5" import="art/rom5.swf"/>
+		<clip id="rom6" import="art/rom6.swf"/>
+		<clip id="rom6_left" import="art/rom6_left.swf"/>
+		<clip id="rom6_right" import="art/rom6_right.swf"/>
+		<clip id="wakeup" import="art/wakeup.swf"/>
+		<clip id="end" import="art/end.swf"/>
+		<clip id="hole" import="art/hole.swf"/>
+		
+		<clip id="comic" import="art/face.png"/>
+		
+		<clip id="swf_play" import="art/play.swf"/>
+		
+
+		<clip import="art/sfx/bloop.swf"/>
+		<clip import="art/sfx/blow.swf"/>
+		<clip import="art/sfx/breeze.swf"/>
+		<clip import="art/sfx/chant.swf"/>
+		<clip import="art/sfx/clink.swf"/>
+		<clip import="art/sfx/drop.swf"/>
+		<clip import="art/sfx/dropecho.swf"/>
+		<clip import="art/sfx/notone.swf"/>
+		<clip import="art/sfx/plop.swf"/>
+		<clip import="art/sfx/screw.swf"/>
+		<clip import="art/sfx/tone.swf"/>
+		<clip import="art/sfx/tone1.swf"/>
+		<clip import="art/sfx/tone2.swf"/>
+		<clip import="art/sfx/tone3.swf"/>
+		<clip import="art/sfx/tone4.swf"/>
+
+		<clip import="art/sfx/rip.swf"/>
+		<clip import="art/sfx/glass.swf"/>
+		<clip import="art/sfx/click.swf"/>
+		
+		<clip import="art/sfx/door.swf"/>
+		<clip import="art/sfx/key.swf"/>
+		<clip import="art/sfx/blood.swf"/>
+		<clip import="art/sfx/up.swf"/>
+		<clip import="art/sfx/ecto.swf"/>
+		<clip import="art/sfx/down.swf"/>
+		
+		<clip import="art/sfx/num.swf"/>
+		<clip import="art/sfx/boo.swf"/>
+		<clip import="art/sfx/jar.swf"/>
+		<clip import="art/sfx/honk.swf"/>
+		<clip import="art/sfx/honk1.swf"/>
+		<clip import="art/sfx/honk2.swf"/>
+		<clip import="art/sfx/honk3.swf"/>
+
+		<clip import="art/sfx/romzom.swf"/>
+	
+		<clip id="thumb1" import="art/jpgthumbs/001.jpg"/>
+		<clip id="thumb2" import="art/jpgthumbs/002.jpg"/>
+		<clip id="thumb3" import="art/jpgthumbs/003.jpg"/>
+		<clip id="thumb4" import="art/jpgthumbs/004.jpg"/>
+		<clip id="thumb5" import="art/jpgthumbs/005.jpg"/>
+		<clip id="thumb6" import="art/jpgthumbs/006.jpg"/>
+		<clip id="thumb7" import="art/jpgthumbs/007.jpg"/>
+		<clip id="thumb8" import="art/jpgthumbs/008.jpg"/>
+		<clip id="thumb9" import="art/jpgthumbs/009.jpg"/>
+		<clip id="thumb10" import="art/jpgthumbs/010.jpg"/>
+		<clip id="thumb11" import="art/jpgthumbs/011.jpg"/>
+		<clip id="thumb12" import="art/jpgthumbs/012.jpg"/>
+		<clip id="thumb13" import="art/jpgthumbs/013.jpg"/>
+		
+		</library>
+		
+	<frame>
+	</frame>
+
+</movie>
+
+

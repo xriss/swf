@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="door4x1">
+<xy
+	x_off="0"
+	y_off="0"
+/>
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="0"
+	y_siz="0"
+	z_siz="0"
+/>
+
+<brain type="door">
+</brain>
+
+</vobj></ville>

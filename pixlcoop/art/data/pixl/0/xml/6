@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pixl name="e" dir="0" height="16" id="6" width="16" >
+ <link href="http://en.wikipedia.org/wiki/E" />
+ <text >
+  This is an easy E, play fast to win.
+ </text>
+ <img src="http://data.wetgenes.com/game/s/pixlcoop/pixl/0/img/e.png" />
+</pixl>

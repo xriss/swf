@@ -1,0 +1,25 @@
+<?php
+header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
+header("Expires: Mon, 26 Jul 1997 05:00:00 GMT"); // Date in the past
+
+// get all parts after this script name
+$s = split("/", substr($_SERVER['PHP_SELF'],strlen($_SERVER['SCRIPT_NAME'])+1));
+for($i=0; $i<count($s); $i++)
+{
+	$_GET[$i]=$s[$i];
+}
+
+
+// map xml/0-65535 into 0/xml/actualfile so we can expand easily serverside
+
+$num=floor($_GET[0]);
+$num=$num&0xffff;
+
+
+// available
+$id=($num%18);
+
+//test
+//$id=6;
+
+echo file_get_contents("0/xml/$id");

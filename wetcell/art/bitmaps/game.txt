@@ -1,0 +1,10 @@
+menu
+window
+quit
+score
+shuffle
+restart
+quit_over
+score_over
+shuffle_over
+restart_over

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<movie version="8" width="640" height="480" framerate="50">
+
+  <background color="#000000"/>
+	  
+<library>
+<clip id="X4b8ed1f11" import="out/title_01.png"/>
+<clip id="X4b8ed1f12" import="out/title_02.png"/>
+<clip id="X4b8ed1f13" import="out/title_03.png"/>
+</library>
+<frame>
+<place id="X4b8ed1f11" x="0" y="0" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b8ed1f12" x="168" y="54" depth="1"/> 
+</frame>
+<frame>
+<place id="X4b8ed1f13" x="230" y="99" depth="1"/> 
+</frame>
+</movie>

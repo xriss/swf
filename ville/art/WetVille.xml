@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+#include "src/opts.as"
+
+#(
+local function dofile(filename)
+  local f = assert(loadfile(filename))
+  return f()
+end
+
+	dofile("art/urlmap.lua")
+#)
+
+<movie version="8" width="960" height="480" framerate="25">
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+	
+	<library>
+
+		<clip id="vtard_me" import="art/data/test/vtard/me.png"/>
+
+		<clip id="pixl_txt_goal" import="art/goal.png" />
+		
+		<clip id="poker_button1" import="art/poker/button1.png" />
+		<clip id="poker_button2" import="art/poker/button2.png" />
+		<clip id="poker_button3" import="art/poker/button3.png" />
+		
+#for i,v in ipairs(urlcache) do
+#if v.img then
+		<clip id="#(v.name)" import="#(v.img)" />
+#end
+#end
+
+
+#-- these are needed for the ballclock or batwsball
+		<clip id="BC_layout" import="../ballclock/art/layout.swf"/>
+		<clip id="BC_numbers" import="../ballclock/art/numbers.swf"/>
+		
+#for i,v in ipairs({"beep1","beep2","beep3",}) do
+		<clip import="../ballclock/art/sfx/#(v).swf"/>
+#end
+
+#for i,v in ipairs(SFX) do
+		<clip import="art/sfx/#(v).swf"/>
+#end
+
+		  <clip id="k01" import="../wetdike/art/cards/wetpokr/out/h01.png"/>
+		  <clip id="k02" import="../wetdike/art/cards/wetpokr/out/h02.png"/>
+		  <clip id="k03" import="../wetdike/art/cards/wetpokr/out/h03.png"/>
+		  <clip id="k04" import="../wetdike/art/cards/wetpokr/out/h04.png"/>
+		  <clip id="k05" import="../wetdike/art/cards/wetpokr/out/h05.png"/>
+		  <clip id="k06" import="../wetdike/art/cards/wetpokr/out/h06.png"/>
+		  <clip id="k07" import="../wetdike/art/cards/wetpokr/out/h07.png"/>
+		  <clip id="k08" import="../wetdike/art/cards/wetpokr/out/h08.png"/>
+		  <clip id="k09" import="../wetdike/art/cards/wetpokr/out/h09.png"/>
+		  <clip id="k0A" import="../wetdike/art/cards/wetpokr/out/h10.png"/>
+		  <clip id="k0B" import="../wetdike/art/cards/wetpokr/out/h11.png"/>
+		  <clip id="k0C" import="../wetdike/art/cards/wetpokr/out/h12.png"/>
+		  <clip id="k0D" import="../wetdike/art/cards/wetpokr/out/h13.png"/>
+		  
+		  <clip id="k11" import="../wetdike/art/cards/wetpokr/out/s01.png"/>
+		  <clip id="k12" import="../wetdike/art/cards/wetpokr/out/s02.png"/>
+		  <clip id="k13" import="../wetdike/art/cards/wetpokr/out/s03.png"/>
+		  <clip id="k14" import="../wetdike/art/cards/wetpokr/out/s04.png"/>
+		  <clip id="k15" import="../wetdike/art/cards/wetpokr/out/s05.png"/>
+		  <clip id="k16" import="../wetdike/art/cards/wetpokr/out/s06.png"/>
+		  <clip id="k17" import="../wetdike/art/cards/wetpokr/out/s07.png"/>
+		  <clip id="k18" import="../wetdike/art/cards/wetpokr/out/s08.png"/>
+		  <clip id="k19" import="../wetdike/art/cards/wetpokr/out/s09.png"/>
+		  <clip id="k1A" import="../wetdike/art/cards/wetpokr/out/s10.png"/>
+		  <clip id="k1B" import="../wetdike/art/cards/wetpokr/out/s11.png"/>
+		  <clip id="k1C" import="../wetdike/art/cards/wetpokr/out/s12.png"/>
+		  <clip id="k1D" import="../wetdike/art/cards/wetpokr/out/s13.png"/>
+
+		  <clip id="k21" import="../wetdike/art/cards/wetpokr/out/d01.png"/>
+		  <clip id="k22" import="../wetdike/art/cards/wetpokr/out/d02.png"/>
+		  <clip id="k23" import="../wetdike/art/cards/wetpokr/out/d03.png"/>
+		  <clip id="k24" import="../wetdike/art/cards/wetpokr/out/d04.png"/>
+		  <clip id="k25" import="../wetdike/art/cards/wetpokr/out/d05.png"/>
+		  <clip id="k26" import="../wetdike/art/cards/wetpokr/out/d06.png"/>
+		  <clip id="k27" import="../wetdike/art/cards/wetpokr/out/d07.png"/>
+		  <clip id="k28" import="../wetdike/art/cards/wetpokr/out/d08.png"/>
+		  <clip id="k29" import="../wetdike/art/cards/wetpokr/out/d09.png"/>
+		  <clip id="k2A" import="../wetdike/art/cards/wetpokr/out/d10.png"/>
+		  <clip id="k2B" import="../wetdike/art/cards/wetpokr/out/d11.png"/>
+		  <clip id="k2C" import="../wetdike/art/cards/wetpokr/out/d12.png"/>
+		  <clip id="k2D" import="../wetdike/art/cards/wetpokr/out/d13.png"/>
+
+		  <clip id="k31" import="../wetdike/art/cards/wetpokr/out/c01.png"/>
+		  <clip id="k32" import="../wetdike/art/cards/wetpokr/out/c02.png"/>
+		  <clip id="k33" import="../wetdike/art/cards/wetpokr/out/c03.png"/>
+		  <clip id="k34" import="../wetdike/art/cards/wetpokr/out/c04.png"/>
+		  <clip id="k35" import="../wetdike/art/cards/wetpokr/out/c05.png"/>
+		  <clip id="k36" import="../wetdike/art/cards/wetpokr/out/c06.png"/>
+		  <clip id="k37" import="../wetdike/art/cards/wetpokr/out/c07.png"/>
+		  <clip id="k38" import="../wetdike/art/cards/wetpokr/out/c08.png"/>
+		  <clip id="k39" import="../wetdike/art/cards/wetpokr/out/c09.png"/>
+		  <clip id="k3A" import="../wetdike/art/cards/wetpokr/out/c10.png"/>
+		  <clip id="k3B" import="../wetdike/art/cards/wetpokr/out/c11.png"/>
+		  <clip id="k3C" import="../wetdike/art/cards/wetpokr/out/c12.png"/>
+		  <clip id="k3D" import="../wetdike/art/cards/wetpokr/out/c13.png"/>
+
+		  <clip id="k41" import="../wetdike/art/cards/wetpokr/out/b01.png"/>
+		  
+	</library>
+
+	<frame>
+	</frame>
+	
+</movie>
+
+

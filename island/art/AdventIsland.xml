@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="640" height="480" framerate="25">
+
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+	  
+<library>
+
+	<clip id="morn" import="art/morn.swf"/>
+	<clip id="day" import="art/day.swf"/>
+	<clip id="night" import="art/night.swf"/>
+	<clip id="temp_morn" import="art/temple_morn.swf"/>
+	<clip id="temp" import="art/temple.swf"/>
+	<clip id="temp_night" import="art/temple_night.swf"/>
+	<clip id="temp_in" import="art/temple_in.swf"/>
+	<clip id="dias" import="art/dias.swf"/>
+	<clip id="maize" import="art/maize.swf"/>
+	<clip id="null" import="art/null.swf"/>
+
+	
+</library>
+
+	<frame>
+	</frame>
+	
+
+</movie>
+
+

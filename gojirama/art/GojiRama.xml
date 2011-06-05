@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="640" height="480" framerate="25">
+  <background color="#000000"/>
+
+#include "../wetsrc/art/preloader.xml"
+	
+	<library>
+	
+
+<!--
+		  <clip id="vtard_kriss" import="art/vtard/kriss.png"/>
+		  <clip id="vtard_shi" import="art/vtard/shi.png"/>
+		  <clip id="vtard_me" import="art/vtard/me.png"/>
+		  <clip id="back_test" import="art/back_hex2_05x05_mck.png"/>
+-->
+
+		  <clip id="swf_goji" import="art/goji.swf"/>
+		  <clip id="swf_poji" import="art/pei.swf"/>
+		  <clip id="swf_over" import="art/over.swf"/>
+		  
+		  <clip id="swf_back00" import="art/back00.swf"/>
+		  <clip id="swf_back01" import="art/back01.swf"/>
+		  <clip id="swf_back02" import="art/back02.swf"/>
+		  <clip id="swf_back03" import="art/back03.swf"/>
+		  <clip id="swf_back04" import="art/back04.swf"/>
+		  <clip id="swf_back05" import="art/back05.swf"/>
+		  <clip id="swf_back06" import="art/back06.swf"/>
+
+		  
+		  <clip id="swf_ding01" import="art/ding01.swf"/>
+		  <clip id="swf_ding02" import="art/ding02.swf"/>
+		  <clip id="swf_ding03" import="art/ding03.swf"/>
+		  <clip id="swf_ding04" import="art/ding04.swf"/>
+		  <clip id="swf_ding05" import="art/ding05.swf"/>
+		  <clip id="swf_ding06" import="art/ding06.swf"/>
+		  <clip id="swf_ding07" import="art/ding07.swf"/>
+		  <clip id="swf_ding08" import="art/ding08.swf"/>
+		  <clip id="swf_ding09" import="art/ding09.swf"/>
+		  <clip id="swf_ding010" import="art/ding10.swf"/>
+		  
+		  <clip id="swf_pop" import="art/pop.swf"/>
+		  
+		  <clip id="swf_splash" import="art/splash.swf"/>
+		  
+		  <clip id="swf_play" import="art/play.swf"/>
+		  
+		  <clip id="swf_choose" import="art/choose.swf"/>
+		  
+		  <clip id="swf_miss" import="art/miss.swf"/>
+		  
+		  <clip id="swf_type" import="art/type.swf"/>
+		  
+		  <clip id="png_about" import="art/about.png"/>
+		  
+		  
+		<clip import="art/sfx/kick.swf"/>
+		  <clip import="art/sfx/roar.swf"/>
+		  
+		  <clip import="art/sfx/peikick.swf"/>
+		  <clip import="art/sfx/peiroar.swf"/>
+		  
+		  <clip import="art/sfx/peihit.swf"/>
+		  <clip import="art/sfx/peipunch.swf"/>
+		  
+		  <clip import="art/sfx/gojira.swf"/>
+		  <clip import="art/sfx/peijira.swf"/>
+		  
+		  <clip import="art/sfx/gojirama.swf"/>
+		  <clip import="art/sfx/morse.swf"/>
+		  
+		  <clip import="art/sfx/stomp.swf"/>
+	</library>
+
+	<frame>
+	</frame>
+	
+</movie>
+
+

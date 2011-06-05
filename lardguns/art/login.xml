@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="800" height="200" framerate="31">
+<FileAttributes hasMetaData="0" useNetwork="network" />
+
+  <background color="#000080"/>
+
+	<frame>
+		<library>
+		
+		  <font import="../_vera/VeraBd.ttf" 	glyphs=" @*'.,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+
+		  <clip id="register" import="art/register14.swf"/>
+		  
+		</library>
+	</frame>
+
+</movie>
+
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie width="800" height="600" framerate="30">
+  <background color="#0000ff"/>
+
+	<frame>
+		<library>
+		  <clip id="layout" import="art/layout.swf"/>
+		  <clip id="kriss" import="art/kriss.png"/>
+		  
+		  <font import="../_vera/Vera.ttf" 		glyphs=" .,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		  <font import="../_vera/VeraBd.ttf" 	glyphs=" .,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		  <font import="../_vera/VeraMono.ttf" 	glyphs=" .,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		  <font import="../_vera/VeraMoBd.ttf" 	glyphs=" .,/()!:;!?%_-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"/>
+		  
+		  <clip id="puck" import="art/puck.swf"/>
+
+		  <clip id="jingle_start" import="art/sfx/jingle_start.swf"/>
+		  <clip id="jingle_lose" import="art/sfx/jingle_lose.swf"/>
+		  <clip id="jingle_win" import="art/sfx/jingle_win.swf"/>
+		  <clip import="art/sfx/p1.swf"/>
+		  <clip import="art/sfx/p2.swf"/>
+		  <clip import="art/sfx/p3.swf"/>
+		  <clip import="art/sfx/p4.swf"/>
+		  <clip import="art/sfx/p5.swf"/>
+		  <clip import="art/sfx/p6.swf"/>
+		  <clip import="art/sfx/p7.swf"/>
+		  <clip import="art/sfx/p8.swf"/>
+		  <clip import="art/sfx/shot.swf"/>
+		  <clip import="art/sfx/bounce.swf"/>
+		  
+		</library>
+	</frame>
+
+
+</movie>
+
+

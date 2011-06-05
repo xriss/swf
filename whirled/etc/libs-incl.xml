@@ -1,0 +1,18 @@
+<!-- declares the libraries needed by the Whirled runtime -->
+<project name="whirled-dependencies" basedir=".">
+  <fileset dir="${libs.dir}" id="whirled.libs">
+    <include name="ant.jar"/>
+    <include name="commons-digester.jar"/>
+    <include name="commons-io.jar"/>
+    <include name="jetty.jar"/>
+    <include name="jetty-util.jar"/>
+    <include name="narya-base.jar"/>
+    <include name="narya-distrib.jar"/>
+    <include name="nenya-media.jar"/>
+    <include name="nenya-rsrc.jar"/>
+    <include name="samskivert.jar"/>
+    <include name="servlet-*.jar"/>
+    <include name="toybox.jar"/>
+    <include name="vilya-parlor.jar"/>
+  </fileset>
+</project>

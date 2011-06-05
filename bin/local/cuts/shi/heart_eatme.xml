@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no" ?>
+<!--  http://www.wetgenes.com/xml/cutmap -->
+
+<cutmap version="1.0" w="256" h="256" d="1">
+
+	<layer>
+
+		<source name="shi/stuff_00.2.a.png">
+
+<c>0 256 256 256 0 0 0</c>
+
+		</source>
+
+	</layer>
+
+</cutmap>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pixl name="ace" dir="0" height="16" id="2" width="16" >
+ <link href="http://en.wikipedia.org/wiki/Ace_of_Spades" />
+ <text >
+  The elaborate ace of spades was once used as proof that the pack was genuine and tax had been paid.
+ </text>
+ <img src="http://data.wetgenes.com/game/s/pixlcoop/pixl/0/img/ace.png" />
+</pixl>

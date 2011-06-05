@@ -1,0 +1,26 @@
+<?xml version="1.0" ?> 
+<swf version="6" compressed="1">
+	<Header framerate="30" frames="2">
+		<size>
+			<Rectangle left="0" right="1024" top="0" bottom="512" /> 
+		</size>
+		<tags>
+			<SetBackgroundColor>
+				<color>
+					<Color red="255" green="255" blue="255" /> 
+				</color>
+			</SetBackgroundColor>
+			<ShowFrame /> 
+				<DoAction>
+					<actions>
+						<GotoFrame frame="1"/>
+						<Play/>
+						<EndAction/>
+					</actions>
+				</DoAction>
+			<ShowFrame/>
+			<End /> 
+		</tags>
+	</Header>
+</swf>
+  

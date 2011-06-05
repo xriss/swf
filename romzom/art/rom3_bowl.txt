@@ -1,0 +1,7 @@
+background,,110
+box
+box_click
+screw5
+switch_click2,,100
+rightarrow
+border

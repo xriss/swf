@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pixl name="fuel" dir="0" height="16" id="11" width="16" >
+ <link href="http://www.hobeka.com/" />
+ <text >
+  Some random images courtesy of Stoo Cambridge.
+ </text>
+ <img src="http://data.wetgenes.com/game/s/pixlcoop/pixl/0/img/fuel.png" />
+</pixl>

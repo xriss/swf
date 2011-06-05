@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie version="8" width="640" height="480" framerate="25">
+
+  <background color="#000000"/>
+
+
+#include "../wetsrc/art/preloader.xml"
+
+
+
+	  
+<library>
+
+<!-- Main stuff -->
+  
+	  <clip id="arms_b40" import="art/out/binion/bbow_arms_0040.png"/>
+	  <clip id="arms_b41" import="art/out/binion/bbow_arms_0041.png"/>
+	  <clip id="arms_b42" import="art/out/binion/bbow_arms_0042.png"/>
+	  <clip id="arms_b43" import="art/out/binion/bbow_arms_0043.png"/>
+	  <clip id="arms_b44" import="art/out/binion/bbow_arms_0044.png"/>
+	  <clip id="arms_b45" import="art/out/binion/bbow_arms_0045.png"/>
+	  <clip id="arms_b46" import="art/out/binion/bbow_arms_0046.png"/>
+	  <clip id="arms_b47" import="art/out/binion/bbow_arms_0047.png"/>
+	  <clip id="arms_b48" import="art/out/binion/bbow_arms_0048.png"/>
+	  <clip id="arms_b49" import="art/out/binion/bbow_arms_0049.png"/>
+	  <clip id="arms_b50" import="art/out/binion/bbow_arms_0050.png"/>
+	  <clip id="arms_b51" import="art/out/binion/bbow_arms_0051.png"/>
+	  <clip id="arms_b52" import="art/out/binion/bbow_arms_0052.png"/>
+	  <clip id="arms_b53" import="art/out/binion/bbow_arms_0053.png"/>
+	  <clip id="arms_b54" import="art/out/binion/bbow_arms_0054.png"/>
+	  <clip id="arms_b55" import="art/out/binion/bbow_arms_0055.png"/>
+	  <clip id="arms_b56" import="art/out/binion/bbow_arms_0056.png"/>
+	  <clip id="arms_b57" import="art/out/binion/bbow_arms_0057.png"/>
+	  <clip id="arms_b58" import="art/out/binion/bbow_arms_0058.png"/>
+	  <clip id="arms_b59" import="art/out/binion/bbow_arms_0059.png"/>
+	  <clip id="arms_b60" import="art/out/binion/bbow_arms_0060.png"/>
+
+	  <clip id="feet_b40" import="art/out/binion/bbow_feet_0040.png"/>
+	  <clip id="feet_b41" import="art/out/binion/bbow_feet_0041.png"/>
+	  <clip id="feet_b42" import="art/out/binion/bbow_feet_0042.png"/>
+	  <clip id="feet_b43" import="art/out/binion/bbow_feet_0043.png"/>
+	  <clip id="feet_b44" import="art/out/binion/bbow_feet_0044.png"/>
+	  <clip id="feet_b45" import="art/out/binion/bbow_feet_0045.png"/>
+	  <clip id="feet_b46" import="art/out/binion/bbow_feet_0046.png"/>
+	  <clip id="feet_b47" import="art/out/binion/bbow_feet_0047.png"/>
+	  <clip id="feet_b48" import="art/out/binion/bbow_feet_0048.png"/>
+	  <clip id="feet_b49" import="art/out/binion/bbow_feet_0049.png"/>
+	  <clip id="feet_b50" import="art/out/binion/bbow_feet_0050.png"/>
+	  <clip id="feet_b51" import="art/out/binion/bbow_feet_0051.png"/>
+	  <clip id="feet_b52" import="art/out/binion/bbow_feet_0052.png"/>
+	  <clip id="feet_b53" import="art/out/binion/bbow_feet_0053.png"/>
+	  <clip id="feet_b54" import="art/out/binion/bbow_feet_0054.png"/>
+	  <clip id="feet_b55" import="art/out/binion/bbow_feet_0055.png"/>
+	  <clip id="feet_b56" import="art/out/binion/bbow_feet_0056.png"/>
+	  <clip id="feet_b57" import="art/out/binion/bbow_feet_0057.png"/>
+	  <clip id="feet_b58" import="art/out/binion/bbow_feet_0058.png"/>
+	  <clip id="feet_b59" import="art/out/binion/bbow_feet_0059.png"/>
+	  <clip id="feet_b60" import="art/out/binion/bbow_feet_0060.png"/>
+
+	  <clip id="arrow01" import="art/arrow/arrow01.png"/>
+	  
+	<clip id="binion_arms">
+		<frame> <place id="arms_b40" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b41" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b42" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b43" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b44" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b45" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b46" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b47" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b48" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b49" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b50" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b51" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b52" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b53" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b54" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b55" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b56" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b57" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b58" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b59" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="arms_b60" x="-128" y="-128" depth="1"/> </frame>
+	</clip>
+	<clip id="binion_feet">
+		<frame> <place id="feet_b40" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b41" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b42" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b43" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b44" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b45" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b46" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b47" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b48" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b49" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b50" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b51" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b52" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b53" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b54" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b55" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b56" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b57" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b58" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b59" x="-128" y="-128" depth="1"/> </frame>
+		<frame> <place id="feet_b60" x="-128" y="-128" depth="1"/> </frame>
+	</clip>
+	
+	<clip id="arrow">
+		<frame> <place id="arrow01" x="-100" y="-50" depth="1"/> </frame>
+	</clip>
+	
+	<clip id="ball_blue" import="art/ball_blue.png"/>
+	<clip id="ball_target" import="art/ball_target.png"/>
+
+
+	<clip id="b_blackhole" import="art/blackhole.png"/>
+	<clip id="b_whitehole" import="art/whitehole.png"/>
+		
+	<clip id="b_tower01" import="art/tower01.png"/>
+	<clip id="b_tower02" import="art/tower02.png"/>
+	<clip id="b_tower03" import="art/tower03.png"/>
+	<clip id="b_tower04" import="art/tower04.png"/>
+	<clip id="b_tower05" import="art/tower05.png"/>
+	
+	<clip id="b_apple" import="art/apple.png"/>
+
+
+	<clip id="blackhole">
+		<frame> <place id="b_blackhole" x="-50" y="-50" depth="1"/> </frame>
+	</clip>
+	<clip id="whitehole">
+		<frame> <place id="b_whitehole" x="-50" y="-50" depth="1"/> </frame>
+	</clip>
+	
+
+	<clip id="towers">
+		<frame> <place id="b_tower01" x="-50" y="-200" depth="1"/> </frame>
+		<frame> <place id="b_tower02" x="-50" y="-200" depth="1"/> </frame>
+		<frame> <place id="b_tower03" x="-50" y="-200" depth="1"/> </frame>
+		<frame> <place id="b_tower04" x="-50" y="-200" depth="1"/> </frame>
+		<frame> <place id="b_tower05" x="-50" y="-200" depth="1"/> </frame>
+	</clip>
+
+	<clip id="apple">
+		<frame> <place id="b_apple" x="-50" y="-50" depth="1"/> </frame>
+	</clip>
+
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/#(v).swf"/>
+#end
+
+#for i,v in ipairs(sfx_names) do
+		<clip import="art/sfx/#(v).swf"/>
+#end
+
+	
+</library>
+
+
+	<frame>
+	</frame>
+	
+	
+
+</movie>
+
+

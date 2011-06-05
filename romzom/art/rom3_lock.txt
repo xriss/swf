@@ -1,0 +1,12 @@
+background
+rom3_lock_left
+rom3_lock_right
+rom3_lock_nob
+screw1_sock
+screw4_sock
+screw2_sock
+screw3_sock
+screw5_sock
+decoy_sock
+backarrow
+border

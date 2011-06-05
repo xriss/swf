@@ -1,0 +1,16 @@
+background
+wetgenes
+play
+about
+scores
+code
+shop
+play_over
+about_over
+scores_over
+code_over
+shop_over
+stumble
+digg
+options
+options_over

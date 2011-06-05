@@ -1,0 +1,6 @@
+﻿<haxe selected="0">
+  <output name="Remlog" mode="neko" out="remlog.n" class="tools.remlog.RemLog" lib="" cmd="remlog.bat" main="True" debug="False"></output>
+  <files path="/">
+    <file path="RemLog.hx" />
+  </files>
+</haxe>

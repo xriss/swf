@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie version="8" width="640" height="480" framerate="25">
+  <background color="#004000"/>
+
+
+#include "../wetsrc/art/preloader.xml"
+
+	  
+<library>
+
+<!-- Main stuff -->
+
+		<clip id="auth_kriss"	import="../wetsrc/art/auth_kriss.png" />
+		<clip id="auth_shi"		import="../wetsrc/art/auth_shi.png" />
+		
+
+		  
+#for i,v in ipairs(file_names) do
+		<clip id="#(v)" import="art/#(v).swf"/>
+#end
+
+
+		<clip id="BC_layout" import="../ballclock/art/layout.swf"/>
+		<clip id="BC_numbers" import="../ballclock/art/numbers.swf"/>
+		
+#for i,v in ipairs({"beep1","beep2","beep3",}) do
+		<clip import="../ballclock/art/sfx/#(v).swf"/>
+#end
+
+	
+</library>
+
+
+
+	<frame>
+	</frame>
+	
+	
+
+</movie>
+
+

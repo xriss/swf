@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pixl name="mario" dir="0" height="16" id="1" width="16" >
+ <link href="http://www.nintendo.com/" />
+ <text >
+  Already converted countless times into cakes cookies and legos, now you too can memorize the correct combination of pixls to crotchet your own.
+ </text>
+ <img src="http://data.wetgenes.com/game/s/pixlcoop/pixl/0/img/mario.png" />
+</pixl>

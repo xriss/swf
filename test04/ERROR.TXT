@@ -1,0 +1,45 @@
+C:\wet\swf\bin\lua\pp.lua:250: out/src/PlayItem.as.lua:1495: bad argument #1 to '?' (src/tard.txt: No such file or directory)
+.
+.
+
+stack traceback:
+	[C]: in function 'assert'
+	C:\wet\swf\bin\lua\pp.lua:250: in function 'loadsave'
+	bake.lua:65: in main chunk
+	[C]: ?
+C:\wet\swf\bin\lua\pp.lua:250: out/src/PlayItem.as.lua:1497: bad argument #1 to '?' (src/tard.txt: No such file or directory)
+.
+.
+
+stack traceback:
+	[C]: in function 'assert'
+	C:\wet\swf\bin\lua\pp.lua:250: in function 'loadsave'
+	bake.lua:65: in main chunk
+	[C]: ?
+C:\wet\swf\bin\lua\pp.lua:250: out/src/PlayItem.as.lua:1497: bad argument #1 to '?' (src/tard.txt: No such file or directory)
+.
+.
+
+stack traceback:
+	[C]: in function 'assert'
+	C:\wet\swf\bin\lua\pp.lua:250: in function 'loadsave'
+	bake.lua:65: in main chunk
+	[C]: ?
+C:\wet\swf\bin\lua\pp.lua:250: out/src/PlayItem.as.lua:1490: bad argument #1 to '?' (src/tard.txt: No such file or directory)
+.
+.
+
+stack traceback:
+	[C]: in function 'assert'
+	C:\wet\swf\bin\lua\pp.lua:250: in function 'loadsave'
+	bake.lua:65: in main chunk
+	[C]: ?
+C:\wet\swf\bin\lua\pp.lua:250: out/src/PlayItem.as.lua:1490: bad argument #1 to '?' (src/tard.txt: No such file or directory)
+.
+.
+
+stack traceback:
+	[C]: in function 'assert'
+	C:\wet\swf\bin\lua\pp.lua:250: in function 'loadsave'
+	bake.lua:65: in main chunk
+	[C]: ?

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><room>
+
+<back src="http://data.wetgenes.com/game/s/ville/test/back/dirt_test.xml" />
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/arcade.xml" >
+	<xyz
+	x_pos="100"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/acube.xml" >
+	<xyz
+	x_pos="200"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/column.xml" >
+	<xyz
+	x_pos="300"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+
+<vobj src="http://data.wetgenes.com/game/s/ville/test/vobj/solid_aether_face.xml" >
+	<xyz
+	x_pos="400"
+	y_pos="0"
+	z_pos="400"
+	/>
+</vobj>
+
+<vobj class="door" src="http://data.wetgenes.com/game/s/ville/test/door/vacancy.xml" dest="public.corridor" title="Exit" >
+	<xyz
+	x_pos="0"
+	y_pos="0"
+	z_pos="300"
+	y_rot="90"
+	/>
+</vobj>
+
+</room></ville>

@@ -1,0 +1,5 @@
+black,,110
+background
+blood,,100
+cum
+border

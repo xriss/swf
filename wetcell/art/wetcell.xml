@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="9" width="640" height="480" framerate="50">
+
+<FileAttributes hasMetaData="0" useNetwork="network" />
+
+  <background color="#000000"/>
+
+
+#include "../wetsrc/art/preloader.xml"
+
+		
+		<library>
+
+		  <clip id="k01" import="art/cards/out/h01.png"/>
+		  <clip id="k02" import="art/cards/out/h02.png"/>
+		  <clip id="k03" import="art/cards/out/h03.png"/>
+		  <clip id="k04" import="art/cards/out/h04.png"/>
+		  <clip id="k05" import="art/cards/out/h05.png"/>
+		  <clip id="k06" import="art/cards/out/h06.png"/>
+		  <clip id="k07" import="art/cards/out/h07.png"/>
+		  <clip id="k08" import="art/cards/out/h08.png"/>
+		  <clip id="k09" import="art/cards/out/h09.png"/>
+		  <clip id="k0A" import="art/cards/out/h10.png"/>
+		  <clip id="k0B" import="art/cards/out/h11.png"/>
+		  <clip id="k0C" import="art/cards/out/h12.png"/>
+		  <clip id="k0D" import="art/cards/out/h13.png"/>
+		  
+		  <clip id="k11" import="art/cards/out/s01.png"/>
+		  <clip id="k12" import="art/cards/out/s02.png"/>
+		  <clip id="k13" import="art/cards/out/s03.png"/>
+		  <clip id="k14" import="art/cards/out/s04.png"/>
+		  <clip id="k15" import="art/cards/out/s05.png"/>
+		  <clip id="k16" import="art/cards/out/s06.png"/>
+		  <clip id="k17" import="art/cards/out/s07.png"/>
+		  <clip id="k18" import="art/cards/out/s08.png"/>
+		  <clip id="k19" import="art/cards/out/s09.png"/>
+		  <clip id="k1A" import="art/cards/out/s10.png"/>
+		  <clip id="k1B" import="art/cards/out/s11.png"/>
+		  <clip id="k1C" import="art/cards/out/s12.png"/>
+		  <clip id="k1D" import="art/cards/out/s13.png"/>
+
+		  <clip id="k21" import="art/cards/out/d01.png"/>
+		  <clip id="k22" import="art/cards/out/d02.png"/>
+		  <clip id="k23" import="art/cards/out/d03.png"/>
+		  <clip id="k24" import="art/cards/out/d04.png"/>
+		  <clip id="k25" import="art/cards/out/d05.png"/>
+		  <clip id="k26" import="art/cards/out/d06.png"/>
+		  <clip id="k27" import="art/cards/out/d07.png"/>
+		  <clip id="k28" import="art/cards/out/d08.png"/>
+		  <clip id="k29" import="art/cards/out/d09.png"/>
+		  <clip id="k2A" import="art/cards/out/d10.png"/>
+		  <clip id="k2B" import="art/cards/out/d11.png"/>
+		  <clip id="k2C" import="art/cards/out/d12.png"/>
+		  <clip id="k2D" import="art/cards/out/d13.png"/>
+
+		  <clip id="k31" import="art/cards/out/c01.png"/>
+		  <clip id="k32" import="art/cards/out/c02.png"/>
+		  <clip id="k33" import="art/cards/out/c03.png"/>
+		  <clip id="k34" import="art/cards/out/c04.png"/>
+		  <clip id="k35" import="art/cards/out/c05.png"/>
+		  <clip id="k36" import="art/cards/out/c06.png"/>
+		  <clip id="k37" import="art/cards/out/c07.png"/>
+		  <clip id="k38" import="art/cards/out/c08.png"/>
+		  <clip id="k39" import="art/cards/out/c09.png"/>
+		  <clip id="k3A" import="art/cards/out/c10.png"/>
+		  <clip id="k3B" import="art/cards/out/c11.png"/>
+		  <clip id="k3C" import="art/cards/out/c12.png"/>
+		  <clip id="k3D" import="art/cards/out/c13.png"/>
+
+		  <clip id="k42" import="art/cards/out/b01.png"/>
+
+<!--
+		  <clip id="c42" import="art/cards/out/b02.png"/>
+		  <clip id="w01" import="art/cards/wii/h01.png"/>
+		  <clip id="w02" import="art/cards/wii/h02.png"/>
+		  <clip id="w03" import="art/cards/wii/h03.png"/>
+		  <clip id="w04" import="art/cards/wii/h04.png"/>
+		  <clip id="w05" import="art/cards/wii/h05.png"/>
+		  <clip id="w06" import="art/cards/wii/h06.png"/>
+		  <clip id="w07" import="art/cards/wii/h07.png"/>
+		  <clip id="w08" import="art/cards/wii/h08.png"/>
+		  <clip id="w09" import="art/cards/wii/h09.png"/>
+		  <clip id="w0A" import="art/cards/wii/h10.png"/>
+		  <clip id="w0B" import="art/cards/wii/h11.png"/>
+		  <clip id="w0C" import="art/cards/wii/h12.png"/>
+		  <clip id="w0D" import="art/cards/wii/h13.png"/>
+		  
+		  <clip id="w11" import="art/cards/wii/s01.png"/>
+		  <clip id="w12" import="art/cards/wii/s02.png"/>
+		  <clip id="w13" import="art/cards/wii/s03.png"/>
+		  <clip id="w14" import="art/cards/wii/s04.png"/>
+		  <clip id="w15" import="art/cards/wii/s05.png"/>
+		  <clip id="w16" import="art/cards/wii/s06.png"/>
+		  <clip id="w17" import="art/cards/wii/s07.png"/>
+		  <clip id="w18" import="art/cards/wii/s08.png"/>
+		  <clip id="w19" import="art/cards/wii/s09.png"/>
+		  <clip id="w1A" import="art/cards/wii/s10.png"/>
+		  <clip id="w1B" import="art/cards/wii/s11.png"/>
+		  <clip id="w1C" import="art/cards/wii/s12.png"/>
+		  <clip id="w1D" import="art/cards/wii/s13.png"/>
+
+		  <clip id="w21" import="art/cards/wii/d01.png"/>
+		  <clip id="w22" import="art/cards/wii/d02.png"/>
+		  <clip id="w23" import="art/cards/wii/d03.png"/>
+		  <clip id="w24" import="art/cards/wii/d04.png"/>
+		  <clip id="w25" import="art/cards/wii/d05.png"/>
+		  <clip id="w26" import="art/cards/wii/d06.png"/>
+		  <clip id="w27" import="art/cards/wii/d07.png"/>
+		  <clip id="w28" import="art/cards/wii/d08.png"/>
+		  <clip id="w29" import="art/cards/wii/d09.png"/>
+		  <clip id="w2A" import="art/cards/wii/d10.png"/>
+		  <clip id="w2B" import="art/cards/wii/d11.png"/>
+		  <clip id="w2C" import="art/cards/wii/d12.png"/>
+		  <clip id="w2D" import="art/cards/wii/d13.png"/>
+
+		  <clip id="w31" import="art/cards/wii/c01.png"/>
+		  <clip id="w32" import="art/cards/wii/c02.png"/>
+		  <clip id="w33" import="art/cards/wii/c03.png"/>
+		  <clip id="w34" import="art/cards/wii/c04.png"/>
+		  <clip id="w35" import="art/cards/wii/c05.png"/>
+		  <clip id="w36" import="art/cards/wii/c06.png"/>
+		  <clip id="w37" import="art/cards/wii/c07.png"/>
+		  <clip id="w38" import="art/cards/wii/c08.png"/>
+		  <clip id="w39" import="art/cards/wii/c09.png"/>
+		  <clip id="w3A" import="art/cards/wii/c10.png"/>
+		  <clip id="w3B" import="art/cards/wii/c11.png"/>
+		  <clip id="w3C" import="art/cards/wii/c12.png"/>
+		  <clip id="w3D" import="art/cards/wii/c13.png"/>
+
+		  <clip id="w41" import="art/cards/wii/b01.png"/>
+		  <clip id="w42" import="art/cards/wii/b02.png"/>
+		  
+		  <clip id="table2" import="art/table15b.png"/>
+		  <clip id="table3" import="art/table15.swf"/>
+		  
+		  <clip id="won" import="art/balloon03.swf"/>
+		  
+		  <clip id="scoreback" import="art/score01.swf"/>
+		  <clip id="statsback" import="art/stats01.swf"/>
+		  <clip id="aboutback" import="art/about01.swf"/>
+		  
+-->
+		  <clip id="table" import="art/bitmaps/game.png"/>
+		  <clip id="game" import="art/bitmaps/game.swf"/>
+		  
+		  <clip id="menu" import="art/bitmaps/menu.swf"/>
+		  <clip id="menu_back" import="art/bitmaps/menu.png"/>
+		  
+		
+		
+		<clip import="art/sfx/deal.swf"/>
+		<clip import="art/sfx/slide.swf"/>
+		<clip import="art/sfx/flip.swf"/>
+				
+
+		</library>
+		
+	<frame>
+	</frame>
+	
+
+</movie>
+
+

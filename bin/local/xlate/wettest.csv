@@ -1,0 +1,375 @@
+"COMMENT","ID","EN","DE","NL","FR","GR","IT","PT","RU","ES"
+"Always open as UTF8 !",,,,,,,,,,
+"version=2050401",,,,,,,,,,
+,,"English","German","Dutch","French","Greek","Italian","Portuguese","Cyrillic","Spanish"
+,,,,,,,,,,
+,,"no","nein","nr","non","αριθ.","no","não","нет","no"
+,,"yes","ja","ja","oui","ναι","sì","sim","да","sí"
+,,,,,,,,,,
+,,"Quit","Abrechen","Houd met op","Stoppé","Εγκαταλείψτε","Rinunciato","Parado","Прекращено","Parado"
+,,,,,,,,,,
+,,"Select Options","Optionen Auswehlen","Selecteer Opties","Choisissez Les Options","Επιλέξτε τις επιλογές","Selezioni Le Opzioni","Selecione Opções","Выберите Варианты","Seleccione Las Opciones"
+,,,,,,,,,,
+,,"Water flow test Level","Wasser Test Level","Het Niveau van de de stroomtest van het water","Niveau d'essai d'écoulement de l'eau","Επίπεδο δοκιμής ροής του νερού","Livello della prova di flusso dell'acqua","Nível do teste do fluxo da água","Уровень испытания подачи воды","Nivel de la prueba del flujo del agua"
+,,,,,,,,,,
+,,"Avatar Editor",,"Avatar Redacteur","Rédacteur D'Avatar","Συντάκτης ειδώλων","Redattore Del Avatar","Editor Do Avatar","Редактор Воплощения","Redactor Del Avatar"
+,,,,,,,,,,
+,,"Start window maximised","Start Fenster Vergroessert","Gemaximaliseerde het venster van het begin","Commencez la fenêtre maximisée","Παράθυρο έναρξης που μεγιστοποιείται","Inizi la finestra elevata","Comece a janela maximised","Начните увеличенное окно","Comience la ventana maximizada"
+,,,,,,,,,,
+,,"Start window normal","Start Fenster Normale Groesse","Normale het venster van het begin","Commencez la normale de fenêtre","Παράθυρο έναρξης κανονικό","Inizi il normale della finestra","Comece o normal da janela","Начните нормальный окна","Comience la ventana normal"
+,,,,,,,,,,
+,,"Sound off","Tom Aus","Geluid weg","Bruit au loin","Ήχος μακριά","Suono fuori","Som fora","Звук","Sonido apagado"
+,,,,,,,,,,
+,,"Sound on","Ton Ein","Geluid","Bruit dessus","Ήχος επάνω","Suono sopra","Som sobre","Звук дальше","Sonido encendido"
+,,,,,,,,,,
+,,"Back to main menu","Zuruck zum Hauptmenu","Terug naar hoofdmenu","De nouveau au menu principal","Πίσω στις κύριες επιλογές","Di nuovo al menu principale","Para trás ao menu principal","Back to главным образом меню","De nuevo a menú principal"
+,,,,,,,,,,
+,,"Quit to main menu","Abrechen und zum Hauptmenu zuruck kehren","Houd met aan hoofdmenu op","Stoppé au menu principal","Εγκαταλείψτε στις κύριες επιλογές","Rinunciato al menu principale","Parado ao menu principal","Прекращено к главным образом меню","Parado al menú principal"
+,,,,,,,,,,
+,,"Continue","Weiter","Ga verder","Continuez","Συνεχιστείτε","Continui","Continue","Продолжайтесь","Continúe"
+,,,,,,,,,,
+,,"Save all mood poses as .PNG files of selected size","Alle Stimmungs Haltungen als .PNG files der bestimmten grosse speichern","Sparen allen stelt de stemming zoals. PNG- dossiers van geselecteerde grootte","Économiser toute l'humeur pose comme des dossiers de PNG de taille choisie","Εκτός από όλους η διάθεση θέτει όπως. αρχεία PNG του επιλεγμένου μεγέθους","Risparmi tutto l'umore propone come lime del PNG del formato selezionato","Excepto todo o modo poses como limas do PNG do tamanho selecionado","За исключением всего настроения представляет по мере того как архивы PNG выбранного размера","Excepto todo el humor se presenta como los archivos del PNG del tamaño seleccionado"
+,,,,,,,,,,
+,,"Save viewed pose as .PNG files in all sizes","Diese Haltung als .PNG file in allen grossen speichern","Sparen bekeken stel zoals. PNG- dossiers in alle grootte","La pose vue comme PNG Classe dans toutes les tailles","Εκτός από θέστε όπως. αρχεία PNG σε όλα τα μεγέθη","La posa osservata risparma come PNG Archivia in tutti i formati","O pose visto de salvaguarda como o PNG arquiva em todos os tamanhos","Спасительное осмотренное представление как PNG хранит в всех размерах","La actitud vista de ahorro como PNG Archiva en todos los tamaños"
+,,,,,,,,,,
+,,"Save an avatar soul","Avatar Seele speichern","Sparen een avatar ziel","Économiser une âme d'avatar","Εκτός από μια ψυχή ειδώλων","Risparmi un'anima del avatar","Excepto uma alma do avatar","За исключением души воплощения","Excepto un alma del avatar"
+,,,,,,,,,,
+,,"Load an avatar soul","Avatar Seele Laden","Laad een avatar ziel","Chargez une âme d'avatar","Φορτώστε μια ψυχή ειδώλων","Carichi un'anima del avatar","Carregue uma alma do avatar","Нагрузите душу воплощения","Cargue un alma del avatar"
+,,,,,,,,,,
+,,"Eye","Auge","Oog","Oeil","Μάτι","Occhio","Olho","Глаз","Ojo"
+,,,,,,,,,,
+,,"Socks","Socken","Sokken","Chaussettes","Κάλτσες","Calzini","Socks","Носки","Calcetines"
+,,,,,,,,,,
+,,"All foot colours","Alle Fuss farben","Alle voetkleuren","Toutes les couleurs de pied","Όλα τα χρώματα ποδιών","Tutti i colori del piede","Todas as cores do pé","Все цветы ноги","Todos los colores del pie"
+,,,,,,,,,,
+,,"Body Low","Korper unten","Laag lichaam","Corps Bas","Σώμα χαμηλό","Corpo Basso","Corpo Baixo","Тело Низкое","Cuerpo Bajo"
+,,"Body High","Korper oben","Hoog lichaam","Corps Haut","Σώμα υψηλό","Corpo Alto","Corpo Elevado","Тело Высокое","Cuerpo Alto"
+,,"All body colours","Alle Korper Farben","Alle dekkleuren","Toutes les couleurs de corps","Όλα τα χρώματα σωμάτων","Tutti i colori del corpo","Todas as cores do corpo","Все цветы тела","Todos los colores del cuerpo"
+,,,,,,,,,,
+,,"EyeBrows","Augenbraun","EyeBrows","Sourcils","EyeBrows","Sopracciglia","Sobrancelhas","Брови","Cejas"
+,,,,,,,,,,
+,,"Hair High","Harr oben","Hoog haar","Cheveux Hauts","Τρίχα υψηλή","Capelli Alti","Cabelo Elevado","Волосы Высокие","Pelo Alto"
+,,,,,,,,,,
+,,"All hair colours","Alle Haarfarben","Alle haarkleuren","Toutes les couleurs de cheveux","Όλα τα χρώματα τρίχας","Tutti i colori dei capelli","Todas as cores do cabelo","Все цветы волос","Todos los colores del pelo"
+,,,,,,,,,,
+,,"Lips","Lippen","Lippen","Lèvres","Χείλια","Labbri","Bordos","Губы","Labios"
+,,,,,,,,,,
+,,"Nipples","Nippel","Uitsteeksels","Mamelons","Θηλές","Ugelli","Bocais","Ниппели","Entrerroscas"
+,,,,,,,,,,
+,,"Skin","Haut","Huid","Peau","Δέρμα","Pelle","Pele","Кожа","Piel"
+,,"All skin colours","Alle Haut Farben","Alle huidkleuren","Toutes les couleurs de peau","Όλα τα χρώματα δερμάτων","Tutti i colori della pelle","Todas as cores da pele","Все цветы кожи","Todos los colores de la piel"
+,,,,,,,,,,
+,,"Rotate","Drehen","Roteer","Tournez","Περιστραφείτε","Ruoti","Gire","Вращайте","Rote"
+,,,,,,,,,,
+,,"Right","Rechts","Recht","Droite","Δικαίωμα","Destra","Direita","Право","La derecha"
+,,"Left","Links","Linker","Gauche","Αριστερός","Di sinistra","Esquerdo","Лево","Izquierdo"
+,,"Back","Hinten","Rug","Dos","Πλάτη","Parte posteriore","Parte traseira","Задняя часть","Parte posteriora"
+,,"Front","Vorne","Voorzijde","Avant","Μέτωπο","Parte anteriore","Parte dianteira","Фронт","Frente"
+,,,,,,,,,,
+,,"Working","Bei Der Arbeit","Het werken","Fonctionnement","Εργασία","Funzionamento","Funcionamento","Деятельность","Funcionamiento"
+,,"Thoughtful","Denkt nach","Nadenkend","Pensif","Στοχαστικός","Premuroso","Pensativo","Заботливо","Pensativo"
+,,"Scared","Hat Angst","Doen schrikken","Effrayé","Φοβησμένος","Spaventato","Scared","Вспугнуто","Asustado"
+,,"Sad","Traurig","Droevig","Triste","Λυπημένος","Triste","Sad","Уныло","Triste"
+,,"Okay",,"O.k.","Ok","Εντάξει","Approvazione","Aprovação","О'кейо","Autorización"
+,,"Nerdy","Geek","Nerdy","Nerdy","Nerdy","Nerdy","Nerdy","Nerdy","Nerdy"
+,,"Happy","Froh","Gelukkig","Heureux","Ευτυχής","Felice","Feliz","Счастливо","Feliz"
+,,"Enthralled","Bezaubert","Enthralled","Fasciné","Enthralled","Enthralled","Enthralled","Enthralled","Cautivado"
+,,"Energetic","Voller Energie","Energiek","Énergique","Ενεργητικός","Energico","Energético","Напористо","Enérgio"
+,,"Devious","Schlau","Omslachtig","Détourné","Λοξός","Indiretto","Devious","Devious","Desviado"
+,,"Determind","Entschlossen","Determind","Determind","Determind","Determind","Determind","Determind","Determind"
+,,"Confused","Verwirrt","Verward","Confus","Ταραγμένος","Confuso","Confused","Confused","Confuso"
+,,"Awake","Wach","Wakker","Éveillé","Αγρυπνος","Sveglio","Acordado","Awake","Despierto"
+,,"Angry","Sauer","Boos","Fâché",0,"Arrabbiato","Irritado","Сердито","Enojado"
+,,"Bird","Vogel","Vogel","Oiseau","Πουλί","Uccello","Pássaro","Птица","Pájaro"
+,,"Hands on hips","Haende auf den Hueften","Handen op heupen","Mains sur des hanches","Χέρια στα ισχία","Mani sulle anche","Mãos nos hips","Руки на вальмах","Manos en caderas"
+,,"Gunner",,"Artillerist","Canonnier","Οπλίτης","Gunner","Gunner","Gunner","Artillero"
+,,"Point down up","Unten/Oben zeigen","Punt neer omhoog","Point vers le bas vers le haut","Σημείο κάτω επάνω","Punto giù in su","Ponto para baixo acima","Пункт вниз вверх","Punto abajo para arriba"
+,,"Point up down","Oben/Unten zeigen","Punt omhoog neer","Point vers le haut vers le bas","Σημείο επάνω κάτω","Punto in su giù","Ponto acima para baixo","Пункт вверх вниз","Punto para arriba abajo"
+,,"Idle","Leerlauf","Voer niets uit","Ralenti","Τεμπελιάστε","Idle","Idle","Idle","Marcha lenta"
+,,"Breath","Atmen","Adem","Souffle","Αναπνοή","Alito","Respiração","Дыхание","Respiración"
+,,"Walk","Laufen","Gang","Promenade","Περίπατος","Camminata","Caminhada","Прогулка","Caminata"
+,,,,,,,,,,
+,,"Randomize",,"verdeel willekeurig","Randomisez","Τυχαιοποιήστε","Ripartisca le probabilità su","Randomize","Хаотизируйте","Seleccione al azar"
+,,,,,,,,,,
+,,"Any","Irgendwas","Om het even welk","Quels","Οποιοιδήποτε","C'è ne","Alguns","Любые","Cualesquiera"
+,,"Girl","Maedchen","Meisje","Fille","Κορίτσι","Ragazza","Menina","Девушка","Muchacha"
+,,"Boy","Junge","Jongen","Garçon","Αγόρι","Ragazzo","Menino","Мальчик","Muchacho"
+,,,,,,,,,,
+,,"Ears","Ohren","Oren","Oreilles","Αυτιά","Orecchi","Orelhas","Уши","Oídos"
+,,,,,,,,,,
+,,"Nose","Nase","Neus","Nez","Μύτη","Naso","Nariz","Нос","Nariz"
+,,,,,,,,,,
+,,"Beard",,"Baard","Barbe","Γενειάδα","Barba","Beard","Борода","Barba"
+,,,,,,,,,,
+,,"Mouth","Mund","Mond","Bouche","Στόμα","Bocca","Boca","Рот","Boca"
+,,,,,,,,,,
+,,"Specs","Brille","Specs","Spéc.","Specs","Spec.","Especs.","Specs","Espec."
+,,,,,,,,,,
+,,"EyeBalls","Augenaepfel","EyeBalls","Globes oculaires","EyeBalls","EyeBalls","EyeBalls","EyeBalls","Globos oculares"
+,,,,,,,,,,
+,,"Eyes","Augen","Ogen","Yeux","Μάτια","Occhi","Olhos","Глаза","Ojos"
+,,,,,,,,,,
+,,"Tail","Swanz","Staart","Queue","Ουρά","Coda","Cauda","Кабель","Cola"
+,,,,,,,,,,
+,,"Feet","Fuesse","Voeten","Pieds","Πόδια","Piedi","Pés","Ноги","Pies"
+,,,,,,,,,,
+,,"Hands","Haende","Handen","Mains","Χέρια","Mani","Mãos","Руки","Manos"
+,,,,,,,,,,
+,,"Body","Koerper","Lichaam","Corps","Σώμα","Corpo","Corpo","Тело","Cuerpo"
+,,,,,,,,,,
+,,"Hair",,"Haar","Cheveux","Τρίχα","Capelli","Cabelo","Волосы","Pelo"
+,,,,,,,,,,
+,,"Head","Kopf","Hoofd","Tête","Κεφάλι","Testa","Cabeça","Головка","Cabeza"
+,,,,,,,,,,
+,,"Load/Save","Speichern/Laden","Lading/sparen","Load/Save","Φορτίο/εκτός από","Load/Save","Load/Save","Load/Save","Load/Save"
+,,,,,,,,,,
+,,"Select Colors","Farben Auswaehlen","Selecteer Kleuren","Choisissez Les Couleurs","Επιλέξτε τα χρώματα","Selezioni I Colori","Selecione Cores","Выберите Цветы","Seleccione Los Colores"
+,,,,,,,,,,
+,,"Select Pose","Haltung Auswaelen","Selecteer stellen","Choisissez La Pose","Επιλέξτε θέτει","Selezioni La Posa","Selecione O Pose","Выберите Представление","Seleccione La Actitud"
+"Autodump of new strings",,,,,,,,,,
+,,"Foot","Fuß","Voet","Pied","Πόδι","Piede","Pé","Нога","Pie"
+,,"Select Parts","Wählen Sie Teile Vor","Selecteer Delen","Choisissez Les Pièces","Επιλέξτε τα μέρη","Selezioni Le Parti","Selecione As Peças","Выберите Части","Seleccione Las Piezas"
+,,"Randomizer","Randomizer","Randomizer","Randomizer","Randomizer","Randomizer","Randomizer","Randomizer","Randomizer"
+,,"Sleepy","Schläfrig","Slaperig","Somnolent","Νυσταλέος","Sleepy","Sleepy","Сонно","Soñoliento"
+,,"Teapot","Teekanne","Theepot","Théière","Teapot","Teiera","Teapot","Чайник","Tetera"
+,,"face","Gesicht","gezicht","visage","πρόσωπο","faccia","cara","сторона","cara"
+,,"Toecaps","Toecaps","Neuzen","Embouts protecteurs","Toecaps","Toecaps","Toecaps","Toecaps","Toecaps"
+,,"Iris","Blende","Iris","Iris","IRIS","Iride","Íris","Радужка","Diafragma"
+,,"Rotate OFF","Drehen Sie Sich WEG","Roteer WEG","Tournez AU LOIN","Περιστραφείτε ΜΑΚΡΙΑ","Ruoti FUORI","Gire FORA","Вращайте","Rote APAGADO"
+,,"Play Amaze basic level set","Spiel überraschen grundlegenden Niveausatz","Het spel verbaast basisniveaureeks","Le jeu stupéfient l'ensemble de base de niveau","Το παιχνίδι καταπλήσσει το βασικό σύνολο επιπέδων","Il gioco stupisce l'insieme di base del livello","O jogo espanta o jogo básico do nível","Игра изумляет основной комплект уровня","El juego sorprende el sistema básico del nivel"
+,,"Save viewed anim as .PNG files in 100x100","Abwehr sah anim als PNG Akten in 100x100 an","Sparen bekeken anim zoals. PNG- dossiers in 100x100","L'économiser a regardé l'anim comme dossiers de PNG dans 100x100","Εκτός από anim όπως. αρχεία PNG σε 100x100","Il risparmio ha osservato il anim come lime del PNG in 100x100","As economias viram o anim como limas do PNG em 100x100","Спасение осмотрело anim как архивы PNG в 100x100","La reserva vio el anim como archivos del PNG en 100x100"
+,,"Restart","Wiederanlauf","Nieuw begin","Relancement","Καινούριο ξεκίνημα","Riavviamento","Reinício","Рестарт","Recomenzar"
+,,"GFX","GFX","GFX","GFX","GFX","GFX","GFX","GFX","GFX"
+,,"Gloss","Glanz","Polijst","Lustre","Σχολιάστε","Lucentezza","Lustro","Лоск","Lustre"
+,,"Aspect","Aspekt","Aspect","Aspect","Πτυχή","Funzione","Aspecto","Аспект","Aspecto"
+,,"Congratulations, sorry no more levels right now, so we will just wrap back to the start.","Die Glückwünsche, traurig keine mehr Niveaus im Augenblick, also wir wickeln gerade zurück zu dem Anfang auf.","Droevige gelukwensen, niet meer niveaus op dit ogenblik, zodat zullen wij enkel terug naar het begin verpakken.","Les félicitations, désolées plus de niveaux en ce moment, ainsi nous ne s'envelopperont juste de nouveau au début.","Συγχαρητήρια, θλιβερά όχι άλλα επίπεδα αμέσως, έτσι θα τυλίξουμε ακριβώς πίσω στην έναρξη.","Le congratulazioni, spiacenti più livelli ora, in modo da noi non sposteranno appena di nuovo all'inizio.","Os felicitações, pesarosos não mais nivelam para a direita agora, assim que nós envolveremos apenas para trás ao começo.","Congratulations, огорченные no more уровней right now, поэтому мы как раз обернут back to старт.","Las felicitaciones, apesadumbradas no más de niveles ahora, así que nosotros apenas no se envolverán de nuevo al comienzo."
+,,"Size","Größe","Grootte","Taille","Μέγεθος","Formato","Tamanho","Размер","Tamaño"
+,,"You will need to restart for this to take effect.","Sie müssen wiederbeginnen, damit dieses wirksamIST.","U zult voor dit moeten opnieuw beginnen om effect te nemen.","Vous devrez vous remettre en marche pour que ceci entre en vigueur.","Θα πρέπει να ξαναξεκινήσετε για αυτό για να εφαρμοστείτε.","Dovrete ricominciare affinchè questo entriate in vigore.","Você necessitará reiniciar para que este faça exame do efeito.","Вы повторить старт для этого для того чтобы принять влияние.","Usted necesitará recomenzar para que esto tome efecto."
+,,"Embarrassed","In Verlegenheit gebracht","Pijnlijk","Embarrassé","Στενοχωρημένος","Confuso","Embarrassed","Оконфужено","Desconcertado"
+,,"Rotate ON","Drehen Sie Sich AN","Roteer","Tournez DESSUS","Περιστραφείτε ΕΠΑΝΩ","Ruoti SOPRA","Gire SOBRE","Вращайте ДАЛЬШЕ","Rote ENCENDIDO"
+,,"Color","Farbe","Kleur","Couleur","Χρώμα","Colore","Cor","Цвет","Color"
+,,"Sole","Alleinig","Enig","Unique","Μόνος","Solo","Único","Единственно","Único"
+,,"Or if it is all too much for little old you then just skip to the next one.","Oder wenn sie alle zu viel für wenig altes Sie dann gerechter Zeilensprung bis das folgende ist.","Of als het al teveel voor weinig oud is slaat u dan enkel aan volgende over.","Ou si elle est beaucoup trop pour peu vieux vous puis saut juste à le prochain.","Ή εάν είναι όλο πάρα πολύ για ελάχιστα παλαιό έπειτα ακριβώς πηδάτε στον επόμενο.","O se è troppo per poco vecchio voi allora salto giusto a quello seguente.","Ou se for todo o demasiada para pouco velho você então faixa clara justa à seguinte.","Или если он всем too much для немного старой вы после этого справедливый скип до следующее одно.","O si es todo el demasiado para poco viejo usted entonces salto justo el siguiente."
+,,"Indescribable","Unbeschreibbar","Indescribable","Indescriptible","Απερίγραπτος","Indescribable","Indescribable","Indescribable","Indescriptible"
+,,"Excited","Aufgeregt","Opgewekt","Passionnant","Συγκινημένος","Eccitato","Excitado","Возбужено","Excitado"
+,,"Hair Low","Haar Niedrig","Laag haar","Cheveux Bas","Τρίχα χαμηλή","Capelli Bassi","Cabelo Baixo","Волосы Низкие","Pelo Bajo"
+,,"OK, this one might be hard, not impossible, but not easy.","O.K., dieses konnte hart, nicht unmöglich, aber nicht einfach sein.","O.K., dit zou men, hard, niet onmogelijk maar niet gemakkelijk kunnen zijn.","L'OK, celui-ci pourrait ne pas être dur, impossible, mais non facile.","ΕΝΤΑΞΕΙ, αυτός να είναι σκληρός, μη αδύνατος, αλλά μη εύκολος.","L'APPROVAZIONE, questa ha potuto essere dura, non impossibile, ma non facile.","A APROVAÇÃO, esta pôde ser dura, nao impossível, mas nao fácil.","О'КЕЙО, это одно могло быть трудно, невозможно, но легко.","La AUTORIZACIÓN, ésta pudo ser dura, no imposible, pero no fácil."
+,,"Shine","Shine","Glans","Éclat","Λάμψτε","Lustro","Brilho","Shine","Brillo"
+,,"Outwitted by dumb AI?","Überlistet durch stumme KI?","Outwitted door stomme AI?","Surpassé par AI sourde-muette ?","Outwitted από το άλαλο AI;","Outwitted da IA dumb?","Outwitted pelo AI dumb?","Outwitted тупым ai?","¿Outwitted por el AI mudo?"
+,,"Select Language","Wählen Sie Sprache Vor","Selecteer Taal","Choisissez La Langue","Επιλέξτε τη γλώσσα","Selezioni La Lingua","Selecione A Língua","Выберите Язык","Seleccione La Lengua"
+,,"Well, I guess you could try again.","Gut schätze ich, daß Sie noch einmal versuchen konnten.","Goed, veronderstel ik u kon opnieuw proberen.","Bien, je devine que vous pourriez essayer encore.","Καλά, υποθέτω ότι θα μπορούσατε να προσπαθήσετε πάλι.","Bene, indovino che potreste provare ancora.","Bem, eu suponho que você poderia tentar outra vez.","Наилучшим образом, я угадываю вы смогло пытаться снова.","Bien, conjeturo que usted podría intentar otra vez."
+"Autodump of new strings",,,,,,,,,,
+,,"Today we are going to play at being Prometheus.","Heute werden wir am Sein spielen Prometheus.","Vandaag gaan wij bij het zijn spelen Prometheus.","Aujourd'hui nous allons jouer à être Prometheus.","Σήμερα πρόκειται να παίξουμε στην ύπαρξη PROMETHEUS.","Oggi stiamo andando giocare ad essere Prometheus.","Hoje nós estamos indo jogar em ser Prometheus.","Сегодня мы идем сыграть на быть Prometheus.","Vamos hoy a jugar en ser Prometheus."
+,,"Wander the maze and steal all the fire but be carefull not to let the pesky guardians trap you in a corner.","Wander das Labyrinth und stehlen, das ganzes Feuer aber sind carefull nicht ließ die nervtötenden Wächter Sie in einer Ecke einschließen.","Wandel het labyrint en steel al brand maar ben carefull niet de pesky beschermersval te laten u in een hoek.","Errent le labyrinthe et volent tout le feu mais soient carefull pas a laissé les gardiens embêtants vous emprisonner dans un coin.","Περιπλανηθείτε ο λαβύρινθος και κλέψτε όλη την πυρκαγιά αλλά να είστε carefull να μην αφήσει την ενοχλητική παγίδα φυλάκων εσείς σε μια γωνία.","Vaga il labirinto e ruba tutto il fuoco ma è carefull non ha lasciato i guardiani pesky intrappolarlo in un angolo.","Vagueia o maze e rouba todo o fogo mas seja carefull não deixou os guardians pesky prendê-lo em um canto.","Бродяжничает maze и крадет полностью пожар но будет carefull не препятствовал pesky радетелям поглотить вас в угле.","Vaga el laberinto y roba todo el fuego pero sea carefull no dejó a guardas pesky atraparle en una esquina."
+,,"Pretty easy, huh?","Hübsches einfaches, huh?","Vrij gemakkelijk, huh?","Joli facile, huh ?","Αρκετά εύκολος, huh;","Facile grazioso, huh?","Fácil bonito, huh?","Милая легкая, huh?","¿Fácil bonito, huh?"
+,,"Although you could try for a faster time. High scores amd replays will be implimented soon.","Obgleich Sie für ein schnelleres versuchen konnten, setzen Sie Zeit fest. Hohe Kerben, die amd replays, sind implimented bald.","Hoewel u voor een snellere tijd kon proberen. De hoge scores amd speelt zullen zijn spoedig implimented over.","Bien que vous pourriez essayer pour un plus rapide chronométrez. Les hauts points que l'amd rejoue seront implimented bientôt.","Αν και θα μπορούσατε να προσπαθήσετε για έναν γρηγορότερο χρόνο. Τα υψηλά αποτελέσματα amd επαναλαμβάνουν θα είναι σύντομα.","Anche se potreste provare per un più veloce cronometri. Gli alti segni che il amd ripete saranno implimented presto.","Embora você poderia tentar para um mais rápido cronometre. As contagens que elevadas o amd replays serão implimented logo.","Хотя вы смогли попытаться для быстрой приурочьте. Высокие счеты, котор amd переигрывает будут implimented скоро.","Aunque usted podría intentar para un más rápido mida el tiempo. Las cuentas altas que el amd juega de nuevo serán implimented pronto."
+,,"TopTip: Use W A S D or the cursor keys to move.","TopTip: Verwenden Sie W ein S D oder die Schreibmarkentasten, um zu bewegen.","TopTip: Gebruik W A S D of de te bewegen curseursleutels zich.","TopTip : Employez W un S D ou les clefs de curseur pour se déplacer.","TopTip: Χρήση W Α s δ ή τα κλειδιά δρομέων που κινούνται.","TopTip: Usi il W una S D o le chiavi di cursore per muoversi.","TopTip: Use W um S D ou as chaves de cursor mover-se.","TopTip: Используйте ш с д или ключи стрелки для того чтобы двинуть.","TopTip: Utilice W un S D o las llaves de cursor para moverse."
+"Autodump of new strings",,,,,,,,,,
+,,"Well I sure enjoyed that, I know you did too.","Sicheres des Brunnens I genossen dem, weiß ich, daß Sie auch.","Goed I zeker genoten van dat, weet ik u ook.","Sûr du puits I apprécié cela, je sais que vous aussi.","Καλά Ι βέβαιος που απολαμβάνουν αυτόν, ξέρω ότι επίσης.","Sicuro del pozzo I goduto quello, so che anche.","Certo do poço I apreciado isso, eu sei que você demasiado.","Наслаженное уверенное добра iego тому, я знаю вы сделало слишком.","Seguro del pozo I gozado eso, sé que usted lo hizo también."
+,,"More fire to steal, more guardians to avoid, lets see how you do this time.","Mehr zu stehlen Feuer, mehr zu vermeiden Wächter, läßt sehen, wie Sie dieses mal tun.","Meer brand, meer beschermers om te stelen te vermijden, laat zien hoe u dit keer doet.","Plus de feu à voler, plus de gardiens à éviter, laisse voir comment vous faites cette fois.","Περισσότερη πυρκαγιά που κλέβει, περισσότεροι φύλακες για να αποφύγει, αφήνει να δει πώς αυτή τη φορά.","Più fuoco da rubare, più guardiani da evitare, lascia per vedere come fate questo volta.","Mais fogo a roubar, mais guardians a evitar, deixa para ver como você faz esta vez.","Больше пожара, котор нужно украсть, больше радетелей, котор нужно избежать, препятствует для того чтобы увидеть как вы делаете это время.","Más fuego a robar, más guardas a evitar, deja para considerar cómo usted hace este vez."
+,,"TopTip: The keys U H J K can be used to rotate the view.","TopTip: Die Schlüssel U H J K können verwendet werden, um die Ansicht zu drehen.","TopTip: Sleutelsu H J K kan worden gebruikt om de mening te roteren.","TopTip : Les clefs U H J K peuvent être employées pour tourner la vue.","TopTip: Το u χ j Κ κλειδιών μπορεί να χρησιμοποιηθεί για να περιστραφεί την άποψη.","TopTip: Le chiavi la U la H J K possono essere usate per ruotare la vista.","TopTip: As chaves U H J K podem ser usadas girar a vista.","TopTip: Ключей у ю ж к можно использовать для того чтобы повернуть взгляд.","TopTip: Las llaves U H J K se pueden utilizar para rotar la visión."
+,,"Time to make it a little bit harder","Zeit, sie ein wenig härter zu bilden","Tijd om tot het een klein harder beetje te maken","Heure de la rendre un peu plus dure","Χρόνος να γίνει ένα μικρό κομμάτι σκληρότερο","Tempo di rendere esso un poco piccolo più duro","Hora de fazer lhe um bocado pequeno mais duro","Время сделать его немного более трудным","Hora de hacerla un poco más dura"
+,,"Not bad, but I think the next level is going to have to be much more difficult.","Nicht schlecht, aber ich denken Sie, daß das folgende Niveau schwieriger sein müssen wird viel.","Niet slecht, maar ik denk het volgende niveau gaat veel moeilijker moeten zijn.","Non mauvais, mais moi pensez que le prochain niveau va devoir être beaucoup plus difficile.","Μη κακός, αλλά σκέφτομαι ότι το επόμενο επίπεδο πρόκειται να πρέπει να είναι δυσκολότερο.","Non difettoso, ma io pensi che il livello seguente stia andando dovere essere molto più difficile.","Nao mau, mas mim pense que o nível seguinte está indo ter que ser muito mais difícil.","Плох, но он думайте следующий уровень идет быть очень трудне.","No malo, sino yo piense que el nivel siguiente va a tener que ser mucho más difícil."
+,,"TopTip: The keys , and . or the mouse wheel can be used to zoom.","TopTip: Die Schlüssel und. oder das Mäuserad kann zoom benutzt werden.","TopTip: De sleutels, en. of het muiswiel kan worden gebruikt om te zoemen.","TopTip : Les clefs, et. ou la roue de souris peut être utilisée pour bourdonner.","TopTip: Τα κλειδιά, και. ή η ρόδα ποντικιών μπορεί να χρησιμοποιηθεί για να μεγεθύνει.","TopTip: Le chiavi e. o la rotella del mouse può essere utilizzata per zumare.","TopTip: As chaves, e. ou a roda do rato pode ser usada zumbir.","TopTip: Ключи, и. или колесо мыши можно использовать для того чтобы просигналить.","TopTip: Las llaves, y. o la rueda del ratón se puede utilizar para enfocar."
+,,"Looksee, the floor isn't flat.","Looksee, der Fußboden ist nicht flach.","Looksee, de vloer is niet vlak.","Looksee, le plancher n'est pas plat.","Το Looksee, το πάτωμα δεν είναι επίπεδο.","Looksee, il pavimento non è piano.","Looksee, o assoalho não é liso.","Looksee, пол не плоско.","Looksee, el piso no es plano."
+,,"Sure it doesnt make much diference now but, soon, it will.","Sicher bildet es doesnt viel diference jetzt, aber bald wird es.","Zeker nu maakt het doesnt veel diference maar spoedig, zal het.","Sûr il doesnt font beaucoup de diference maintenant mais, bientôt, il .","Βέβαιος doesnt κάνει πολύ diference τώρα αλλά, σύντομα.","Sicuro doesnt ora fa molto diference ma, presto.","Certo doesnt faz muito diference agora mas, logo, .","Уверено оно doesnt делает много diference теперь но, скоро, оно будет.","Seguro doesnt ahora hace mucho diference pero, pronto, ."
+,,"Getting harder.","Stark erhalten.","Harder het worden.","Obtenir plus dur.","Να γίνει ολοένα πιο δύσκολο.","Ottenere più duro.","Começar mais duramente.","Получать более крепко.","El conseguir más difícilmente."
+,,"Wheeeeee.","Wheeeeee.","Wheeeeee.","Wheeeeee.","Wheeeeee.","Wheeeeee.","Wheeeeee.","Wheeeeee.","Wheeeeee."
+,,"Wouldn't it be fun to play again?","Würde nicht es der Spaß sein, zum wieder zu spielen?","Het zou geen pret zijn opnieuw te spelen?","Ne serait-ce pas amusement à jouer encore ?","Δεν θα ήταν διασκέδαση που παίζει πάλι;","Non sarebbe divertimento da giocare ancora?","Não seria divertimento a jogar outra vez?","Не было бы потехой, котор нужно играть снова?","¿No sería diversión a jugar otra vez?"
+,,"TopTip: The ESC key can be used to bring up a menu that will let you quickly restart the current level.","TopTip: Der ESC Schlüssel kann verwendet werden, um ein Menü oben zu holen, das Sie schnell das gegenwärtige Niveau wiederbeginnen läßt.","TopTip: De sleutel van ESC kan worden gebruikt om een menu omhoog te brengen dat u snel het huidige niveau zal laten opnieuw beginnen.","TopTip : La touche ESC Peut être employée pour évoquer un menu qui vous laissera rapidement remettre en marche le niveau courant.","TopTip: Το κλειδί ΟΚΕ μπορεί να χρησιμοποιηθεί για να φέρει επάνω επιλογές που θα σας αφήσουν να ξαναξεκινήσετε γρήγορα το τρέχον επίπεδο.","TopTip: La chiave di ESC può essere usata per portare in su un menu che li lascerà rapidamente ricominciare il livello corrente.","TopTip: A chave de ESC pode ser usada trazer acima um menu que o deixe rapidamente reiniciar o nível atual.","TopTip: Ключа esc можно использовать для того чтобы принести вверх меню будет препятствовать вам быстро повторить старт в настоящее время уровня.","TopTip: La tecla de salida Se puede utilizar para traer para arriba un menú que le deje rápidamente recomenzar el nivel actual."
+,,"But still no deadends so not that hard.","Aber noch keine Deadends so nicht daß stark.","Maar nog geen impasse zo niet dat hard.","Mais toujours aucuns culs-de-sac ainsi pas que dur.","Αλλά ακόμα κανένα αδιέξοδο τόσο όχι αυτό σκληρά.","Ma ancora nessun deadends così non che duro.","Mas ainda nenhuns deadends assim não que duramente.","Но все еще отсутствие deadends так не что крепко.","Pero aún ningunos puntos muertos tan no que difícilmente."
+"Autodump of new strings",,,,,,,,,,
+,,"Real easy, huh?","Reales einfaches, huh?","Echte gemakkelijk, huh?","Vrai facile, huh ?","Πραγματικός εύκολος, huh;","Facile reale, huh?","Fácil real, huh?","Реальная легкая, huh?","¿Fácil verdadero, huh?"
+,,"Wander the maze and steal all the fire, easy peasy.","Wander das Labyrinth und stehlen das ganzes Feuer, einfaches peasy.","Wandel het labyrint en steel al brand, gemakkelijke peasy.","Errent le labyrinthe et volent tout le feu, peasy facile.","Περιπλανηθείτε ο λαβύρινθος και κλέψτε όλη την πυρκαγιά, εύκολος peasy.","Vaga il labirinto e ruba tutto il fuoco, peasy facile.","Vagueia o maze e rouba todo o fogo, peasy fácil.","Бродяжничает maze и крадет полностью пожар, легкое peasy.","Vaga el laberinto y roba todo el fuego, peasy fácil."
+,,"Although you could try for a faster time.","Obgleich Sie für ein schnelleres versuchen konnten, setzen Sie Zeit fest.","Hoewel u voor een snellere tijd kon proberen.","Bien que vous pourriez essayer pour un plus rapide chronométrez.","Αν και θα μπορούσατε να προσπαθήσετε για έναν γρηγορότερο χρόνο.","Anche se potreste provare per un più veloce cronometri.","Embora você poderia tentar para um mais rápido cronometre.","Хотя вы смогли попытаться для быстрой приурочьте.","Aunque usted podría intentar para un más rápido mida el tiempo."
+"Autodump of new strings",,,,,,,,,,
+,,"Still easy?","Noch einfach?","Nog gemakkelijk?","Encore facile ?","Ακόμα εύκολος;","Ancora facile?","Ainda fácil?","Все еще легко?","¿Todavía fácil?"
+,,"Try playing it again with your eyes shut.","Versuch, der wieder ihn mit Ihren Augen geschlossen spielt.","Probeer speel het opnieuw met uw gesloten ogen.","L'essai le jouant encore avec vos yeux a fermé.","Προσπαθήστε το πάλι με τα μάτια σας κλεισμένα.","Prova che lo gioca ancora con i vostri occhi chiusi.","Tentativa que joga o outra vez com seus olhos fechados.","Попытка играя ее снова с вашими глазами закрывала.","Intento que lo juega otra vez con sus ojos cerrados."
+,,"This time be carefull not to let the pesky guardians trap you in a corner.","Dieses Mal ist carefull nicht ließ die nervtötenden Wächter Sie in einer Ecke einschließen.","Dit keer moet carefull de pesky beschermersval niet laten u in een hoek.","Ce temps soit carefull pas a laissé les gardiens embêtants vous emprisonner dans un coin.","Αυτή η περίοδος πρόκειται carefull να μην αφήσει την ενοχλητική παγίδα φυλάκων εσείς σε μια γωνία.","Questa volta è carefull non ha lasciato i guardiani pesky intrappolarla in un angolo.","Esta vez seja carefull não deixou os guardians pesky prendê-lo em um canto.","Этим временем было carefull не препятствовало pesky радетелям поглотить вас в угле.","Esta vez sea carefull no dejó a guardas pesky atraparle en una esquina."
+"Autodump of new strings",,,,,,,,,,
+,,"Some simple playthings, push them down the hill.","Einige einfache Spielzeuge, drücken sie hinunter den Hügel.","Sommige eenvoudige playthings, duwen hen onderaan de heuvel.","Quelques jouets simples, les poussent en bas de la colline.","Μερικά απλά playthings, τους ωθούν κάτω από το λόφο.","Alcuni playthings semplici, le spingono giù la collina.","Alguns playthings simples, empurram-nos abaixo o monte.","Некоторые просто playthings, нажимают их вниз с холма.","Algunos playthings simples, las empujan abajo de la colina."
+"Autodump of new strings",,,,,,,,,,
+,,"Quad Idle","Viererkabel-Leerlauf","Nutteloos quad","Ralenti De Quadruple","Τετράγωνο μη απασχόλησης","Idle Del Quad","Idle Do Quad","Idle Квада","Marcha lenta Del Cuadrángulo"
+"Autodump of new strings",,,,,,,,,,
+,,"Quad Walk","Viererkabel-Weg","Quad Gang","Promenade De Quadruple","Περίπατος τετραγώνων","Camminata Del Quad","Caminhada Do Quad","Прогулка Квада","Caminata Del Cuadrángulo"
+"Autodump of new strings",,,,,,,,,,
+,,"Quad Run","Viererkabel-Durchlauf","Quad Looppas","Course De Quadruple","Τρέξιμο τετραγώνων","Funzionamento Del Quad","Funcionamento Do Quad","Бег Квада","Funcionamiento Del Cuadrángulo"
+"Autodump of new strings",,,,,,,,,,
+,,"1024x768","1024x768","1024x768","1024x768","1024x768","1024x768","1024x768","1024x768","1024x768"
+,,"800x600","800x600","800x600","800x600","800x600","800x600","800x600","800x600","800x600"
+"Autodump of new strings",,,,,,,,,,
+,,"Fullscreen","Fullscreen","Fullscreen","Fullscreen","Fullscreen","Fullscreen","Fullscreen","Fullscreen","Fullscreen"
+,,"Window normal","Fenster Normal","Normaal venster","Normale de fenêtre","Παράθυρο κανονικό","Normale della finestra","Normal da janela","Нормальный окна","Ventana normal"
+,,"Window maximised","Fenster maximiert","Gemaximaliseerd venster","La fenêtre a maximisé","Παράθυρο που μεγιστοποιείται","Finestra elevata","Janela maximised","Окно увеличило","Ventana maximizada"
+"Autodump of new strings",,,,,,,,,,
+,,"1600x1200","1600x1200","1600x1200","1600x1200","1600x1200","1600x1200","1600x1200","1600x1200","1600x1200"
+,,"1280x960","1280x960","1280x960","1280x960","1280x960","1280x960","1280x960","1280x960","1280x960"
+"Autodump of new strings",,,,,,,,,,
+"@local/lua/menu.lua",,"Effects volume",,,,,,,,
+"@local/lua/menu.lua",,25%,,,,,,,,
+"@local/lua/menu.lua",,"Edit Avatars",,,,,,,,
+"@local/lua/menu.lua",,"A Gentle Slope.",,,,,,,,
+"@local/lua/menu.lua",,"A Simple Push.",,,,,,,,
+"@local/lua/menu.lua",,75%,,,,,,,,
+"@local/lua/menu.lua",,"Part 2 : Introducing the art of pushing.",,,,,,,,
+"@local/lua/menu.lua",,"Visual",,,,,,,,
+"@local/lua/menu.lua",,"The Forgiven Hump.",,,,,,,,
+"@local/lua/menu.lua",,"Audio",,,,,,,,
+"@local/lua/menu.lua",,"The Time of the Month.",,,,,,,,
+"@local/lua/menu.lua",,"Music volume",,,,,,,,
+"@local/lua/menu.lua",,"The Square Peg.",,,,,,,,
+"@local/lua/menu.lua",,"Debug ON",,,,,,,,
+"@local/lua/menu.lua",,"Change Options",,,,,,,,
+"@local/lua/menu.lua",,"Test Water",,,,,,,,
+"@local/lua/menu.lua",,"Simpler than it looks.",,,,,,,,
+"@local/lua/menu.lua",,"A Question of Timing.",,,,,,,,
+"@local/lua/menu.lua",,"Startup settings.",,,,,,,,
+"@local/lua/menu.lua",,"Part 1 : Introducing the amazing maze.",,,,,,,,
+"@local/lua/menu.lua",,50%,,,,,,,,
+"@local/lua/menu.lua",,"A Simple Valley.",,,,,,,,
+"@local/lua/menu.lua",,"Choose Language",,,,,,,,
+"@local/lua/menu.lua",,"Debug",,,,,,,,
+"@local/lua/menu.lua",,"The First Threesum.",,,,,,,,
+"@local/lua/menu.lua",,"The Prologue.",,,,,,,,
+"@local/lua/menu.lua",,"Play Amaze",,,,,,,,
+"@local/lua/menu.lua",,"Quit to menu",,,,,,,,
+"@local/lua/menu.lua",,"A Spaced Invader.",,,,,,,,
+"@local/lua/menu.lua",,100%,,,,,,,,
+"@local/lua/menu.lua",,"Select level from basic set.",,,,,,,,
+"@local/lua/menu.lua",,"Debug OFF",,,,,,,,
+"@local/lua/menu.lua",,"Off",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/lua/wavyedit.lua",,"Get Up",,,,,,,,
+"@local/lua/wavyedit.lua",,"Push",,,,,,,,
+"@local/lua/wavyedit.lua",,"zoom",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/lua/menu.lua",,"You may need to restart for this to take full effect.",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/amaze/amaze.lua",,"Villian!",,,,,,,,
+"@local/structor/structor.lua",,"Edit.",,,,,,,,
+"@local/amaze/amaze.lua",,"Rapscallion!",,,,,,,,
+"@local/amaze/amaze.lua",,"Wait!",,,,,,,,
+"@local/structor/basic/levels.lua",,"Test.",,,,,,,,
+"@local/amaze/amaze.lua",,"Abstain!",,,,,,,,
+"@local/structor/structor.lua",,"Start.",,,,,,,,
+"@local/structor/structor.lua",,"Reset.",,,,,,,,
+"@local/amaze/amaze.lua",,"Thief!",,,,,,,,
+"@local/amaze/amaze.lua",,"Stop!",,,,,,,,
+"@local/amaze/amaze.lua",,"Halt!",,,,,,,,
+"@local/amaze/amaze.lua",,"Bounder!",,,,,,,,
+"@local/amaze/amaze.lua",,"Desist!",,,,,,,,
+"@local/amaze/amaze.lua",,"Stay!",,,,,,,,
+"@local/amaze/amaze.lua",,"Vagabond!",,,,,,,,
+"@local/amaze/amaze.lua",,"Rotter!",,,,,,,,
+"@local/amaze/amaze.lua",,"Cease!",,,,,,,,
+"@local/amaze/amaze.lua",,"Cad!",,,,,,,,
+"@local/amaze/amaze.lua",,"Pilferer!",,,,,,,,
+"@local/structor/structor.lua",,"Main tool box.",,,,,,,,
+"@local/amaze/amaze.lua",,"Freeze!",,,,,,,,
+"@local/amaze/amaze.lua",,"Gadzooks!",,,,,,,,
+"@local/amaze/basic/levels.lua",,"To easy? Well it wasn't much of a puzzle, more of a test for brain activity.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Now I know you are not going to belive this and will probably consider it nothing more than a cheap trick to get you into a position where I can take advantage of you.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"But it turns out our princess is in another castle.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"You should really try not to cover up anything you want to collect.",,,,,,,,
+"@local/amaze/amaze.lua",,"Scallywag!",,,,,,,,
+"@local/amaze/amaze.lua",,"Scoundrel!",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Behold",,,,,,,,
+"@local/amaze/amaze.lua",,"Scamp!",,,,,,,,
+"@local/structor/structor.lua",,"Stop.",,,,,,,,
+"@local/amaze/amaze.lua",,"Heel! Bitch!",,,,,,,,
+"@local/amaze/amaze.lua",,"Resistence is useless!",,,,,,,,
+"@local/amaze/amaze.lua",,"Hold!",,,,,,,,
+"@local/amaze/amaze.lua",,"Forsooth!",,,,,,,,
+"@local/amaze/amaze.lua",,"Varlet!",,,,,,,,
+"@local/amaze/amaze.lua",,"Filcher!",,,,,,,,
+"@local/amaze/amaze.lua",,"Blighter!",,,,,,,,
+"@local/amaze/basic/levels.lua",,"The best tactic is simply to start by trapping the antagonists..",,,,,,,,
+"@local/structor/structor.lua",,"Play.",,,,,,,,
+"@local/structor/structor.lua",,"Edit tool box.",,,,,,,,
+"@local/amaze/amaze.lua",,"Purloiner!",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/structor/structor.lua",,"Click mode...",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/structor/structor.lua",,"None.",,,,,,,,
+"@local/structor/structor.lua",,"Move.",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/structor/structor.lua",,"Off.",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/amaze/basic/levels.lua",,"Again, just don't cover anything up and you will be fine.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Some simple toys, push them down the hill.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"TopTip: The avatar editor can be used to customize your player character, simply save a wavy avatar soul with the default name of 'me', for it to be used here.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Congratulations, now for something even simpler.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"OK, this one might be slightly hard, not impossible, but not easy.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Congratulations, I bet that took a few trys.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Well done, now let's go play with some toys.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Remember the antagonists are dumb, controlable and predictable.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Press Escape for restart option if you get stuck.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"Just keep trying till you out smart them.",,,,,,,,
+"@local/amaze/basic/levels.lua",,"See, told you it was simple.",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/lua/menu.lua",,"Scores.",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/lua/menu.lua",,"Scores for level _LEVEL_",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/lua/menu.lua",,"Time.",,,,,,,,
+"@local/lua/menu.lua",,"When.",,,,,,,,
+"@local/lua/menu.lua",,"Rank.",,,,,,,,
+"@local/lua/menu.lua",,"Name.",,,,,,,,
+"@local/lua/menu.lua",,"Scores for level _LEVEL_.",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"@local/lua/menu.lua",,"View.",,,,,,,,
+"Autodump of new strings",,,,,,,,,,
+"Autodump of new strings"
+"@local/lua/menu.lua(431)",,"Back."
+"@local/lua/menu.lua(439)",,"Next."
+"Autodump of new strings"
+"@local/amaze/basic/levels.lua(260)",,"Not as hard as it looks."
+"Autodump of new strings"
+"@local/lua/wavyedit.lua(826)",,"Test"
+"Autodump of new strings"
+"@local/structor/structor.lua(111)",,"Select Brush."
+"Autodump of new strings"
+"@local/structor/structor.lua(330)",,"Select brush."
+"Autodump of new strings"
+"@local/structor/structor.lua(347)",,""
+"Autodump of new strings"
+"@local/structor/structor.lua(111)",,"Edit Brush."
+"Autodump of new strings"
+"@local/structor/structor.lua(112)",,"Edit Map."
+"Autodump of new strings"
+"@local/structor/structor.lua(280)",,"Brush edit tool box."
+"@local/structor/structor.lua(265)",,"Map edit tool box."
+"Autodump of new strings"
+"@local/lua/wavyedit.lua(310)",,"Extra"
+"Autodump of new strings"
+"@lua/structor/structor.lua(207)",,"Select."
+"Autodump of new strings"
+"@lua/structor/structor.lua(119)",,"Edit Links."
+"@lua/structor/structor.lua(120)",,"Add Brush."
+"Autodump of new strings"
+"@lua/structor/structor.lua(120)",,"Add Item."
+"Autodump of new strings"
+"@lua/structor/structor.lua(123)",,"Add Zone."
+"@lua/structor/structor.lua(361)",,"Map add tool box."
+"Autodump of new strings"
+"@lua/structor/structor.lua(123)",,"Add Ball."
+"Autodump of new strings"
+"@lua/wavy/wavyedit.lua(1213)",,"TestRender"
+"Autodump of new strings"
+"@lua/wavy/wavyedit.lua(32)",,"Colors"
+"@lua/wavy/wavyedit.lua(31)",,"Pose"
+"@lua/wavy/wavyedit.lua(30)",,"Parts"
+"Autodump of new strings"
+"@c:\xix\pc\bin\lua/wavy/wavyedit.lua(521)",,"Chest"
+"@c:\xix\pc\bin\lua/wavy/wavyedit.lua(530)",,"Flat"
+"@c:\xix\pc\bin\lua/wavy/wavyedit.lua(548)",,"Thin"
+"@c:\xix\pc\bin\lua/wavy/wavyedit.lua(539)",,"Belly"
+"Autodump of new strings"
+"@c:\xix\pc\bin\lua/wavy/wavyedit.lua(410)",,"Old"
+"Autodump of new strings"
+"@c:\xix\pc\bin\lua/wavy/wavyedit.lua(129)",,"Weight"
+"Autodump of new strings"
+"@C:/wet/pc/bin/lua/wavy/wavyedit.lua(995)",,"Stab"
+"@C:/wet/pc/bin/lua/wavy/wavyedit.lua(994)",,"Swing"
+"Autodump of new strings"
+"@C:/wet/pc/bin/lua/wavy/wavyedit.lua(962)",,"Zee Walk"

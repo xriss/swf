@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<movie version="8" width="640" height="480" framerate="25">
+  <background color="#000000"/>
+
+<library>
+		<clip import="out/brandead.swf"/>
+		<clip import="out/frame1.swf"/>
+</library>
+
+<frame>
+<call object="ASUE2" method="main"/>
+</frame>
+
+<library>
+		<clip import="out/frame2.swf"/>
+</library>
+		
+<frame>
+</frame>
+
+</movie>
+
+

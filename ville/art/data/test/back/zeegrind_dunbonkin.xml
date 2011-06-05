@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><back>
+
+<img src="http://data.wetgenes.com/game/s/ville/test/back/zeegrind_dunbonkin.png" />
+
+<xy
+	x_org="0"
+	y_org="290"
+	
+	x_min="0"
+	y_min="0"
+	
+	x_max="1200"
+	y_max="290"
+/>
+	
+<xyz
+	x_org="0"
+	y_org="0"
+	z_org="0"
+	
+	x_min="0"
+	y_min="-400"
+	z_min="0"
+	
+	x_max="1110"
+	y_max="0"
+	z_max="360"
+/>
+
+<area name="entrance">
+<xyz
+	x_min="0"
+	y_min="0"
+	z_min="0"
+	
+	x_max="1110"
+	y_max="0"
+	z_max="360"
+/>
+</area>
+
+
+
+</back></ville>

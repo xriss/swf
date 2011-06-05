@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie width="468" height="60" framerate="25">
+  <background color="#000080"/>
+
+	<library>
+
+#require("src/LinksData")
+
+#for i,v in ipairs(LinksData) do
+
+		  <clip id="#(v.img1)" import="#(v.img2)"/>
+
+#end
+
+	</library>
+	
+	
+#include "../wetsrc/art/preloader.xml"
+	
+
+	<frame>
+	</frame>
+	
+</movie>
+
+

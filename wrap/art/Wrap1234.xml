@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+<movie version="8" width="800" height="600" framerate="25">
+
+<FileAttributes hasMetaData="0" useNetwork="network" />
+
+  <background color="#000080"/>
+
+	<frame>
+	</frame>
+
+</movie>
+
+

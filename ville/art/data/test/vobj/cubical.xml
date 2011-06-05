@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ville><vobj>
+
+<anim type="static">
+
+<img name="shut,shut_dirt0" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="shut_dirt1" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_dirt1.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="shut_dirt2" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_dirt2.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="shut_dirt3" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_dirt3.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="shut_dirt4" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_dirt4.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="base,open,open_dirt0" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_open.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="open_dirt1" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_open_dirt1.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="open_dirt2" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_open_dirt2.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="open_dirt3" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_open_dirt3.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<img name="open_dirt4" src="http://data.wetgenes.com/game/s/ville/test/vobj/cubical_open_dirt4.png">
+<xy
+	x_off="0"
+	y_off="-110"
+	
+	x_siz="110"
+	y_siz="110"
+/>
+</img>
+
+<xy
+	x_min="0"
+	y_min="-80"
+
+	x_max="80"
+	y_max="0"
+/>
+
+</anim>
+
+<xyz
+	x_off="0"
+	y_off="0"
+	z_off="0"
+	
+	x_siz="80"
+	y_siz="-80"
+	z_siz="80"
+/>
+
+<brain type="toilet">
+</brain>
+
+</vobj></ville>

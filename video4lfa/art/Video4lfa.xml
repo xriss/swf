@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+	
+#include "src/opts.as"
+
+<movie version="8" width="800" height="400" framerate="25">
+  <background color="#0000ff"/>
+
+#include "../wetsrc/art/preloader.xml"
+
+ 
+	<library>
+		
+		<clip id="v002" import="art/vid/v002.swf" />
+		
+	</library>
+		
+	<frame>
+	</frame>
+
+</movie>
+
+
