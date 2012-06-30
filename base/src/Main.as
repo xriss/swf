@@ -109,7 +109,8 @@ class #(MAINCLASS)
 		_root.signals=new BetaSignals(_root.main);
 		_root.comms=new BetaComms(_root.main);
 		
-		_root.wetplay=new WetPlayIcon();
+
+//		_root.wetplay=new WetPlayIcon();
 		
 		_root.main.fast_update=false;
 
