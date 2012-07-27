@@ -195,11 +195,11 @@ class #(CLASSNAME)
 	}
 	
 // create smover movement?
-	function onMouseMove()
-	{
+//	function onMouseMove()
+//	{
 //		_root.main.update();
 //		updateAfterEvent();
-	}
+//	}
 	
 	function onMouseDown()
 	{

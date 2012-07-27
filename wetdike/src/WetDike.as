@@ -126,11 +126,14 @@ class WetDike
 		_root.signals=new BetaSignals(_root.wetdike);
 		_root.comms=new BetaComms(_root.wetdike);
 		
+		_root.scale="fixed";
+		
+
 		_root.onEnterFrame=function()
 		{
 			_root.wetdike.update();
 		}
-		
+
 
 	}
 
