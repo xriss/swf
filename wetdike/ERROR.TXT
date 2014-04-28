@@ -1,0 +1,18 @@
+..\..\..\xpp\code\lua_xpp.cpp(209) : Fri Feb 12 23:09:18 2010 ****ERROR**** bake.lua:2: module 'apps' not found:
+	no field package.preload['apps']
+	no file 'c:/Users/Kriss/swf/wetdike/lua/apps.lua'
+	no file '.\apps.lua'
+	no file 'c:\Users\Kriss\swf\bin\lua\apps.lua'
+	no file 'c:\Users\Kriss\swf\bin\lua\apps\init.lua'
+	no file 'c:\Users\Kriss\swf\bin\apps.lua'
+	no file 'c:\Users\Kriss\swf\bin\apps\init.lua'
+	no file '.\lua\apps.lua'
+	no file '.\apps.dll'
+	no file 'c:\Users\Kriss\swf\bin\apps.dll'
+	no file 'c:\Users\Kriss\swf\bin\loadall.dll'
+	no file '.\lua\apps.dll'
+	no file 'c:\Users\Kriss\swf\bin\lua\apps.dll'
+stack traceback:
+	[C]: in function 'require'
+	bake.lua:2: in main chunk
+	[C]: ?
