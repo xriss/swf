@@ -1,15 +1,7 @@
-#!../../bin/exe/lua
-require("apps").default_paths()
+#!../bin/XPP
 
-local bake_swf=require("wetgenes.bake.swf")
 
-local opts={
+swf_name="WetDike"
 
-	swf_name="WetDike"
-
-}
-
-opts.arg={...}
-
-bake_swf.build(opts)
+dofile '../base/bake.lua'
 

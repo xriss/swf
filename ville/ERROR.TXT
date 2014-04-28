@@ -9,3 +9,14 @@ stack traceback:
 	[C]: in function 'dofile'
 	bake.lua:6: in main chunk
 	[C]: ?
+..\..\..\xpp\code\lua_xpp.cpp(209) : Fri Feb 12 23:09:18 2010 ****ERROR**** C:\Users\Kriss\swf\bin\lua\pp.lua:266: art/urlmap.lua:350: attempt to index local 'fp' (a nil value)
+.
+.
+
+stack traceback:
+	[C]: in function 'assert'
+	C:\Users\Kriss\swf\bin\lua\pp.lua:266: in function 'loadsave'
+	../base/bake.lua:147: in main chunk
+	[C]: in function 'dofile'
+	bake.lua:6: in main chunk
+	[C]: ?
