@@ -47,11 +47,11 @@ class Island
 			_root[a]=b;
 		}
 		
-		orset_root("host","adventisland.wetgenes.com");
+		orset_root("host","swf.wetgenes.com");
 		
 // overide only basic wetplay settings
 //		orset_root("wp_vol",0);
-		orset_root("wp_xspf","http://adventisland.wetgenes.com/swf/AdventIsland.xspf");
+		orset_root("wp_xspf","http://swf.wetgenes.com/swf/AdventIsland.xspf");
 		orset_root("wp_shuffle",1);
 		orset_root("wp_back",0xff000000);
 		orset_root("wp_fore",0xffffffff);

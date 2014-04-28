@@ -82,9 +82,9 @@ class ASUE2
 		{
 			if(_root[a]==undefined) { _root[a]=b; }
 		}
-		orset_root("host","asue2.wetgenes.com");
+		orset_root("host","swf.wetgenes.com");
 		orset_root("wp_back","0xcc000000");
-		orset_root("wp_xspf","http://asue2.wetgenes.com/swf/ASUE2.xspf");
+		orset_root("wp_xspf","http://swf.wetgenes.com/swf/ASUE2.xspf");
 		
 //		_root.gofaster=1; // default anim speed multiplier
 			

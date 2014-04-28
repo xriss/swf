@@ -42,9 +42,9 @@ class RomZom
 		{
 			if(_root[a]==undefined) { _root[a]=b; }
 		}
-		orset_root("host","romzom.wetgenes.com");
+		orset_root("host","swf.wetgenes.com");
 		orset_root("wp_back","0xcc000000");
-		orset_root("wp_xspf","http://romzom.wetgenes.com/swf/RomZom.xspf");
+		orset_root("wp_xspf","http://swf.wetgenes.com/swf/RomZom.xspf");
 		
 		_root.gofaster=1; // default anim speed multiplier
 			

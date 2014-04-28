@@ -657,19 +657,6 @@ var high_id=0;
 		if(state=="mochi")
 		{
 		
-#if VERSION_MOCHISCORES then
-
-			if(!do_mochi)
-			{
-				do_mochi=true;
-				mochi.MochiScores.showLeaderboard({res:"540x450",onClose:delegate(mochi_close)});
-				mc_res._visible=false;
-//				mc_top._visible=false;
-				mc_topunder._visible=false;
-				mc_topsub._visible=false;
-				_root.poker.ShowFloat(null,0);
-			}
-#end
 		}
 		else
 		if(state=="results")

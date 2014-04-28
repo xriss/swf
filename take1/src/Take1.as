@@ -47,9 +47,9 @@ class #(VERSION_NAME)
 		{
 			if(_root[a]==undefined) { _root[a]=b; }
 		}
-		orset_root("host","take1.wetgenes.com");
+		orset_root("host","swf.wetgenes.com");
 		orset_root("wp_back","0xcc000000");
-		orset_root("wp_xspf","http://#(VERSION_NAME).wetgenes.com/swf/#(VERSION_NAME).xspf");
+		orset_root("wp_xspf","http://swf.wetgenes.com/swf/#(VERSION_NAME).xspf");
 					
 		if( System.capabilities.version.split(" ")[0]=="WII" ) // set some defaults when run on the wii
 		{

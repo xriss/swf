@@ -59,9 +59,9 @@ class WetDiamonds
 		{
 			if(_root[a]==undefined) { _root[a]=b; }
 		}
-		orset_root("host","diamonds.wetgenes.com");
+		orset_root("host","swf.wetgenes.com");
 		orset_root("wp_back","0xcc000000");
-		orset_root("wp_xspf","http://diamonds.wetgenes.com/swf/WetDiamonds.xspf");
+		orset_root("wp_xspf","http://swf.wetgenes.com/swf/WetDiamonds.xspf");
 
 		_root.gotoAndStop(1); // frame 1 is preload, frame 2 is everything loaded
 		

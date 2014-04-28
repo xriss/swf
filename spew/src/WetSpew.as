@@ -32,7 +32,7 @@ class #(VERSION_NAME)
 		{
 			if(_root[a]==undefined) { _root[a]=b; }
 		}
-		orset_root("host","chat.wetgenes.com");
+		orset_root("host","swf.wetgenes.com");
 
 		_root.gotoAndStop(1); // frame 1 is preload, frame 2 is everything loaded
 		

@@ -48,9 +48,9 @@ class GojiRama
 		{
 			if(_root[a]==undefined) { _root[a]=b; }
 		}
-		orset_root("host","gojirama.wetgenes.com");
+		orset_root("host","swf.wetgenes.com");
 		orset_root("wp_back","0xcc000000");
-		orset_root("wp_xspf","http://gojirama.wetgenes.com/swf/GojiRama.xspf");
+		orset_root("wp_xspf","http://swf.wetgenes.com/swf/GojiRama.xspf");
 
 		_root.gotoAndStop(1); // frame 1 is preload, frame 2 is everything loaded
 

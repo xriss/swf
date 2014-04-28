@@ -163,7 +163,7 @@ class WTF
 		
 #if VERSION_MOCHIBOT then
 
-		__com_mochibot__("#(VERSION_MOCHIBOT)", _root, 10301);
+//		__com_mochibot__("#(VERSION_MOCHIBOT)", _root, 10301);
 
 #end
 

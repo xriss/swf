@@ -77,10 +77,10 @@ class WetDike
 		orset_root("wp_shuffle",1);
 		orset_root("wp_back",0x00000000);
 
-		orset_root("host","wetdike.wetgenes.com");
+		orset_root("host","swf.wetgenes.com");
 		System.security.allowDomain(_root.host);
 		
-		System.security.allowDomain("wetdike.wetgenes.com");
+//		System.security.allowDomain("wetdike.wetgenes.com");
 		System.security.allowDomain("swf.wetgenes.com");
 		System.security.allowDomain("www.wetgenes.com");
 		System.security.allowDomain("www.wetgenes.local");
