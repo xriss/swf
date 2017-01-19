@@ -113,8 +113,14 @@ class WetSpewSock
 	
 //		sock.connect("toosh", 5223);
 
-		sock.connect("spew.wetgenes.com", 5223); // force chat host
-		
+		if(_root.host=="swf.wetgenes.local") // allow local server test, or internet disable
+		{
+			sock.connect("spew.wetgenes.local", 5223); // local test
+		}
+		else
+		{
+			sock.connect("spew.wetgenes.com", 5223); // force chat host
+		}
 	}
 	
 	var msg;
